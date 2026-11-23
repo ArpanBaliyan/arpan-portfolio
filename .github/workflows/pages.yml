@@ -19,8 +19,8 @@ jobs:
       - name: Build the portfolio workspace edition
         run: |
           archive="$RUNNER_TEMP/portfolio-workspace-source.zip"
-          tr -d '\r' < portfolio-v2-source.b64 | base64 --decode > "$archive"
-          echo '163cecaaeab049ae74c38b047ad50537be6fecb125bd66d9d2e233909825f917  '"$archive" | sha256sum -c -
+          tr -d '\r' < portfolio-v3-source.b64 | base64 --decode > "$archive"
+          echo 'c061d7f2b4cabd55fcf185cc59858e0bdad1de5807146f79845cb04a6d3872c5  '"$archive" | sha256sum -c -
           unzip -oq "$archive"
           python3 tools/build_studio_data.py
           python3 tools/build_studio_pages.py
