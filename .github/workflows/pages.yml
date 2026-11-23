@@ -18,6 +18,46 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Build the portfolio workspace edition
+        run: |
+          archive="$RUNNER_TEMP/portfolio-workspace-source.zip"
+          tr -d '\r' < portfolio-v2-source.b64 | base64 --decode > "$archive"
+          echo '163cecaaeab049ae74c38b047ad50537be6fecb125bd66d9d2e233909825f917  '"$archive" | sha256sum -c -
+          unzip -oq "$archive"
+          python3 tools/build_studio_data.py
+          python3 tools/build_studio_pages.py
+      - name: Check published files
+        run: python3 tools/check_site.py
+      - uses: actions/configure-pages@v5
+      - name: Prepare the public site
+        run: python3 tools/package_site.py
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public-site
+      - uses: actions/deploy-pages@v4
+        id: deployment
+name: Publish portfolio
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: portfolio-pages
+  cancel-in-progress: true
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
       - name: Check published files
         run: python3 tools/check_site.py
       - uses: actions/configure-pages@v5
