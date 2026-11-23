@@ -1,0 +1,44 @@
+name: Publish portfolio
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: portfolio-pages
+  cancel-in-progress: true
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Import portfolio source
+        run: |
+          if [ -f portfolio-part-01.b64 ]; then
+            cat portfolio-part-*.b64 | tr -d '\r' | base64 --decode > portfolio-source.zip
+            echo '8f14066017a1b500f4adf941347367c108517f90a285a4180964ec7c68694f0f  portfolio-source.zip' | sha256sum -c -
+            unzip -q portfolio-source.zip
+            git rm portfolio-part-*.b64
+            rm portfolio-source.zip
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add --all
+            git commit -m 'Import portfolio source and case studies'
+            git push origin HEAD:main
+          fi
+      - name: Check published files
+        run: python3 tools/check_site.py
+      - uses: actions/configure-pages@v5
+      - name: Prepare the public site
+        run: python3 tools/package_site.py
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public-site
+      - uses: actions/deploy-pages@v4
+        id: deployment
