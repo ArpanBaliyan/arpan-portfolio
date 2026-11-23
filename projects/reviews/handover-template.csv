@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,Activity,Attempts within the same period,"Agree a specific action, the support needed and the date to review the evidence. Keep the review focused on work that the colleague can influence.",Discuss workload and account mix before interpreting the number.,Team owner,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation

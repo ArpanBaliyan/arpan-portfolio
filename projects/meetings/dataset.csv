@@ -1,0 +1,73 @@
+﻿action_id,meeting,topic,decision,owner,due_date,status,priority,priority_points
+MT-0001,Monthly management review,Broken promises,Review contact and promise evidence before escalation.,Returns,2026-10-26,Open,High,1
+MT-0002,Team coaching,Delayed refunds,Approve a daily refund exception review.,Returns,2026-10-21,Blocked,Low,3
+MT-0003,Client account review,Contact data quality,Verify missing AP contacts this week.,Dispatch,2026-11-03,In progress,High,3
+MT-0004,Weekly operations review,Delayed refunds,Approve a daily refund exception review.,Sales,2026-10-21,Done,Medium,1
+MT-0005,Client account review,New colleague ramp,Add supervised practice on return checks.,Sales,2026-11-10,Blocked,High,1
+MT-0006,Weekly operations review,Client reconciliation,Use one consolidated branch statement.,Client desk,2026-11-06,Open,High,3
+MT-0007,Weekly operations review,Client reconciliation,Use one consolidated branch statement.,Client desk,2026-11-08,In progress,High,3
+MT-0008,Team coaching,Branch expansion,Complete discovery before issuing a proposal.,Dispatch,2026-10-21,Open,High,1
+MT-0009,Team coaching,Broken promises,Review contact and promise evidence before escalation.,Yard team,2026-10-22,Open,Low,2
+MT-0010,Weekly operations review,Client reconciliation,Use one consolidated branch statement.,Sales,2026-10-24,In progress,Low,1
+MT-0011,Team coaching,Delayed refunds,Approve a daily refund exception review.,Yard team,2026-10-30,Done,Low,1
+MT-0012,Team coaching,Branch expansion,Complete discovery before issuing a proposal.,Dispatch,2026-10-24,In progress,High,1
+MT-0013,Weekly operations review,Branch expansion,Complete discovery before issuing a proposal.,Returns,2026-11-02,Blocked,Medium,1
+MT-0014,Team coaching,Broken promises,Review contact and promise evidence before escalation.,Cash application,2026-11-07,In progress,Medium,2
+MT-0015,Team coaching,Client reconciliation,Use one consolidated branch statement.,Cash application,2026-10-30,In progress,High,2
+MT-0016,Weekly operations review,Client reconciliation,Use one consolidated branch statement.,Cash application,2026-10-21,Done,Low,3
+MT-0017,Client account review,New colleague ramp,Add supervised practice on return checks.,Returns,2026-11-13,Open,Medium,1
+MT-0018,Client account review,Broken promises,Review contact and promise evidence before escalation.,Yard team,2026-10-21,In progress,High,2
+MT-0019,Client account review,New colleague ramp,Add supervised practice on return checks.,Yard team,2026-10-24,In progress,High,1
+MT-0020,Client account review,Branch expansion,Complete discovery before issuing a proposal.,Sales,2026-11-11,In progress,Low,2
+MT-0021,Team coaching,Client reconciliation,Use one consolidated branch statement.,Sales,2026-10-21,Done,High,1
+MT-0022,Client account review,Client reconciliation,Use one consolidated branch statement.,Cash application,2026-10-25,Done,High,3
+MT-0023,Team coaching,Broken promises,Review contact and promise evidence before escalation.,Returns,2026-11-08,Blocked,High,1
+MT-0024,Monthly management review,Client reconciliation,Use one consolidated branch statement.,Yard team,2026-10-23,Blocked,Low,2
+MT-0025,Monthly management review,Branch expansion,Complete discovery before issuing a proposal.,Sales,2026-10-31,In progress,High,2
+MT-0026,Client account review,Client reconciliation,Use one consolidated branch statement.,Sales,2026-10-27,Done,High,3
+MT-0027,Monthly management review,Branch expansion,Complete discovery before issuing a proposal.,Sales,2026-11-06,Blocked,Low,2
+MT-0028,Weekly operations review,Branch expansion,Complete discovery before issuing a proposal.,Dispatch,2026-11-08,In progress,Low,1
+MT-0029,Weekly operations review,Client reconciliation,Use one consolidated branch statement.,Cash application,2026-10-21,In progress,Low,2
+MT-0030,Client account review,Contact data quality,Verify missing AP contacts this week.,Cash application,2026-10-24,Blocked,Low,1
+MT-0031,Client account review,Contact data quality,Verify missing AP contacts this week.,Client desk,2026-10-23,Blocked,Medium,2
+MT-0032,Client account review,Delayed refunds,Approve a daily refund exception review.,Sales,2026-11-04,Open,Low,3
+MT-0033,Team coaching,New colleague ramp,Add supervised practice on return checks.,Cash application,2026-11-06,In progress,Low,2
+MT-0034,Monthly management review,Contact data quality,Verify missing AP contacts this week.,Client desk,2026-10-26,Blocked,Low,1
+MT-0035,Weekly operations review,Broken promises,Review contact and promise evidence before escalation.,Returns,2026-10-30,Open,Medium,2
+MT-0036,Team coaching,New colleague ramp,Add supervised practice on return checks.,Yard team,2026-11-02,Done,Medium,2
+MT-0037,Client account review,Client reconciliation,Use one consolidated branch statement.,Sales,2026-10-29,Open,Low,3
+MT-0038,Client account review,Client reconciliation,Use one consolidated branch statement.,Sales,2026-10-30,Blocked,Medium,1
+MT-0039,Weekly operations review,Contact data quality,Verify missing AP contacts this week.,Client desk,2026-10-31,In progress,Low,2
+MT-0040,Team coaching,Delayed refunds,Approve a daily refund exception review.,Client desk,2026-10-21,Open,Low,1
+MT-0041,Client account review,Branch expansion,Complete discovery before issuing a proposal.,Returns,2026-11-10,Blocked,Low,1
+MT-0042,Monthly management review,Delayed refunds,Approve a daily refund exception review.,Sales,2026-10-22,In progress,Low,1
+MT-0043,Team coaching,Broken promises,Review contact and promise evidence before escalation.,Cash application,2026-11-05,Blocked,High,2
+MT-0044,Team coaching,Branch expansion,Complete discovery before issuing a proposal.,Sales,2026-11-06,Blocked,High,3
+MT-0045,Team coaching,New colleague ramp,Add supervised practice on return checks.,Returns,2026-10-30,Blocked,High,1
+MT-0046,Monthly management review,Delayed refunds,Approve a daily refund exception review.,Cash application,2026-10-30,Blocked,Medium,1
+MT-0047,Client account review,New colleague ramp,Add supervised practice on return checks.,Sales,2026-11-01,In progress,Low,2
+MT-0048,Team coaching,Client reconciliation,Use one consolidated branch statement.,Cash application,2026-10-27,Done,Low,3
+MT-0049,Weekly operations review,Branch expansion,Complete discovery before issuing a proposal.,Returns,2026-11-05,Blocked,Medium,3
+MT-0050,Weekly operations review,Contact data quality,Verify missing AP contacts this week.,Dispatch,2026-11-02,Done,Medium,3
+MT-0051,Client account review,Contact data quality,Verify missing AP contacts this week.,Dispatch,2026-10-29,Open,Medium,3
+MT-0052,Monthly management review,New colleague ramp,Add supervised practice on return checks.,Returns,2026-10-21,Blocked,Low,1
+MT-0053,Team coaching,Client reconciliation,Use one consolidated branch statement.,Cash application,2026-10-27,In progress,High,3
+MT-0054,Client account review,Broken promises,Review contact and promise evidence before escalation.,Sales,2026-11-11,Blocked,Medium,1
+MT-0055,Client account review,Client reconciliation,Use one consolidated branch statement.,Sales,2026-11-13,Done,High,3
+MT-0056,Team coaching,New colleague ramp,Add supervised practice on return checks.,Sales,2026-11-07,Open,High,1
+MT-0057,Team coaching,Client reconciliation,Use one consolidated branch statement.,Returns,2026-11-01,In progress,Medium,2
+MT-0058,Weekly operations review,New colleague ramp,Add supervised practice on return checks.,Returns,2026-10-25,Blocked,Low,1
+MT-0059,Weekly operations review,Broken promises,Review contact and promise evidence before escalation.,Cash application,2026-11-10,In progress,High,2
+MT-0060,Monthly management review,Broken promises,Review contact and promise evidence before escalation.,Yard team,2026-11-03,In progress,High,2
+MT-0061,Team coaching,Broken promises,Review contact and promise evidence before escalation.,Dispatch,2026-11-03,Done,High,2
+MT-0062,Team coaching,Delayed refunds,Approve a daily refund exception review.,Dispatch,2026-11-03,Done,High,2
+MT-0063,Client account review,Client reconciliation,Use one consolidated branch statement.,Returns,2026-11-08,Open,High,3
+MT-0064,Weekly operations review,Contact data quality,Verify missing AP contacts this week.,Sales,2026-11-12,Blocked,Low,3
+MT-0065,Client account review,Broken promises,Review contact and promise evidence before escalation.,Returns,2026-10-26,Done,High,2
+MT-0066,Team coaching,Broken promises,Review contact and promise evidence before escalation.,Returns,2026-11-07,Blocked,Medium,3
+MT-0067,Client account review,Client reconciliation,Use one consolidated branch statement.,Cash application,2026-10-21,Blocked,High,3
+MT-0068,Monthly management review,Broken promises,Review contact and promise evidence before escalation.,Cash application,2026-11-05,Open,Low,3
+MT-0069,Team coaching,New colleague ramp,Add supervised practice on return checks.,Yard team,2026-10-25,Blocked,High,1
+MT-0070,Client account review,Contact data quality,Verify missing AP contacts this week.,Client desk,2026-11-11,Open,High,3
+MT-0071,Weekly operations review,Branch expansion,Complete discovery before issuing a proposal.,Cash application,2026-11-10,Blocked,High,1
+MT-0072,Client account review,Branch expansion,Complete discovery before issuing a proposal.,Dispatch,2026-11-09,Done,Low,2

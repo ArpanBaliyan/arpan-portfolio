@@ -1,0 +1,47 @@
+[
+  {
+    "field": "case_id",
+    "type": "TEXT",
+    "definition": "Case id"
+  },
+  {
+    "field": "customer",
+    "type": "TEXT",
+    "definition": "Customer"
+  },
+  {
+    "field": "amount_usd",
+    "type": "REAL",
+    "definition": "US dollars, illustrative amount"
+  },
+  {
+    "field": "reason",
+    "type": "TEXT",
+    "definition": "Reason"
+  },
+  {
+    "field": "status",
+    "type": "TEXT",
+    "definition": "Status"
+  },
+  {
+    "field": "days_to_deadline",
+    "type": "REAL",
+    "definition": "Days to deadline"
+  },
+  {
+    "field": "root_cause",
+    "type": "TEXT",
+    "definition": "Root cause"
+  },
+  {
+    "field": "owner",
+    "type": "TEXT",
+    "definition": "Owner"
+  },
+  {
+    "field": "evidence_required",
+    "type": "TEXT",
+    "definition": "Evidence required"
+  }
+]

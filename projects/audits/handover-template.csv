@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,Account preparation — 25 points,"Delivery, return, credit and account checks","Use the score to guide coaching, and treat a critical privacy or payment-handling failure as a separate escalation.",Full: complete preparation. Partial: a non-critical gap. Zero: no usable preparation.,Reviewer,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation

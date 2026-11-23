@@ -1,0 +1,42 @@
+[
+  {
+    "field": "audit_id",
+    "type": "TEXT",
+    "definition": "Audit id"
+  },
+  {
+    "field": "agent",
+    "type": "TEXT",
+    "definition": "Agent"
+  },
+  {
+    "field": "sample_type",
+    "type": "TEXT",
+    "definition": "Sample type"
+  },
+  {
+    "field": "score_pct",
+    "type": "REAL",
+    "definition": "Percentage points from 0 to 100"
+  },
+  {
+    "field": "critical_failure",
+    "type": "TEXT",
+    "definition": "Critical failure"
+  },
+  {
+    "field": "finding",
+    "type": "TEXT",
+    "definition": "Finding"
+  },
+  {
+    "field": "owner",
+    "type": "TEXT",
+    "definition": "Owner"
+  },
+  {
+    "field": "status",
+    "type": "TEXT",
+    "definition": "Status"
+  }
+]

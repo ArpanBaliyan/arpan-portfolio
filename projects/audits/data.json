@@ -1,0 +1,1202 @@
+[
+  {
+    "audit_id": "QA-0001",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 87,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0002",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 78,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0003",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 92,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0004",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 80,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0005",
+    "agent": "Jordan Lee",
+    "sample_type": "High exposure",
+    "score_pct": 95,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0006",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 76,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0007",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 68,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0008",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 90,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0009",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 60,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0010",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 72,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0011",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 97,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0012",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 79,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0013",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 65,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0014",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 66,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0015",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 58,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Sam Rivera",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0016",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 96,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0017",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 68,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0018",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 82,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0019",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 78,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0020",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 86,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0021",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 59,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0022",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 95,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0023",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 93,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Jordan Lee",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0024",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 74,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0025",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 80,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0026",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 92,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0027",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 85,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Sam Rivera",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0028",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 67,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0029",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 70,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0030",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 97,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0031",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 66,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0032",
+    "agent": "Jordan Lee",
+    "sample_type": "Escalation",
+    "score_pct": 60,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0033",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 89,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0034",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 65,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0035",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 76,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0036",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 93,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0037",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 80,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0038",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 84,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0039",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 59,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Sam Rivera",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0040",
+    "agent": "Maya Chen",
+    "sample_type": "Escalation",
+    "score_pct": 94,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0041",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 80,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0042",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 68,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0043",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 65,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0044",
+    "agent": "Jordan Lee",
+    "sample_type": "High exposure",
+    "score_pct": 98,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0045",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 90,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0046",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 89,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0047",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 93,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Jordan Lee",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0048",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 69,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0049",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 95,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Maya Chen",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0050",
+    "agent": "Jordan Lee",
+    "sample_type": "Escalation",
+    "score_pct": 75,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0051",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 88,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Sam Rivera",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0052",
+    "agent": "Maya Chen",
+    "sample_type": "Escalation",
+    "score_pct": 70,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0053",
+    "agent": "Jordan Lee",
+    "sample_type": "Escalation",
+    "score_pct": 66,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0054",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 87,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0055",
+    "agent": "Maya Chen",
+    "sample_type": "Escalation",
+    "score_pct": 97,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0056",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 90,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0057",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 76,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0058",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 77,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0059",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 73,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0060",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 97,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0061",
+    "agent": "Maya Chen",
+    "sample_type": "Escalation",
+    "score_pct": 60,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Maya Chen",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0062",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 70,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0063",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 68,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0064",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 59,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0065",
+    "agent": "Jordan Lee",
+    "sample_type": "Escalation",
+    "score_pct": 76,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0066",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 75,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0067",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 78,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0068",
+    "agent": "Jordan Lee",
+    "sample_type": "High exposure",
+    "score_pct": 83,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0069",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 59,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0070",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 91,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Maya Chen",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0071",
+    "agent": "Jordan Lee",
+    "sample_type": "Escalation",
+    "score_pct": 70,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0072",
+    "agent": "Sam Rivera",
+    "sample_type": "Random",
+    "score_pct": 90,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0073",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 92,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0074",
+    "agent": "Jordan Lee",
+    "sample_type": "High exposure",
+    "score_pct": 96,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0075",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 96,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0076",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 68,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0077",
+    "agent": "Jordan Lee",
+    "sample_type": "Escalation",
+    "score_pct": 88,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0078",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 79,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Sam Rivera",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0079",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 75,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0080",
+    "agent": "Jordan Lee",
+    "sample_type": "High exposure",
+    "score_pct": 91,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0081",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 85,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Sam Rivera",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0082",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 79,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0083",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 76,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0084",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 60,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0085",
+    "agent": "Maya Chen",
+    "sample_type": "Escalation",
+    "score_pct": 71,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0086",
+    "agent": "Jordan Lee",
+    "sample_type": "High exposure",
+    "score_pct": 95,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0087",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 70,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0088",
+    "agent": "Maya Chen",
+    "sample_type": "Escalation",
+    "score_pct": 74,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0089",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 87,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0090",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 97,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0091",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 69,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0092",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 82,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0093",
+    "agent": "Sam Rivera",
+    "sample_type": "Random",
+    "score_pct": 79,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0094",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 59,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0095",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 78,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0096",
+    "agent": "Sam Rivera",
+    "sample_type": "Escalation",
+    "score_pct": 78,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0097",
+    "agent": "Maya Chen",
+    "sample_type": "Escalation",
+    "score_pct": 78,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Open"
+  },
+  {
+    "audit_id": "QA-0098",
+    "agent": "Jordan Lee",
+    "sample_type": "High exposure",
+    "score_pct": 88,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0099",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 70,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0100",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 85,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0101",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 91,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0102",
+    "agent": "Sam Rivera",
+    "sample_type": "New colleague",
+    "score_pct": 84,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0103",
+    "agent": "Maya Chen",
+    "sample_type": "New colleague",
+    "score_pct": 64,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Maya Chen",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0104",
+    "agent": "Jordan Lee",
+    "sample_type": "Escalation",
+    "score_pct": 90,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0105",
+    "agent": "Sam Rivera",
+    "sample_type": "Random",
+    "score_pct": 65,
+    "critical_failure": "Yes",
+    "finding": "Sensitive information handling needs immediate review",
+    "owner": "Sam Rivera",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0106",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 66,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Maya Chen",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0107",
+    "agent": "Jordan Lee",
+    "sample_type": "Escalation",
+    "score_pct": 85,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0108",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 96,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0109",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 82,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Maya Chen",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0110",
+    "agent": "Jordan Lee",
+    "sample_type": "High exposure",
+    "score_pct": 60,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0111",
+    "agent": "Sam Rivera",
+    "sample_type": "High exposure",
+    "score_pct": 77,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0112",
+    "agent": "Maya Chen",
+    "sample_type": "High exposure",
+    "score_pct": 89,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0113",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 79,
+    "critical_failure": "No",
+    "finding": "Return check not documented",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0114",
+    "agent": "Sam Rivera",
+    "sample_type": "Random",
+    "score_pct": 58,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0115",
+    "agent": "Maya Chen",
+    "sample_type": "Escalation",
+    "score_pct": 68,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Maya Chen",
+    "status": "Rechecked"
+  },
+  {
+    "audit_id": "QA-0116",
+    "agent": "Jordan Lee",
+    "sample_type": "Random",
+    "score_pct": 75,
+    "critical_failure": "No",
+    "finding": "Clear explanation and accurate next step",
+    "owner": "Jordan Lee",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0117",
+    "agent": "Sam Rivera",
+    "sample_type": "Random",
+    "score_pct": 84,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Sam Rivera",
+    "status": "Coaching booked"
+  },
+  {
+    "audit_id": "QA-0118",
+    "agent": "Maya Chen",
+    "sample_type": "Random",
+    "score_pct": 71,
+    "critical_failure": "No",
+    "finding": "Payment commitment not read back",
+    "owner": "Maya Chen",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0119",
+    "agent": "Jordan Lee",
+    "sample_type": "New colleague",
+    "score_pct": 74,
+    "critical_failure": "No",
+    "finding": "Evidence linked correctly",
+    "owner": "Jordan Lee",
+    "status": "Closed"
+  },
+  {
+    "audit_id": "QA-0120",
+    "agent": "Sam Rivera",
+    "sample_type": "Random",
+    "score_pct": 66,
+    "critical_failure": "No",
+    "finding": "Follow-up date not confirmed",
+    "owner": "Sam Rivera",
+    "status": "Closed"
+  }
+]

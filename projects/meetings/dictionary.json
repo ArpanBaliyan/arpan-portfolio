@@ -1,0 +1,47 @@
+[
+  {
+    "field": "action_id",
+    "type": "TEXT",
+    "definition": "Action id"
+  },
+  {
+    "field": "meeting",
+    "type": "TEXT",
+    "definition": "Meeting"
+  },
+  {
+    "field": "topic",
+    "type": "TEXT",
+    "definition": "Topic"
+  },
+  {
+    "field": "decision",
+    "type": "TEXT",
+    "definition": "Decision"
+  },
+  {
+    "field": "owner",
+    "type": "TEXT",
+    "definition": "Owner"
+  },
+  {
+    "field": "due_date",
+    "type": "TEXT",
+    "definition": "Due date"
+  },
+  {
+    "field": "status",
+    "type": "TEXT",
+    "definition": "Status"
+  },
+  {
+    "field": "priority",
+    "type": "TEXT",
+    "definition": "Priority"
+  },
+  {
+    "field": "priority_points",
+    "type": "REAL",
+    "definition": "Priority points"
+  }
+]

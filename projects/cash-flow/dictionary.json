@@ -1,0 +1,42 @@
+[
+  {
+    "field": "week",
+    "type": "TEXT",
+    "definition": "Week"
+  },
+  {
+    "field": "receipts_usd",
+    "type": "REAL",
+    "definition": "US dollars, illustrative amount"
+  },
+  {
+    "field": "supplier_usd",
+    "type": "REAL",
+    "definition": "US dollars, illustrative amount"
+  },
+  {
+    "field": "payroll_usd",
+    "type": "REAL",
+    "definition": "US dollars, illustrative amount"
+  },
+  {
+    "field": "refunds_usd",
+    "type": "REAL",
+    "definition": "US dollars, illustrative amount"
+  },
+  {
+    "field": "other_usd",
+    "type": "REAL",
+    "definition": "US dollars, illustrative amount"
+  },
+  {
+    "field": "owner",
+    "type": "TEXT",
+    "definition": "Owner"
+  },
+  {
+    "field": "assumption",
+    "type": "TEXT",
+    "definition": "Assumption"
+  }
+]

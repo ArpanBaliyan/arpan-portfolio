@@ -1,0 +1,521 @@
+customer_id,customer_name,yard,segment,terms_days,credit_limit,limit_set_by,limit_set_date,account_opened,card_on_file,broken_promises_90d
+C1000,Kern Collision,Oakland,Body shop,30,500,D. Kim (Yard manager),2018-03-07,2018-02-25,Y,3
+C1001,Highway 99 Body & Paint,Sacramento,Body shop,30,4750,A. Ruiz (Sales),2024-05-20,2021-10-08,N,0
+C1002,Tulare Body & Paint,Sacramento,Body shop,30,750,D. Kim (Yard manager),2016-07-07,2016-07-03,Y,0
+C1003,Cedar Automotive,Sacramento,Repair shop,30,1750,A. Ruiz (Sales),2023-09-06,2019-02-24,N,0
+C1004,Kowalski Auto Body,Oakland,Body shop,30,6500,L. Moreno (AR),2024-03-20,2024-03-17,Y,0
+C1005,Capitol Collision,Sacramento,Body shop,30,,,,2017-05-28,N,0
+C1006,Diamond Automotive,Fresno,Repair shop,30,250,T. Nguyen (Sales),2026-06-24,2018-08-23,N,0
+C1007,Central Automotive,Bakersfield,Repair shop,30,250,R. Shah (Controller),2019-10-02,2019-09-20,Y,0
+C1008,Quality Collision Repair,Oakland,Body shop,30,4000,Not recorded,2017-12-22,2017-12-20,Y,0
+C1009,Garcia Chevrolet Service,Sacramento,Dealer,45,1500,R. Shah (Controller),2022-01-02,2021-12-13,N,0
+C1010,Almond Collision,Sacramento,Body shop,30,500,T. Nguyen (Sales),2025-07-08,2021-10-08,Y,0
+C1011,Summit Body & Paint,Sacramento,Body shop,30,4000,K. Patel (Sales),2020-06-10,2020-05-22,N,0
+C1012,Precision Collision Center,Sacramento,Body shop,30,750,Counter staff,2024-05-23,2024-05-18,Y,0
+C1013,Tran Detailing,Sacramento,Retail / other,15,750,Not recorded,2023-10-21,2023-10-10,N,2
+C1014,Redwood Auto Body,Fresno,Body shop,30,750,K. Patel (Sales),2021-11-14,2021-11-11,N,3
+C1015,Twin Oaks Automotive,Oakland,Repair shop,30,250,L. Moreno (AR),2025-05-19,2025-05-16,Y,0
+C1016,Merced Pre-Owned,Bakersfield,Dealer,45,14000,Not recorded,2019-06-09,2019-05-22,N,0
+C1017,Miller Detailing,Bakersfield,Retail / other,15,2000,A. Ruiz (Sales),2018-07-02,2018-06-27,Y,0
+C1018,Premier Collision,Oakland,Body shop,30,2000,K. Patel (Sales),2026-07-26,2023-02-16,Y,0
+C1019,Fremont Automotive,Bakersfield,Repair shop,30,750,K. Patel (Sales),2022-06-09,2022-06-06,N,1
+C1020,Tulare Auto Care,Oakland,Repair shop,45,250,L. Moreno (AR),2020-07-09,2020-06-24,N,0
+C1021,Eastside Body & Paint,Sacramento,Body shop,30,3000,A. Ruiz (Sales),2026-09-11,2017-07-13,Y,3
+C1022,Bayview Transmission,Oakland,Repair shop,30,250,Not recorded,2016-01-27,2016-01-07,N,0
+C1023,Express Collision,Sacramento,Body shop,45,500,R. Shah (Controller),2026-06-16,2016-09-06,N,1
+C1024,Sutter Auto Care,Oakland,Repair shop,30,3750,L. Moreno (AR),2025-03-14,2025-02-26,N,0
+C1025,Walker Auto Repair,Oakland,Repair shop,30,250,A. Ruiz (Sales),2025-03-11,2016-08-10,Y,1
+C1026,Sierra Collision Repair,Fresno,Body shop,30,1750,A. Ruiz (Sales),2019-03-27,2019-03-23,Y,1
+C1027,Singh Collision,Fresno,Body shop,30,,,,2022-11-13,N,0
+C1028,Golden Garage,Sacramento,Repair shop,30,500,K. Patel (Sales),2026-03-28,2023-08-10,Y,0
+C1029,Merced Auto Group,Bakersfield,Dealer,45,1500,D. Kim (Yard manager),2019-11-11,2019-11-09,N,0
+C1030,Anderson Collision,Fresno,Body shop,45,5000,A. Ruiz (Sales),2026-07-23,2026-07-23,N,0
+C1031,Pioneer Car Care,Sacramento,Repair shop,30,2000,A. Ruiz (Sales),2024-06-24,2016-08-02,N,0
+C1032,United Garage,Oakland,Repair shop,30,500,Not recorded,2024-04-11,2024-04-06,N,2
+C1033,Brooks Auto Care,Sacramento,Repair shop,30,250,T. Nguyen (Sales),2016-03-30,2016-03-12,N,0
+C1034,Oak Collision Repair,Oakland,Body shop,30,3750,Counter staff,2021-08-29,2021-08-10,Y,0
+C1035,Lopez Auto Care,Oakland,Repair shop,30,250,K. Patel (Sales),2020-01-27,2019-11-11,N,1
+C1036,Bear Creek Car Care,Bakersfield,Repair shop,30,6500,K. Patel (Sales),2026-06-27,2023-03-18,N,1
+C1037,Precision Automotive,Sacramento,Repair shop,30,750,A. Ruiz (Sales),2022-10-23,2017-08-07,Y,0
+C1038,Singh Auto Body,Fresno,Body shop,30,9500,R. Shah (Controller),2023-01-04,2022-12-18,N,0
+C1039,Falcon Garage,Sacramento,Repair shop,30,250,L. Moreno (AR),2016-02-24,2016-02-18,N,3
+C1040,Harbor Auto Care,Oakland,Repair shop,30,250,Not recorded,2023-07-17,2023-07-16,Y,1
+C1041,Davis Auto Body,Bakersfield,Body shop,30,1000,Counter staff,2024-09-03,2023-10-22,Y,0
+C1042,Garcia Collision,Oakland,Body shop,30,7000,D. Kim (Yard manager),2021-04-20,2019-05-12,N,0
+C1043,Walker Automotive,Bakersfield,Repair shop,30,1250,Not recorded,2023-11-03,2016-10-20,N,0
+C1044,Hernandez Collision Repair,Sacramento,Body shop,30,3750,D. Kim (Yard manager),2023-10-03,2023-09-24,Y,0
+C1045,Quality Body & Paint,Bakersfield,Body shop,30,500,R. Shah (Controller),2021-10-12,2021-08-16,Y,0
+C1046,Castillo Collision Repair,Bakersfield,Body shop,30,250,Not recorded,2025-04-02,2025-04-01,N,0
+C1047,Singh Fleet Services,Sacramento,Fleet,45,500,D. Kim (Yard manager),2024-02-03,2024-01-23,Y,0
+C1048,Star Auto Body,Oakland,Body shop,30,250,Counter staff,2023-05-24,2023-05-19,Y,1
+C1049,Tran Collision Repair,Sacramento,Body shop,30,,,,2022-11-25,Y,0
+C1050,Orchard Collision Repair,Sacramento,Body shop,30,500,D. Kim (Yard manager),2019-05-13,2019-05-12,Y,0
+C1051,Elite Collision Center,Oakland,Body shop,30,2250,T. Nguyen (Sales),2023-10-14,2020-08-26,N,0
+C1052,Lopez Collision,Oakland,Body shop,30,1000,Counter staff,2026-07-13,2026-07-13,N,0
+C1053,Eastside Collision Repair,Bakersfield,Body shop,30,3250,Not recorded,2025-02-03,2023-06-10,Y,2
+C1054,Oak Auto Body,Sacramento,Body shop,30,250,R. Shah (Controller),2025-01-12,2024-12-24,N,0
+C1055,Tran Motors,Oakland,Dealer,45,1250,A. Ruiz (Sales),2019-02-08,2018-11-21,N,0
+C1056,Sierra Collision,Oakland,Body shop,30,1000,Counter staff,2026-07-13,2026-07-13,N,0
+C1057,Delta Transport,Oakland,Fleet,45,1750,K. Patel (Sales),2025-03-29,2019-04-23,Y,0
+C1058,Quality Auto Care,Bakersfield,Repair shop,30,2000,A. Ruiz (Sales),2016-07-24,2016-07-08,N,0
+C1059,Miller Car Care,Oakland,Repair shop,30,1000,A. Ruiz (Sales),2026-07-20,2026-07-20,N,0
+C1060,Express Body & Paint,Bakersfield,Body shop,30,20000,T. Nguyen (Sales),2019-08-13,2018-06-28,N,0
+C1061,Sierra Automotive,Oakland,Repair shop,30,7000,T. Nguyen (Sales),2023-04-11,2023-04-08,N,1
+C1062,Mission Car Care,Bakersfield,Repair shop,30,500,D. Kim (Yard manager),2022-04-27,2022-04-15,Y,0
+C1063,Tran Collision,Fresno,Body shop,30,500,Not recorded,2019-11-26,2019-11-10,N,0
+C1064,Castillo Logistics Fleet,Oakland,Fleet,45,2500,L. Moreno (AR),2019-10-12,2019-09-23,Y,1
+C1065,Romero Automotive,Bakersfield,Repair shop,30,1000,D. Kim (Yard manager),2025-08-19,2016-11-07,N,0
+C1066,Cedar Auto Repair,Fresno,Repair shop,45,750,D. Kim (Yard manager),2018-04-21,2018-04-10,Y,0
+C1067,Eastside Collision Center,Sacramento,Body shop,30,2750,R. Shah (Controller),2020-11-23,2018-02-11,Y,0
+C1068,Tulare Collision Repair,Sacramento,Body shop,30,13500,Not recorded,2024-10-22,2017-02-22,N,0
+C1069,Hayes Transmission,Sacramento,Repair shop,30,2500,A. Ruiz (Sales),2026-07-29,2026-07-29,N,0
+C1070,Hernandez Transmission,Oakland,Repair shop,30,1750,T. Nguyen (Sales),2019-05-06,2019-04-22,N,0
+C1071,Sutter Tire & Wheel,Bakersfield,Retail / other,15,500,K. Patel (Sales),2019-08-28,2018-10-20,Y,0
+C1072,Vista Towing,Oakland,Fleet,45,3250,L. Moreno (AR),2021-08-29,2021-08-18,N,0
+C1073,Reyes Transport,Oakland,Fleet,45,1000,T. Nguyen (Sales),2026-09-20,2020-12-03,Y,0
+C1074,Granite Ford Service,Oakland,Dealer,45,3750,T. Nguyen (Sales),2019-08-15,2019-08-14,N,0
+C1075,Delta Car Care,Oakland,Repair shop,15,1250,Not recorded,2026-09-30,2023-10-04,N,0
+C1076,Westgate Transmission,Sacramento,Repair shop,30,2750,D. Kim (Yard manager),2017-10-21,2017-10-17,N,0
+C1077,Allied Automotive,Sacramento,Repair shop,30,250,K. Patel (Sales),2023-11-15,2019-11-02,Y,1
+C1078,Westgate Garage,Sacramento,Repair shop,30,3500,K. Patel (Sales),2021-12-03,2021-11-19,N,0
+C1079,United Chevrolet Service,Sacramento,Dealer,45,250,K. Patel (Sales),2022-12-16,2018-05-06,N,0
+C1080,Falcon Automotive,Oakland,Repair shop,15,250,R. Shah (Controller),2019-05-08,2017-08-20,N,1
+C1081,Premier Motors,Sacramento,Dealer,45,4500,T. Nguyen (Sales),2023-02-21,2022-03-14,N,1
+C1082,Pacific Logistics Fleet,Bakersfield,Fleet,45,2250,K. Patel (Sales),2023-08-23,2023-04-13,N,0
+C1083,Hernandez Auto Repair,Oakland,Repair shop,30,250,Not recorded,2016-09-30,2016-08-03,N,2
+C1084,Cedar Logistics Fleet,Oakland,Fleet,45,2000,T. Nguyen (Sales),2018-08-02,2018-07-20,N,0
+C1085,Orchard Garage,Bakersfield,Repair shop,30,250,T. Nguyen (Sales),2022-05-25,2022-05-17,N,0
+C1086,Golden Body & Paint,Bakersfield,Body shop,30,750,T. Nguyen (Sales),2022-01-22,2022-01-06,N,3
+C1087,Northgate Body & Paint,Sacramento,Body shop,30,1250,D. Kim (Yard manager),2026-03-12,2021-10-20,N,0
+C1088,Golden Auto Group,Sacramento,Dealer,15,500,D. Kim (Yard manager),2016-08-17,2016-08-09,Y,0
+C1089,Romero Collision Repair,Sacramento,Body shop,30,24000,T. Nguyen (Sales),2021-09-26,2021-09-08,Y,0
+C1090,Precision Car Care,Oakland,Repair shop,30,1500,A. Ruiz (Sales),2017-10-29,2017-10-25,N,0
+C1091,Bayview Tire & Wheel,Sacramento,Retail / other,15,250,Not recorded,2018-10-04,2018-08-12,N,1
+C1092,Delta Garage,Fresno,Repair shop,30,500,K. Patel (Sales),2026-05-24,2025-06-15,N,1
+C1093,Westgate Auto Repair,Fresno,Repair shop,30,3250,A. Ruiz (Sales),2020-05-09,2020-04-24,Y,0
+C1094,Sutter Body & Paint,Bakersfield,Body shop,30,6000,T. Nguyen (Sales),2026-07-10,2016-03-08,N,3
+C1095,Eagle Collision,Oakland,Body shop,30,,,,2023-12-28,N,0
+C1096,Reyes Transmission,Oakland,Repair shop,30,250,K. Patel (Sales),2020-10-03,2019-04-04,N,0
+C1097,Premier Transmission,Oakland,Repair shop,30,250,Not recorded,2025-03-04,2023-05-03,Y,0
+C1098,Granite Towing,Oakland,Fleet,45,250,Counter staff,2021-11-24,2016-05-05,Y,0
+C1099,Foothill Logistics Fleet,Oakland,Fleet,45,250,Counter staff,2026-07-01,2025-02-23,Y,0
+C1100,Precision Transport,Sacramento,Fleet,45,6500,Not recorded,2016-09-23,2016-09-13,N,0
+C1101,Alameda Car Care,Fresno,Repair shop,30,2500,Counter staff,2020-01-02,2018-12-06,Y,0
+C1102,Vista Collision Repair,Sacramento,Body shop,30,750,Not recorded,2022-01-11,2022-01-08,N,0
+C1103,Mission Auto Body,Fresno,Body shop,30,6500,L. Moreno (AR),2019-02-12,2019-01-26,Y,0
+C1104,Pacific Collision,Sacramento,Body shop,30,3250,K. Patel (Sales),2017-03-29,2017-03-18,Y,3
+C1105,Eastside Auto Care,Oakland,Repair shop,30,250,A. Ruiz (Sales),2023-11-03,2023-05-01,Y,0
+C1106,Quality Auto Repair,Sacramento,Repair shop,30,2250,D. Kim (Yard manager),2023-03-31,2017-12-28,N,0
+C1107,Bear Creek Collision,Sacramento,Body shop,30,2250,L. Moreno (AR),2023-02-28,2023-02-19,N,1
+C1108,Monarch Mobile Mechanic,Fresno,Retail / other,15,1000,Counter staff,2025-04-19,2025-04-16,Y,0
+C1109,Classic Garage,Sacramento,Repair shop,30,2000,Counter staff,2016-03-02,2016-02-17,N,1
+C1110,Northgate Customs,Sacramento,Retail / other,45,250,A. Ruiz (Sales),2019-08-16,2019-08-02,Y,0
+C1111,Eastside Collision,Sacramento,Body shop,30,77000,A. Ruiz (Sales),2017-09-30,2017-09-16,N,1
+C1112,Lakeside Auto Body,Sacramento,Body shop,30,7500,K. Patel (Sales),2021-08-21,2021-08-01,N,1
+C1113,Sutter Garage,Fresno,Repair shop,30,250,R. Shah (Controller),2025-11-23,2022-04-20,N,0
+C1114,Lopez Auto Body,Sacramento,Body shop,30,500,T. Nguyen (Sales),2023-07-12,2018-02-27,Y,0
+C1115,Almond Garage,Sacramento,Repair shop,30,250,L. Moreno (AR),2022-04-10,2022-03-21,N,3
+C1116,Express Automotive,Oakland,Repair shop,30,250,K. Patel (Sales),2022-05-07,2022-04-21,N,0
+C1117,Anderson Auto Repair,Oakland,Repair shop,30,1000,D. Kim (Yard manager),2026-05-20,2024-11-20,Y,0
+C1118,Sierra Auto Body,Bakersfield,Body shop,30,1000,Counter staff,2026-07-25,2026-07-25,Y,0
+C1119,Valley Auto Care,Fresno,Repair shop,30,750,A. Ruiz (Sales),2024-06-16,2018-08-23,N,1
+C1120,Pioneer Body & Paint,Fresno,Body shop,30,6000,A. Ruiz (Sales),2026-05-08,2018-02-23,Y,3
+C1121,Golden Collision Center,Oakland,Body shop,30,2750,Not recorded,2022-04-24,2018-02-06,N,0
+C1122,Sutter Auto Repair,Bakersfield,Repair shop,15,1500,L. Moreno (AR),2022-07-26,2022-07-25,Y,0
+C1123,Davis Collision Repair,Oakland,Body shop,30,2000,D. Kim (Yard manager),2025-05-25,2023-10-09,N,0
+C1124,Allied Chevrolet Service,Oakland,Dealer,45,2500,Not recorded,2016-09-12,2016-08-23,Y,0
+C1125,Premier Body & Paint,Fresno,Body shop,30,500,L. Moreno (AR),2023-05-28,2023-05-10,N,0
+C1126,Sunrise Body & Paint,Bakersfield,Body shop,30,6000,A. Ruiz (Sales),2019-06-07,2019-06-04,N,0
+C1127,Thompson Collision Center,Sacramento,Body shop,30,1000,Counter staff,2024-07-24,2024-07-16,Y,0
+C1128,Delta Collision Center,Sacramento,Body shop,30,1000,Counter staff,2023-03-05,2021-01-18,N,0
+C1129,Thompson Collision Repair,Sacramento,Body shop,30,250,L. Moreno (AR),2016-04-12,2016-04-12,Y,0
+C1130,Quality Collision,Fresno,Body shop,30,,,,2018-11-23,N,0
+C1131,Twin Oaks Auto Body,Sacramento,Body shop,30,750,Counter staff,2019-08-17,2019-08-09,N,0
+C1132,Reyes Collision Repair,Oakland,Body shop,30,3250,A. Ruiz (Sales),2023-12-29,2023-12-24,Y,1
+C1133,Central Auto Repair,Sacramento,Repair shop,30,2250,T. Nguyen (Sales),2018-05-03,2018-04-14,N,0
+C1134,Central Detailing,Sacramento,Retail / other,15,250,K. Patel (Sales),2016-03-28,2016-03-20,N,0
+C1135,Northgate Automotive,Bakersfield,Repair shop,30,750,T. Nguyen (Sales),2022-09-19,2022-09-08,N,3
+C1136,Quality Collision Center,Sacramento,Body shop,30,2500,Counter staff,2025-05-27,2025-03-21,N,1
+C1137,Star Car Care,Bakersfield,Repair shop,30,250,D. Kim (Yard manager),2022-04-20,2022-04-05,Y,0
+C1138,Martinez Body & Paint,Fresno,Body shop,30,1250,A. Ruiz (Sales),2018-01-22,2018-01-19,N,0
+C1139,Singh Auto Repair,Oakland,Repair shop,30,10500,D. Kim (Yard manager),2026-02-17,2023-06-23,N,0
+C1140,Eagle Auto Care,Fresno,Repair shop,30,750,Not recorded,2016-12-29,2016-12-22,N,0
+C1141,Kowalski Collision Center,Oakland,Body shop,30,1000,T. Nguyen (Sales),2026-09-08,2017-07-03,N,3
+C1142,Highway 99 Collision,Sacramento,Body shop,30,1750,T. Nguyen (Sales),2025-02-02,2017-07-10,Y,0
+C1143,Mission Auto Care,Oakland,Repair shop,30,250,L. Moreno (AR),2017-10-27,2017-10-20,N,0
+C1144,Bayview Auto Body,Oakland,Body shop,45,2500,A. Ruiz (Sales),2026-07-28,2026-07-28,Y,0
+C1145,Brooks Collision Center,Bakersfield,Body shop,30,9000,K. Patel (Sales),2023-11-10,2019-07-07,N,0
+C1146,Johnson Body & Paint,Fresno,Body shop,30,2250,Not recorded,2022-01-02,2021-12-13,Y,0
+C1147,Quality Tire & Wheel,Oakland,Retail / other,15,250,R. Shah (Controller),2025-01-08,2024-12-21,N,0
+C1148,Kowalski Body & Paint,Fresno,Body shop,45,28000,K. Patel (Sales),2024-06-07,2016-07-01,N,0
+C1149,Monarch Auto Repair,Bakersfield,Repair shop,30,,,,2022-06-01,Y,1
+C1150,Pro Rentals Fleet,Oakland,Fleet,45,1250,Counter staff,2023-03-16,2019-11-24,N,2
+C1151,Liberty Collision Center,Sacramento,Body shop,30,4750,D. Kim (Yard manager),2021-05-22,2021-05-14,N,1
+C1152,Northgate Collision,Sacramento,Body shop,30,250,A. Ruiz (Sales),2023-11-22,2017-06-25,Y,1
+C1153,Kowalski Rentals Fleet,Sacramento,Fleet,45,13000,Counter staff,2024-08-02,2024-07-22,Y,0
+C1154,Canyon Body & Paint,Sacramento,Body shop,45,1000,A. Ruiz (Sales),2026-07-14,2026-07-14,Y,0
+C1155,Golden Auto Repair,Sacramento,Repair shop,30,22000,L. Moreno (AR),2025-05-13,2024-01-08,N,0
+C1156,Thompson Auto Repair,Oakland,Repair shop,30,500,Counter staff,2016-01-18,2016-01-13,N,0
+C1157,Elite Auto Care,Fresno,Repair shop,30,7500,A. Ruiz (Sales),2025-06-24,2022-10-08,Y,0
+C1158,Orchard Auto Care,Sacramento,Repair shop,30,1750,Counter staff,2022-09-06,2022-01-06,N,0
+C1159,Sutter Pre-Owned,Fresno,Dealer,15,1000,A. Ruiz (Sales),2020-05-27,2019-06-13,N,0
+C1160,Allied Transmission,Oakland,Repair shop,30,1000,A. Ruiz (Sales),2026-07-08,2025-02-23,Y,2
+C1161,Central Collision Repair,Sacramento,Body shop,30,250,A. Ruiz (Sales),2023-10-04,2018-03-24,N,1
+C1162,Foothill Collision Repair,Sacramento,Body shop,30,250,R. Shah (Controller),2022-07-31,2022-07-21,N,0
+C1163,Vista Garage,Fresno,Repair shop,45,250,Not recorded,2025-06-22,2025-06-22,Y,0
+C1164,Redwood Auto Care,Bakersfield,Repair shop,30,2000,D. Kim (Yard manager),2017-07-08,2017-06-28,N,0
+C1165,Bear Creek Pre-Owned,Oakland,Dealer,45,5000,K. Patel (Sales),2021-02-18,2021-02-17,N,1
+C1166,Tulare Garage,Sacramento,Repair shop,30,4750,Not recorded,2025-05-15,2024-05-16,N,0
+C1167,Cedar Collision Center,Sacramento,Body shop,15,500,Counter staff,2018-12-30,2018-12-14,Y,0
+C1168,Bear Creek Auto Body,Fresno,Body shop,30,1000,A. Ruiz (Sales),2020-07-03,2020-06-17,N,0
+C1169,Twin Oaks Detailing,Fresno,Retail / other,15,1750,T. Nguyen (Sales),2019-01-09,2019-01-03,Y,1
+C1170,Valley Collision,Fresno,Body shop,30,3250,A. Ruiz (Sales),2025-02-16,2019-07-16,Y,0
+C1171,Pro Collision,Fresno,Body shop,30,5000,D. Kim (Yard manager),2016-02-15,2016-01-26,N,0
+C1172,Westgate Body & Paint,Sacramento,Body shop,30,2000,Not recorded,2021-07-25,2021-07-05,N,0
+C1173,Redwood Auto Repair,Fresno,Repair shop,30,500,Not recorded,2024-10-12,2024-10-12,N,1
+C1174,Eastside Auto Body,Sacramento,Body shop,30,12000,T. Nguyen (Sales),2026-08-06,2020-09-18,N,1
+C1175,Classic Collision Center,Bakersfield,Body shop,30,2500,A. Ruiz (Sales),2023-08-09,2023-08-06,N,0
+C1176,Hernandez Automotive,Sacramento,Repair shop,30,5000,Counter staff,2026-08-02,2026-08-02,N,0
+C1177,Davis Collision,Sacramento,Body shop,45,,,,2024-05-11,Y,2
+C1178,Johnson Auto Repair,Oakland,Repair shop,30,1500,K. Patel (Sales),2026-07-16,2024-12-04,Y,0
+C1179,Lakeside Automotive,Fresno,Repair shop,30,18500,D. Kim (Yard manager),2019-10-11,2018-04-26,N,2
+C1180,Canyon Collision Center,Sacramento,Body shop,30,750,T. Nguyen (Sales),2024-06-05,2024-05-23,N,1
+C1181,Romero Auto Body,Sacramento,Body shop,30,2750,K. Patel (Sales),2022-08-24,2022-04-20,N,0
+C1182,Pioneer Pre-Owned,Oakland,Dealer,30,9500,Counter staff,2022-12-20,2016-05-03,N,1
+C1183,Redwood Automotive,Sacramento,Repair shop,30,750,D. Kim (Yard manager),2024-11-30,2017-08-09,N,0
+C1184,Singh Motors,Sacramento,Dealer,45,250,Counter staff,2020-03-20,2016-09-11,Y,0
+C1185,Kowalski Garage,Fresno,Repair shop,30,750,T. Nguyen (Sales),2024-12-19,2016-10-15,Y,1
+C1186,Highway 99 Auto Body,Oakland,Body shop,30,7000,K. Patel (Sales),2024-10-13,2021-07-08,Y,1
+C1187,Davis Car Care,Sacramento,Repair shop,30,1750,A. Ruiz (Sales),2018-12-25,2018-12-12,Y,3
+C1188,Davis Body & Paint,Sacramento,Body shop,30,7500,A. Ruiz (Sales),2021-02-19,2019-02-25,N,0
+C1189,Cedar Car Care,Oakland,Repair shop,30,1500,R. Shah (Controller),2023-08-21,2023-08-09,N,0
+C1190,Mission Ford Service,Sacramento,Dealer,45,3000,R. Shah (Controller),2020-12-04,2020-12-01,N,0
+C1191,Almond Car Care,Sacramento,Repair shop,30,250,R. Shah (Controller),2026-05-31,2022-05-12,Y,0
+C1192,Capitol Customs,Bakersfield,Retail / other,15,250,T. Nguyen (Sales),2025-06-12,2023-09-15,N,0
+C1193,Hayes Collision,Sacramento,Body shop,30,1750,Not recorded,2021-02-13,2021-01-26,Y,0
+C1194,Capitol Body & Paint,Bakersfield,Body shop,30,8000,A. Ruiz (Sales),2022-06-28,2016-05-14,Y,1
+C1195,Ace Towing,Fresno,Fleet,45,,,,2024-01-20,Y,0
+C1196,Summit Logistics Fleet,Sacramento,Fleet,45,9000,Not recorded,2024-05-28,2022-02-20,Y,0
+C1197,Eagle Auto Body,Oakland,Body shop,30,3250,A. Ruiz (Sales),2024-11-26,2021-07-18,Y,0
+C1198,Hayes Ford Service,Sacramento,Dealer,45,3750,Counter staff,2021-10-22,2021-10-02,N,0
+C1199,Eastside Automotive,Oakland,Repair shop,30,1000,K. Patel (Sales),2023-11-21,2023-11-11,N,0
+C1200,Kern Auto Repair,Fresno,Repair shop,30,11500,D. Kim (Yard manager),2024-06-30,2023-07-11,N,1
+C1201,Orchard Collision Center,Oakland,Body shop,15,250,T. Nguyen (Sales),2017-09-03,2016-09-09,N,0
+C1202,Diamond Collision Center,Bakersfield,Body shop,30,6000,D. Kim (Yard manager),2023-06-28,2019-08-25,Y,0
+C1203,Hayes Collision Repair,Oakland,Body shop,30,2250,A. Ruiz (Sales),2017-09-07,2017-09-01,N,0
+C1204,Davis Transmission,Sacramento,Repair shop,30,250,T. Nguyen (Sales),2025-01-22,2020-12-04,N,1
+C1205,Anderson Auto Group,Sacramento,Dealer,45,250,D. Kim (Yard manager),2019-03-12,2019-03-02,N,0
+C1206,Castillo Body & Paint,Oakland,Body shop,30,1500,Counter staff,2025-04-24,2022-04-06,N,0
+C1207,Liberty Body & Paint,Fresno,Body shop,30,25000,Counter staff,2024-07-31,2024-07-28,N,0
+C1208,Capitol Auto Parts Resale,Fresno,Retail / other,15,500,Not recorded,2024-05-25,2024-05-14,N,0
+C1209,Pacific Transmission,Sacramento,Repair shop,30,4750,L. Moreno (AR),2019-06-02,2019-06-01,Y,0
+C1210,Summit Collision Center,Sacramento,Body shop,45,1750,K. Patel (Sales),2021-01-14,2020-11-26,N,0
+C1211,Premier Auto Body,Oakland,Body shop,30,1000,A. Ruiz (Sales),2017-12-28,2017-12-25,N,0
+C1212,Orchard Collision,Bakersfield,Body shop,30,,,,2021-09-21,N,3
+C1213,Golden Collision Repair,Sacramento,Body shop,30,4750,T. Nguyen (Sales),2018-07-03,2017-01-09,N,0
+C1214,Pacific Customs,Fresno,Retail / other,45,250,T. Nguyen (Sales),2022-01-28,2022-01-16,N,0
+C1215,United Transmission,Oakland,Repair shop,30,2750,K. Patel (Sales),2018-01-30,2016-08-11,N,0
+C1216,Precision Motors,Sacramento,Dealer,45,500,K. Patel (Sales),2022-06-29,2022-06-22,N,1
+C1217,Diamond Auto Repair,Oakland,Repair shop,15,750,K. Patel (Sales),2024-08-24,2024-08-15,N,0
+C1218,Johnson Collision Center,Oakland,Body shop,30,1000,D. Kim (Yard manager),2024-01-30,2023-01-11,N,0
+C1219,Pioneer Motors,Bakersfield,Dealer,45,9500,K. Patel (Sales),2026-09-15,2018-09-11,N,0
+C1220,Miller Body & Paint,Fresno,Body shop,30,1750,A. Ruiz (Sales),2021-07-31,2021-07-28,N,0
+C1221,Mission Collision,Fresno,Body shop,30,,,,2022-02-24,N,1
+C1222,Westgate Car Care,Oakland,Repair shop,30,2500,L. Moreno (AR),2025-07-18,2022-11-21,Y,0
+C1223,Ace Auto Repair,Fresno,Repair shop,30,750,D. Kim (Yard manager),2021-03-24,2021-03-06,N,1
+C1224,Anderson Garage,Oakland,Repair shop,45,250,Not recorded,2024-12-09,2021-03-06,N,0
+C1225,Liberty Motors,Fresno,Dealer,45,8000,Counter staff,2024-03-12,2024-03-06,Y,1
+C1226,Foothill Transport,Bakersfield,Fleet,30,500,T. Nguyen (Sales),2019-07-22,2019-07-07,N,0
+C1227,Singh Body & Paint,Fresno,Body shop,30,250,K. Patel (Sales),2024-01-27,2024-01-14,N,0
+C1228,Ace Auto Care,Sacramento,Repair shop,30,500,Not recorded,2018-02-02,2018-02-01,N,0
+C1229,Oak Garage,Sacramento,Repair shop,30,4500,A. Ruiz (Sales),2024-11-04,2024-10-18,Y,0
+C1230,Brooks Automotive,Sacramento,Repair shop,30,250,K. Patel (Sales),2019-04-24,2019-04-07,N,0
+C1231,Davis Collision Center,Bakersfield,Body shop,30,2000,K. Patel (Sales),2025-11-01,2020-06-24,N,0
+C1232,Brooks Auto Body,Sacramento,Body shop,30,500,T. Nguyen (Sales),2024-02-16,2018-08-18,N,2
+C1233,Granite Collision Repair,Oakland,Body shop,45,250,Counter staff,2023-08-08,2017-05-10,N,0
+C1234,Delta Collision,Sacramento,Body shop,30,2500,Not recorded,2024-10-02,2024-09-21,N,0
+C1235,Garcia Body & Paint,Bakersfield,Body shop,30,12000,K. Patel (Sales),2026-08-25,2024-05-27,N,3
+C1236,Alameda Automotive,Sacramento,Repair shop,30,1750,D. Kim (Yard manager),2019-02-22,2019-02-03,Y,0
+C1237,Garcia Mobile Mechanic,Fresno,Retail / other,15,3500,Counter staff,2024-03-22,2021-06-07,Y,0
+C1238,Oak Collision Center,Sacramento,Body shop,30,2750,R. Shah (Controller),2021-03-16,2017-08-09,N,0
+C1239,United Collision Repair,Bakersfield,Body shop,30,3500,Counter staff,2022-09-10,2022-09-02,N,1
+C1240,Sunrise Auto Care,Fresno,Repair shop,30,6000,A. Ruiz (Sales),2026-07-13,2019-10-17,Y,1
+C1241,Delta Auto Repair,Fresno,Repair shop,30,4000,Counter staff,2019-11-22,2019-11-21,Y,0
+C1242,Elite Auto Repair,Oakland,Repair shop,30,250,A. Ruiz (Sales),2025-03-12,2024-03-02,N,0
+C1243,Foothill Automotive,Fresno,Repair shop,30,2250,L. Moreno (AR),2025-06-11,2025-05-24,Y,0
+C1244,Foothill Auto Repair,Sacramento,Repair shop,30,750,Counter staff,2021-05-04,2017-12-18,N,1
+C1245,Sutter Collision Center,Oakland,Body shop,30,250,Counter staff,2024-07-29,2024-07-27,Y,0
+C1246,Brooks Collision Repair,Oakland,Body shop,30,1750,L. Moreno (AR),2020-07-27,2020-07-25,N,0
+C1247,Martinez Collision Center,Sacramento,Body shop,30,20000,A. Ruiz (Sales),2026-09-12,2023-01-01,Y,0
+C1248,Oak Transmission,Oakland,Repair shop,30,3000,Counter staff,2020-09-21,2020-09-17,N,0
+C1249,Castillo Auto Body,Fresno,Body shop,30,2500,A. Ruiz (Sales),2026-08-15,2026-08-15,N,0
+C1250,Delta Transmission,Sacramento,Repair shop,30,1750,K. Patel (Sales),2023-12-07,2023-11-19,Y,0
+C1251,Cedar Body & Paint,Oakland,Body shop,30,250,Counter staff,2023-11-24,2023-11-13,Y,0
+C1252,Fremont Car Care,Sacramento,Repair shop,30,3250,A. Ruiz (Sales),2024-05-19,2021-05-13,N,0
+C1253,Miller Auto Repair,Fresno,Repair shop,30,3250,R. Shah (Controller),2025-11-20,2024-04-10,Y,3
+C1254,Delta Collision Repair,Oakland,Body shop,30,4500,K. Patel (Sales),2025-10-29,2019-02-16,N,1
+C1255,Diamond Collision,Oakland,Body shop,30,250,D. Kim (Yard manager),2019-01-30,2019-01-16,N,1
+C1256,Star Garage,Fresno,Repair shop,30,4750,A. Ruiz (Sales),2026-09-16,2016-08-20,Y,1
+C1257,Canyon Auto Repair,Oakland,Repair shop,30,4000,Counter staff,2024-10-07,2021-02-19,N,0
+C1258,United Transport,Fresno,Fleet,45,36000,D. Kim (Yard manager),2021-06-25,2021-06-22,N,1
+C1259,Orchard Auto Body,Sacramento,Body shop,30,250,Counter staff,2024-08-17,2024-08-05,N,0
+C1260,Kern Collision Center,Oakland,Body shop,30,3500,Counter staff,2021-04-02,2021-03-27,N,0
+C1261,Allied Collision Center,Oakland,Body shop,30,3500,K. Patel (Sales),2023-04-22,2023-04-21,Y,0
+C1262,Mission Collision Repair,Oakland,Body shop,30,1250,R. Shah (Controller),2021-06-05,2021-05-21,N,0
+C1263,Lopez Car Care,Bakersfield,Repair shop,30,1250,K. Patel (Sales),2025-10-24,2024-08-07,N,0
+C1264,Reyes Motors,Sacramento,Dealer,45,16000,A. Ruiz (Sales),2024-06-20,2022-04-18,N,0
+C1265,Kern Detailing,Oakland,Retail / other,15,250,A. Ruiz (Sales),2022-06-15,2022-06-04,Y,0
+C1266,Bayview Body & Paint,Sacramento,Body shop,30,,,,2023-01-09,N,0
+C1267,Thompson Body & Paint,Fresno,Body shop,30,,,,2024-10-22,N,0
+C1268,Martinez Auto Repair,Fresno,Repair shop,30,1250,D. Kim (Yard manager),2025-04-11,2025-04-05,Y,0
+C1269,Monarch Auto Parts Resale,Fresno,Retail / other,15,250,A. Ruiz (Sales),2022-04-15,2022-04-12,Y,3
+C1270,Cedar Transmission,Oakland,Repair shop,30,750,Not recorded,2026-04-08,2022-02-07,Y,0
+C1271,Walker Auto Body,Fresno,Body shop,30,2500,Counter staff,2026-07-10,2026-07-10,Y,0
+C1272,Diamond Car Care,Sacramento,Repair shop,30,,,,2024-10-06,Y,0
+C1273,Elite Detailing,Oakland,Retail / other,15,,,,2024-03-05,N,0
+C1274,Merced Auto Body,Sacramento,Body shop,30,1000,L. Moreno (AR),2023-10-04,2019-01-07,Y,0
+C1275,Valley Auto Body,Fresno,Body shop,30,500,R. Shah (Controller),2022-10-11,2021-11-17,N,0
+C1276,Northgate Chevrolet Service,Oakland,Dealer,45,2500,A. Ruiz (Sales),2026-08-21,2026-08-21,N,0
+C1277,Quality Chevrolet Service,Bakersfield,Dealer,30,250,Not recorded,2020-11-25,2018-09-13,Y,0
+C1278,Martinez Car Care,Sacramento,Repair shop,30,,,,2025-01-14,N,0
+C1279,Pro Auto Care,Bakersfield,Repair shop,30,500,T. Nguyen (Sales),2020-07-28,2020-07-12,N,0
+C1280,Singh Garage,Bakersfield,Repair shop,30,6500,L. Moreno (AR),2022-08-09,2022-07-22,N,0
+C1281,Reyes Auto Repair,Bakersfield,Repair shop,30,8000,R. Shah (Controller),2019-02-20,2019-02-11,Y,0
+C1282,Monarch Collision Center,Sacramento,Body shop,30,,,,2020-07-23,Y,0
+C1283,Romero Garage,Oakland,Repair shop,30,,,,2016-10-03,Y,3
+C1284,Northgate Auto Care,Oakland,Repair shop,30,750,D. Kim (Yard manager),2018-08-04,2018-08-04,N,0
+C1285,Lopez Collision Center,Fresno,Body shop,30,1750,K. Patel (Sales),2020-09-26,2017-11-13,N,0
+C1286,United Collision Center,Oakland,Body shop,30,,,,2020-06-24,N,0
+C1287,Alameda Collision,Oakland,Body shop,30,500,Not recorded,2023-06-26,2022-10-17,Y,0
+C1288,Riverside Auto Care,Sacramento,Repair shop,30,2500,A. Ruiz (Sales),2021-10-13,2021-10-01,N,0
+C1289,Castillo Collision,Oakland,Body shop,30,250,K. Patel (Sales),2022-12-02,2022-11-25,N,0
+C1290,Vista Body & Paint,Sacramento,Body shop,30,5500,R. Shah (Controller),2026-05-20,2023-08-01,N,0
+C1291,Eagle Collision Center,Oakland,Body shop,30,1000,A. Ruiz (Sales),2026-08-30,2024-01-04,Y,1
+C1292,Sierra Collision Center,Oakland,Body shop,30,5000,D. Kim (Yard manager),2024-04-18,2024-04-11,N,0
+C1293,Canyon Collision,Bakersfield,Body shop,45,1500,K. Patel (Sales),2019-09-21,2019-07-17,Y,1
+C1294,Redwood Towing,Bakersfield,Fleet,30,2500,L. Moreno (AR),2023-02-13,2023-02-04,N,3
+C1295,Cedar Collision,Fresno,Body shop,15,6500,R. Shah (Controller),2017-02-10,2017-01-27,Y,3
+C1296,Pioneer Auto Care,Oakland,Repair shop,30,250,D. Kim (Yard manager),2026-05-05,2018-05-21,Y,0
+C1297,Bear Creek Fleet Services,Sacramento,Fleet,45,14500,T. Nguyen (Sales),2026-07-22,2019-08-18,N,0
+C1298,Eagle Collision Repair,Bakersfield,Body shop,30,3750,L. Moreno (AR),2018-07-12,2018-06-25,N,0
+C1299,Eastside Transmission,Oakland,Repair shop,30,1000,K. Patel (Sales),2026-01-25,2020-05-19,N,1
+C1300,Harbor Motors,Sacramento,Dealer,45,250,A. Ruiz (Sales),2026-09-12,2023-01-01,N,0
+C1301,Harbor Collision,Sacramento,Body shop,30,,,,2016-01-01,N,0
+C1302,Cedar Auto Parts Resale,Fresno,Retail / other,30,1750,T. Nguyen (Sales),2022-10-26,2022-10-10,Y,0
+C1303,Bear Creek Garage,Fresno,Repair shop,30,2250,R. Shah (Controller),2026-04-04,2020-02-28,N,1
+C1304,Lakeside Collision Repair,Oakland,Body shop,30,,,,2018-01-10,N,0
+C1305,Martinez Fleet Services,Fresno,Fleet,45,2250,D. Kim (Yard manager),2019-11-30,2016-07-24,N,0
+C1306,Alameda Ford Service,Oakland,Dealer,45,69000,T. Nguyen (Sales),2023-11-22,2016-07-24,Y,2
+C1307,Northgate Car Care,Sacramento,Repair shop,30,,,,2020-06-18,Y,1
+C1308,Westgate Auto Care,Oakland,Repair shop,30,3000,T. Nguyen (Sales),2025-09-21,2024-12-09,N,0
+C1309,United Auto Body,Sacramento,Body shop,30,44000,K. Patel (Sales),2026-06-25,2022-10-18,Y,3
+C1310,Westgate Auto Body,Bakersfield,Body shop,30,,,,2020-04-19,N,0
+C1311,Harbor Collision Repair,Fresno,Body shop,30,250,A. Ruiz (Sales),2026-06-13,2024-10-01,N,0
+C1312,Anderson Transmission,Fresno,Repair shop,30,3000,D. Kim (Yard manager),2017-08-25,2017-08-21,Y,0
+C1313,Romero Customs,Oakland,Retail / other,15,1250,Counter staff,2023-04-20,2020-09-18,Y,0
+C1314,Central Collision,Fresno,Body shop,30,,,,2025-05-26,N,0
+C1315,Pro Collision Repair,Oakland,Body shop,30,13000,T. Nguyen (Sales),2024-05-04,2023-09-02,N,0
+C1316,Mission Body & Paint,Bakersfield,Body shop,30,250,R. Shah (Controller),2020-10-18,2020-10-04,N,1
+C1317,Granite Transmission,Bakersfield,Repair shop,30,2250,L. Moreno (AR),2025-12-20,2019-09-10,N,0
+C1318,Redwood Transmission,Sacramento,Repair shop,30,2000,Not recorded,2019-09-11,2019-09-05,Y,0
+C1319,Monarch Transmission,Oakland,Repair shop,30,5500,Not recorded,2025-06-27,2025-06-18,N,0
+C1320,Bear Creek Collision Center,Oakland,Body shop,30,1250,A. Ruiz (Sales),2024-05-06,2024-05-02,Y,0
+C1321,Classic Auto Care,Fresno,Repair shop,30,,,,2025-06-04,N,0
+C1322,Elite Automotive,Oakland,Repair shop,30,250,K. Patel (Sales),2024-02-10,2022-01-05,Y,0
+C1323,Oak Auto Group,Sacramento,Dealer,45,2250,D. Kim (Yard manager),2025-08-21,2021-03-10,N,3
+C1324,Precision Collision Repair,Sacramento,Body shop,30,3750,T. Nguyen (Sales),2024-12-29,2024-12-16,Y,0
+C1325,Eagle Car Care,Sacramento,Repair shop,30,250,A. Ruiz (Sales),2021-11-03,2021-02-12,N,0
+C1326,Classic Collision,Sacramento,Body shop,30,2250,A. Ruiz (Sales),2023-11-05,2023-10-26,Y,3
+C1327,Classic Transmission,Oakland,Repair shop,30,2000,Counter staff,2024-10-10,2020-02-03,Y,0
+C1328,Ace Auto Parts Resale,Sacramento,Retail / other,15,250,Counter staff,2019-11-20,2019-11-08,N,0
+C1329,Star Auto Care,Oakland,Repair shop,30,250,D. Kim (Yard manager),2022-07-25,2019-06-27,Y,1
+C1330,Northgate Collision Repair,Sacramento,Body shop,30,1750,K. Patel (Sales),2022-07-06,2022-06-21,N,0
+C1331,Davis Auto Care,Sacramento,Repair shop,30,3000,A. Ruiz (Sales),2026-07-07,2025-01-06,N,0
+C1332,Martinez Auto Body,Fresno,Body shop,30,2250,Not recorded,2025-09-22,2025-04-14,N,0
+C1333,Fremont Collision Repair,Oakland,Body shop,30,1000,T. Nguyen (Sales),2024-10-06,2017-01-15,N,0
+C1334,Garcia Logistics Fleet,Fresno,Fleet,45,1750,Counter staff,2026-02-01,2018-03-12,N,0
+C1335,Monarch Collision,Sacramento,Body shop,30,500,T. Nguyen (Sales),2023-11-30,2023-11-16,N,2
+C1336,Hayes Automotive,Sacramento,Repair shop,30,2750,R. Shah (Controller),2025-11-08,2024-11-05,N,0
+C1337,Merced Automotive,Oakland,Repair shop,30,250,L. Moreno (AR),2024-02-29,2024-02-26,Y,0
+C1338,Classic Body & Paint,Sacramento,Body shop,30,1250,K. Patel (Sales),2022-06-29,2016-06-18,N,0
+C1339,Riverside Auto Body,Sacramento,Body shop,30,1250,D. Kim (Yard manager),2016-08-17,2016-08-09,Y,0
+C1340,Sierra Body & Paint,Oakland,Body shop,45,,,,2024-10-14,N,2
+C1341,Pacific Collision Center,Sacramento,Body shop,30,250,Not recorded,2017-10-24,2017-10-11,Y,0
+C1342,Kern Body & Paint,Oakland,Body shop,30,8500,D. Kim (Yard manager),2025-02-11,2021-12-04,Y,0
+C1343,Express Collision Repair,Oakland,Body shop,30,1250,Not recorded,2022-11-14,2016-01-11,Y,0
+C1344,Sierra Garage,Bakersfield,Repair shop,30,2000,A. Ruiz (Sales),2025-12-22,2024-08-04,N,0
+C1345,Sutter Motors,Oakland,Dealer,45,6500,Not recorded,2025-04-10,2018-10-14,N,0
+C1346,Northgate Transmission,Fresno,Repair shop,30,250,T. Nguyen (Sales),2023-06-19,2023-06-16,N,0
+C1347,Hernandez Collision,Sacramento,Body shop,30,250,R. Shah (Controller),2017-11-19,2017-11-08,Y,0
+C1348,Redwood Logistics Fleet,Bakersfield,Fleet,45,16500,A. Ruiz (Sales),2023-12-07,2023-11-22,Y,0
+C1349,Fremont Collision,Oakland,Body shop,45,10500,Not recorded,2026-03-06,2018-11-14,N,0
+C1350,Sunrise Collision Repair,Bakersfield,Body shop,30,250,A. Ruiz (Sales),2023-02-09,2023-01-25,N,0
+C1351,Pioneer Collision Repair,Oakland,Body shop,45,8000,D. Kim (Yard manager),2025-11-29,2024-08-13,Y,0
+C1352,Lakeside Collision,Fresno,Body shop,30,,,,2019-03-22,Y,0
+C1353,Pacific Mobile Mechanic,Bakersfield,Retail / other,15,250,K. Patel (Sales),2021-04-22,2021-04-05,N,0
+C1354,Capitol Towing,Sacramento,Fleet,45,1250,T. Nguyen (Sales),2026-05-09,2025-05-21,Y,0
+C1355,Delta Auto Body,Sacramento,Body shop,30,250,Not recorded,2025-09-10,2025-02-14,Y,3
+C1356,Vista Car Care,Sacramento,Repair shop,30,2500,K. Patel (Sales),2018-10-12,2018-07-27,Y,0
+C1357,Twin Oaks Garage,Bakersfield,Repair shop,15,5500,K. Patel (Sales),2025-04-13,2024-02-16,N,0
+C1358,Brooks Garage,Sacramento,Repair shop,30,500,Not recorded,2026-05-18,2025-06-26,N,0
+C1359,Star Body & Paint,Sacramento,Body shop,30,4250,K. Patel (Sales),2023-10-17,2017-08-13,Y,0
+C1360,Sierra Tire & Wheel,Fresno,Retail / other,15,,,,2016-04-23,N,0
+C1361,Foothill Customs,Bakersfield,Retail / other,45,14500,R. Shah (Controller),2025-02-11,2025-01-22,Y,0
+C1362,Harbor Automotive,Sacramento,Repair shop,30,10000,R. Shah (Controller),2025-03-26,2023-03-07,Y,0
+C1363,Liberty Transmission,Fresno,Repair shop,30,250,Not recorded,2026-04-02,2025-04-02,N,1
+C1364,Hernandez Rentals Fleet,Fresno,Fleet,45,250,R. Shah (Controller),2021-11-18,2021-11-10,Y,0
+C1365,Elite Car Care,Oakland,Repair shop,30,2250,Not recorded,2026-07-03,2021-03-09,N,0
+C1366,Merced Auto Repair,Sacramento,Repair shop,30,1250,L. Moreno (AR),2026-01-07,2024-11-26,N,0
+C1367,Canyon Auto Care,Bakersfield,Repair shop,30,250,R. Shah (Controller),2025-08-03,2025-07-14,Y,0
+C1368,Fremont Collision Center,Bakersfield,Body shop,30,,,,2022-10-25,N,0
+C1369,Monarch Logistics Fleet,Fresno,Fleet,45,1000,K. Patel (Sales),2022-01-30,2022-01-17,N,1
+C1370,Falcon Car Care,Sacramento,Repair shop,30,750,Not recorded,2017-04-10,2017-03-26,N,3
+C1371,Redwood Collision Center,Sacramento,Body shop,30,250,L. Moreno (AR),2026-06-18,2017-12-08,N,1
+C1372,Highway 99 Tire & Wheel,Bakersfield,Retail / other,15,250,Counter staff,2021-10-19,2021-10-09,N,1
+C1373,Miller Garage,Fresno,Repair shop,30,1750,D. Kim (Yard manager),2024-07-18,2022-08-14,N,1
+C1374,Miller Tire & Wheel,Oakland,Retail / other,15,250,T. Nguyen (Sales),2020-04-10,2017-06-25,Y,0
+C1375,Oak Body & Paint,Sacramento,Body shop,45,1250,A. Ruiz (Sales),2024-11-29,2024-11-21,Y,0
+C1376,Kern Collision Repair,Sacramento,Body shop,30,500,Not recorded,2021-12-21,2018-10-22,N,0
+C1377,Bayview Auto Repair,Oakland,Repair shop,15,5500,K. Patel (Sales),2026-08-01,2019-12-17,N,1
+C1378,Tulare Car Care,Oakland,Repair shop,15,1250,L. Moreno (AR),2025-03-31,2024-06-20,Y,0
+C1379,Foothill Auto Care,Oakland,Repair shop,30,2500,Counter staff,2026-07-24,2026-07-24,N,0
+C1380,Monarch Auto Body,Oakland,Body shop,30,3500,T. Nguyen (Sales),2025-08-22,2023-10-18,N,0
+C1381,Harbor Transmission,Fresno,Repair shop,30,250,K. Patel (Sales),2016-11-04,2016-10-07,Y,1
+C1382,Pioneer Collision,Oakland,Body shop,30,1250,A. Ruiz (Sales),2021-08-30,2021-08-23,N,0
+C1383,Delta Chevrolet Service,Oakland,Dealer,45,26000,Not recorded,2018-09-25,2018-02-28,N,0
+C1384,Express Auto Body,Bakersfield,Body shop,30,,,,2016-01-01,N,2
+C1385,Bayview Garage,Fresno,Repair shop,30,2250,Counter staff,2025-04-17,2024-07-14,Y,0
+C1386,Foothill Collision,Bakersfield,Body shop,30,750,Counter staff,2025-05-08,2016-01-28,Y,0
+C1387,Kowalski Collision,Fresno,Body shop,30,3000,R. Shah (Controller),2023-03-07,2023-02-18,Y,0
+C1388,Foothill Car Care,Sacramento,Repair shop,30,2500,Not recorded,2023-07-31,2023-07-28,Y,1
+C1389,Highway 99 Car Care,Bakersfield,Repair shop,15,250,L. Moreno (AR),2021-07-27,2021-07-12,N,3
+C1390,Golden Transmission,Oakland,Repair shop,30,500,K. Patel (Sales),2026-08-04,2021-11-21,N,2
+C1391,Liberty Car Care,Oakland,Repair shop,30,1500,T. Nguyen (Sales),2017-08-24,2017-08-12,N,0
+C1392,Falcon Collision,Oakland,Body shop,30,5000,T. Nguyen (Sales),2024-08-14,2023-10-24,N,1
+C1393,Golden Pre-Owned,Sacramento,Dealer,45,74000,T. Nguyen (Sales),2025-06-17,2022-11-13,N,0
+C1394,Hernandez Car Care,Sacramento,Repair shop,45,1500,A. Ruiz (Sales),2024-07-16,2020-01-04,Y,0
+C1395,Hayes Auto Repair,Sacramento,Repair shop,30,750,T. Nguyen (Sales),2016-07-16,2016-07-13,Y,0
+C1396,Merced Collision Center,Sacramento,Body shop,30,2250,R. Shah (Controller),2025-06-01,2024-08-01,Y,0
+C1397,Summit Auto Repair,Oakland,Repair shop,30,250,Counter staff,2021-04-08,2018-10-13,N,0
+C1398,Bear Creek Automotive,Bakersfield,Repair shop,30,,,,2024-06-20,Y,0
+C1399,Alameda Transmission,Sacramento,Repair shop,30,500,Counter staff,2022-06-01,2022-05-17,N,0
+C1400,Hayes Collision Center,Fresno,Body shop,30,,,,2017-04-13,N,0
+C1401,Capitol Transmission,Bakersfield,Repair shop,30,500,K. Patel (Sales),2018-03-09,2018-03-07,Y,1
+C1402,Twin Oaks Collision,Sacramento,Body shop,30,3250,Not recorded,2025-06-22,2025-06-03,N,0
+C1403,Thompson Collision,Sacramento,Body shop,30,21000,D. Kim (Yard manager),2021-11-30,2021-11-27,N,0
+C1404,Star Chevrolet Service,Oakland,Dealer,45,12000,D. Kim (Yard manager),2022-01-20,2017-10-06,N,0
+C1405,Precision Body & Paint,Sacramento,Body shop,30,750,K. Patel (Sales),2024-01-30,2024-01-25,N,1
+C1406,Cedar Motors,Oakland,Dealer,45,,,,2022-01-14,N,0
+C1407,Anderson Automotive,Oakland,Repair shop,30,6500,L. Moreno (AR),2020-03-15,2020-03-02,N,1
+C1408,Elite Collision,Fresno,Body shop,30,4250,A. Ruiz (Sales),2026-09-19,2024-06-27,Y,1
+C1409,Eagle Transmission,Bakersfield,Repair shop,30,1000,A. Ruiz (Sales),2026-07-06,2026-07-06,N,0
+C1410,Lakeside Motors,Oakland,Dealer,45,14000,A. Ruiz (Sales),2017-01-25,2017-01-22,N,0
+C1411,Bear Creek Transmission,Oakland,Repair shop,15,4750,D. Kim (Yard manager),2018-07-10,2016-04-07,Y,0
+C1412,Ace Auto Body,Bakersfield,Body shop,30,1500,T. Nguyen (Sales),2025-10-23,2025-06-09,Y,0
+C1413,Miller Collision Repair,Sacramento,Body shop,30,500,A. Ruiz (Sales),2018-09-19,2018-09-13,Y,1
+C1414,Alameda Body & Paint,Fresno,Body shop,45,5000,A. Ruiz (Sales),2026-08-21,2026-08-21,N,0
+C1415,Riverside Automotive,Oakland,Repair shop,30,1250,L. Moreno (AR),2017-07-21,2017-07-09,N,0
+C1416,Tulare Collision,Oakland,Body shop,30,500,Counter staff,2016-12-07,2016-11-20,N,0
+C1417,United Collision,Fresno,Body shop,30,1250,K. Patel (Sales),2024-10-16,2024-10-15,N,0
+C1418,Northgate Pre-Owned,Sacramento,Dealer,45,,,,2017-08-10,Y,0
+C1419,Ace Detailing,Sacramento,Retail / other,15,500,L. Moreno (AR),2017-06-11,2017-06-02,N,0
+C1420,Vista Collision Center,Sacramento,Body shop,30,500,A. Ruiz (Sales),2025-09-15,2018-01-26,N,3
+C1421,Lakeside Body & Paint,Sacramento,Body shop,30,3500,D. Kim (Yard manager),2017-03-07,2017-02-26,N,0
+C1422,Anderson Auto Body,Bakersfield,Body shop,30,750,R. Shah (Controller),2023-01-04,2021-04-02,N,1
+C1423,Liberty Auto Repair,Sacramento,Repair shop,30,750,Not recorded,2025-03-07,2024-09-10,Y,0
+C1424,Merced Auto Care,Oakland,Repair shop,30,23000,D. Kim (Yard manager),2016-12-17,2016-12-10,N,3
+C1425,Kern Auto Body,Fresno,Body shop,30,3250,A. Ruiz (Sales),2024-07-15,2020-08-23,N,0
+C1426,Pioneer Auto Body,Oakland,Body shop,30,500,D. Kim (Yard manager),2025-03-11,2025-03-11,N,1
+C1427,Foothill Collision Center,Oakland,Body shop,30,2750,D. Kim (Yard manager),2026-08-23,2017-07-02,N,0
+C1428,Star Transmission,Bakersfield,Repair shop,30,,,,2016-11-15,N,0
+C1429,Westgate Collision Center,Bakersfield,Body shop,30,3500,D. Kim (Yard manager),2017-05-14,2017-05-14,Y,1
+C1430,Sunrise Collision Center,Sacramento,Body shop,30,500,R. Shah (Controller),2021-10-05,2018-12-18,N,0
+C1431,Capitol Automotive,Bakersfield,Repair shop,30,2250,A. Ruiz (Sales),2019-03-27,2019-03-08,N,0
+C1432,Lakeside Garage,Oakland,Repair shop,30,2250,T. Nguyen (Sales),2025-12-08,2022-10-24,N,0
+C1433,Central Auto Group,Sacramento,Dealer,45,10500,A. Ruiz (Sales),2016-09-23,2016-09-23,Y,1
+C1434,Sutter Collision Repair,Oakland,Body shop,30,750,T. Nguyen (Sales),2024-12-15,2023-01-14,N,1
+C1435,Capitol Auto Care,Fresno,Repair shop,15,500,A. Ruiz (Sales),2025-01-25,2017-08-03,N,0
+C1436,Premier Car Care,Sacramento,Repair shop,30,1250,R. Shah (Controller),2026-07-18,2023-11-03,Y,1
+C1437,Diamond Tire & Wheel,Oakland,Retail / other,30,1250,A. Ruiz (Sales),2022-10-18,2016-04-20,N,0
+C1438,Delta Motors,Oakland,Dealer,15,500,Not recorded,2017-05-27,2017-05-09,N,0
+C1439,Summit Auto Care,Sacramento,Repair shop,30,5500,R. Shah (Controller),2024-09-28,2020-10-24,N,1
+C1440,Central Auto Body,Sacramento,Body shop,30,7000,D. Kim (Yard manager),2016-02-16,2016-02-16,Y,0
+C1441,Miller Collision,Fresno,Body shop,30,500,Not recorded,2019-12-31,2019-12-12,N,0
+C1442,Monarch Body & Paint,Fresno,Body shop,30,2250,Not recorded,2022-12-23,2020-02-14,N,2
+C1443,Alameda Collision Repair,Oakland,Body shop,15,500,Counter staff,2020-07-02,2020-06-24,Y,1
+C1444,Quality Garage,Oakland,Repair shop,30,,,,2021-10-11,N,0
+C1445,Orchard Auto Repair,Sacramento,Repair shop,30,1000,D. Kim (Yard manager),2023-11-23,2023-02-14,N,3
+C1446,Pioneer Collision Center,Oakland,Body shop,30,5000,Counter staff,2026-08-21,2026-08-21,N,0
+C1447,Central Logistics Fleet,Bakersfield,Fleet,30,3750,A. Ruiz (Sales),2017-09-08,2017-09-01,Y,0
+C1448,Valley Chevrolet Service,Bakersfield,Dealer,45,4000,A. Ruiz (Sales),2023-12-18,2023-12-11,Y,1
+C1449,Lopez Auto Repair,Sacramento,Repair shop,30,500,Not recorded,2023-02-11,2023-02-08,Y,0
+C1450,Star Auto Repair,Oakland,Repair shop,30,9000,K. Patel (Sales),2024-12-12,2024-11-22,N,3
+C1451,Brooks Body & Paint,Bakersfield,Body shop,30,7500,T. Nguyen (Sales),2020-12-15,2020-12-01,N,0
+C1452,Ace Body & Paint,Sacramento,Body shop,30,2250,A. Ruiz (Sales),2023-07-09,2023-06-20,N,0
+C1453,Reyes Auto Body,Bakersfield,Body shop,30,250,Counter staff,2023-10-04,2023-09-24,N,0
+C1454,Bear Creek Body & Paint,Oakland,Body shop,30,11500,T. Nguyen (Sales),2024-05-05,2017-07-22,Y,3
+C1455,Canyon Collision Repair,Bakersfield,Body shop,30,4000,R. Shah (Controller),2025-06-26,2025-04-06,N,1
+C1456,Anderson Body & Paint,Fresno,Body shop,30,2750,D. Kim (Yard manager),2021-07-15,2021-06-26,Y,0
+C1457,Harbor Body & Paint,Sacramento,Body shop,30,7500,Counter staff,2022-09-08,2017-08-20,N,2
+C1458,Tulare Automotive,Bakersfield,Repair shop,30,,,,2024-03-04,N,0
+C1459,Garcia Automotive,Oakland,Repair shop,30,,,,2023-09-04,N,1
+C1460,Anderson Collision Repair,Fresno,Body shop,15,250,T. Nguyen (Sales),2024-03-20,2021-07-24,N,0
+C1461,Sunrise Collision,Fresno,Body shop,30,3750,K. Patel (Sales),2026-08-05,2022-02-10,Y,0
+C1462,Highway 99 Transmission,Fresno,Repair shop,30,2000,Counter staff,2025-10-21,2024-11-28,N,0
+C1463,Diamond Collision Repair,Fresno,Body shop,30,750,K. Patel (Sales),2016-10-28,2016-10-18,N,0
+C1464,Merced Transmission,Sacramento,Repair shop,30,250,D. Kim (Yard manager),2016-11-04,2016-08-23,N,0
+C1465,Classic Auto Body,Oakland,Body shop,30,2500,Not recorded,2024-01-15,2024-01-15,Y,0
+C1466,Valley Collision Center,Sacramento,Body shop,30,1250,K. Patel (Sales),2020-01-11,2016-09-24,N,1
+C1467,Oak Collision,Sacramento,Body shop,30,500,D. Kim (Yard manager),2026-08-13,2024-08-26,Y,0
+C1468,Harbor Garage,Sacramento,Repair shop,30,500,A. Ruiz (Sales),2019-11-07,2018-04-07,Y,0
+C1469,Tulare Auto Body,Sacramento,Body shop,30,11000,K. Patel (Sales),2026-08-29,2024-10-25,Y,0
+C1470,Reyes Tire & Wheel,Sacramento,Retail / other,15,250,Not recorded,2018-04-26,2018-04-19,N,1
+C1471,Express Car Care,Oakland,Repair shop,30,250,D. Kim (Yard manager),2024-08-29,2024-08-25,Y,1
+C1472,Liberty Auto Body,Bakersfield,Body shop,30,750,A. Ruiz (Sales),2021-03-18,2021-02-28,N,0
+C1473,Oak Pre-Owned,Sacramento,Dealer,45,2250,A. Ruiz (Sales),2022-12-25,2022-12-21,N,0
+C1474,Miller Collision Center,Fresno,Body shop,30,8000,D. Kim (Yard manager),2021-07-22,2021-07-06,N,0
+C1475,Singh Collision Center,Bakersfield,Body shop,30,1500,A. Ruiz (Sales),2021-08-14,2019-07-19,N,0
+C1476,Kowalski Auto Repair,Oakland,Repair shop,30,750,A. Ruiz (Sales),2026-03-27,2025-04-22,N,0
+C1477,Garcia Collision Repair,Fresno,Body shop,30,7000,A. Ruiz (Sales),2019-08-14,2018-10-17,Y,0
+C1478,Pro Garage,Bakersfield,Repair shop,30,10000,K. Patel (Sales),2026-07-12,2020-10-17,N,1
+C1479,Premier Garage,Sacramento,Repair shop,45,1000,D. Kim (Yard manager),2018-09-08,2018-09-08,N,0
+C1480,Canyon Auto Body,Fresno,Body shop,15,500,Not recorded,2017-07-06,2017-07-01,N,1
+C1481,Tran Body & Paint,Sacramento,Body shop,30,1000,K. Patel (Sales),2022-07-28,2022-07-25,Y,0
+C1482,Cedar Collision Repair,Bakersfield,Body shop,30,250,K. Patel (Sales),2024-02-24,2024-02-15,N,1
+C1483,Pacific Auto Body,Sacramento,Body shop,30,1500,Not recorded,2025-03-02,2018-12-18,N,1
+C1484,Foothill Mobile Mechanic,Sacramento,Retail / other,15,750,D. Kim (Yard manager),2023-09-25,2023-09-05,N,0
+C1485,Allied Auto Body,Sacramento,Body shop,30,1250,L. Moreno (AR),2022-03-11,2022-02-26,N,0
+C1486,Reyes Logistics Fleet,Sacramento,Fleet,45,1500,D. Kim (Yard manager),2022-11-19,2022-11-07,N,0
+C1487,Davis Towing,Bakersfield,Fleet,45,750,R. Shah (Controller),2022-04-18,2022-04-07,N,3
+C1488,Tran Car Care,Fresno,Repair shop,30,,,,2016-03-27,Y,0
+C1489,Pacific Pre-Owned,Sacramento,Dealer,45,2250,D. Kim (Yard manager),2020-11-13,2020-11-13,N,3
+C1490,Pacific Body & Paint,Bakersfield,Body shop,30,12500,A. Ruiz (Sales),2016-02-06,2016-01-25,N,0
+C1491,Miller Automotive,Fresno,Repair shop,45,1500,Not recorded,2026-08-21,2021-02-20,N,1
+C1492,Romero Body & Paint,Sacramento,Body shop,30,1000,D. Kim (Yard manager),2025-10-24,2024-10-15,N,0
+C1493,Kowalski Collision Repair,Fresno,Body shop,45,1000,A. Ruiz (Sales),2019-05-15,2019-05-03,N,0
+C1494,Delta Body & Paint,Bakersfield,Body shop,30,500,D. Kim (Yard manager),2021-07-02,2016-02-12,Y,3
+C1495,Harbor Tire & Wheel,Fresno,Retail / other,15,750,T. Nguyen (Sales),2022-08-01,2022-07-25,N,0
+C1496,Alameda Auto Body,Oakland,Body shop,30,500,K. Patel (Sales),2024-12-05,2018-02-15,N,1
+C1497,Tran Automotive,Sacramento,Repair shop,30,5000,Not recorded,2020-07-22,2020-07-06,N,2
+C1498,Singh Auto Parts Resale,Oakland,Retail / other,15,250,K. Patel (Sales),2025-08-17,2017-04-17,N,3
+C1499,Liberty Detailing,Oakland,Retail / other,15,250,Not recorded,2022-03-16,2022-02-26,N,1
+C1500,Summit Auto Body,Bakersfield,Body shop,30,10500,K. Patel (Sales),2026-08-02,2017-07-20,N,2
+C1501,Precision Auto Body,Bakersfield,Body shop,15,13500,D. Kim (Yard manager),2023-05-18,2023-05-06,N,0
+C1502,Lopez Automotive,Oakland,Repair shop,30,500,A. Ruiz (Sales),2022-01-22,2022-01-05,N,0
+C1503,Kern Customs,Sacramento,Retail / other,30,1000,Counter staff,2026-08-26,2026-08-26,Y,0
+C1504,Hayes Pre-Owned,Bakersfield,Dealer,30,750,L. Moreno (AR),2022-09-27,2022-09-20,N,0
+C1505,Anderson Auto Care,Fresno,Repair shop,30,3000,K. Patel (Sales),2026-03-17,2025-07-18,N,0
+C1506,Pacific Garage,Bakersfield,Repair shop,30,250,Counter staff,2021-02-01,2021-01-14,N,0
+C1507,Highway 99 Automotive,Sacramento,Repair shop,30,3500,A. Ruiz (Sales),2019-04-11,2019-03-25,Y,2
+C1508,Walker Collision Repair,Sacramento,Body shop,30,250,A. Ruiz (Sales),2023-10-15,2022-01-04,Y,1
+C1509,Riverside Car Care,Oakland,Repair shop,30,2000,L. Moreno (AR),2017-03-20,2017-03-11,N,0
+C1510,Granite Garage,Fresno,Repair shop,30,500,D. Kim (Yard manager),2016-02-03,2016-01-26,Y,0
+C1511,Liberty Transport,Oakland,Fleet,45,3250,A. Ruiz (Sales),2022-04-25,2022-04-18,N,0
+C1512,Vista Auto Repair,Bakersfield,Repair shop,30,1250,K. Patel (Sales),2018-09-03,2018-08-24,Y,1
+C1513,Singh Auto Group,Oakland,Dealer,30,17000,K. Patel (Sales),2025-02-06,2024-03-05,Y,0
+C1514,Harbor Collision Center,Fresno,Body shop,30,2000,A. Ruiz (Sales),2021-11-23,2020-07-15,N,3
+C1515,Pro Automotive,Fresno,Repair shop,30,1000,T. Nguyen (Sales),2020-01-06,2020-01-05,Y,0
+C1516,Allied Collision,Sacramento,Body shop,30,2750,R. Shah (Controller),2024-10-13,2024-10-08,Y,1
+C1517,Premier Collision Repair,Fresno,Body shop,30,250,Counter staff,2021-08-10,2018-02-21,N,0
+C1518,Falcon Body & Paint,Sacramento,Body shop,30,2500,K. Patel (Sales),2018-11-29,2016-03-13,Y,0
+C1519,Ace Collision Repair,Bakersfield,Body shop,30,,,,2025-02-12,Y,1

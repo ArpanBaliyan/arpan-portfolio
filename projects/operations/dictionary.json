@@ -1,0 +1,42 @@
+[
+  {
+    "field": "ticket_id",
+    "type": "TEXT",
+    "definition": "Ticket id"
+  },
+  {
+    "field": "customer",
+    "type": "TEXT",
+    "definition": "Customer"
+  },
+  {
+    "field": "stage",
+    "type": "TEXT",
+    "definition": "Stage"
+  },
+  {
+    "field": "elapsed_hours",
+    "type": "REAL",
+    "definition": "Elapsed hours"
+  },
+  {
+    "field": "target_hours",
+    "type": "REAL",
+    "definition": "Target hours"
+  },
+  {
+    "field": "owner",
+    "type": "TEXT",
+    "definition": "Owner"
+  },
+  {
+    "field": "status",
+    "type": "TEXT",
+    "definition": "Status"
+  },
+  {
+    "field": "next_action",
+    "type": "TEXT",
+    "definition": "Next action"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "week": "2026-11-02",
+    "receipts_usd": 82537.44,
+    "supplier_usd": 40638.99,
+    "payroll_usd": 16500,
+    "refunds_usd": 1178.66,
+    "other_usd": 3923.26,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2026-11-09",
+    "receipts_usd": 76277.26,
+    "supplier_usd": 39113.25,
+    "payroll_usd": 0,
+    "refunds_usd": 4354.58,
+    "other_usd": 5022.41,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2026-11-16",
+    "receipts_usd": 60962.2,
+    "supplier_usd": 40809.99,
+    "payroll_usd": 16500,
+    "refunds_usd": 2501.63,
+    "other_usd": 3871.39,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2026-11-23",
+    "receipts_usd": 65552.1,
+    "supplier_usd": 47808.81,
+    "payroll_usd": 0,
+    "refunds_usd": 4938.01,
+    "other_usd": 6867.74,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2026-11-30",
+    "receipts_usd": 65927.68,
+    "supplier_usd": 33171.09,
+    "payroll_usd": 16500,
+    "refunds_usd": 3379.39,
+    "other_usd": 3802.39,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2026-12-07",
+    "receipts_usd": 62213.06,
+    "supplier_usd": 41193.2,
+    "payroll_usd": 0,
+    "refunds_usd": 4559.86,
+    "other_usd": 5733.96,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2026-12-14",
+    "receipts_usd": 84203.09,
+    "supplier_usd": 35239.47,
+    "payroll_usd": 16500,
+    "refunds_usd": 2274.04,
+    "other_usd": 7208.3,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2026-12-21",
+    "receipts_usd": 61149.48,
+    "supplier_usd": 34881.74,
+    "payroll_usd": 0,
+    "refunds_usd": 3684.75,
+    "other_usd": 4984.34,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2026-12-28",
+    "receipts_usd": 87823.21,
+    "supplier_usd": 42662.18,
+    "payroll_usd": 16500,
+    "refunds_usd": 5493.0,
+    "other_usd": 5009.9,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2027-01-04",
+    "receipts_usd": 62352.26,
+    "supplier_usd": 37047.81,
+    "payroll_usd": 0,
+    "refunds_usd": 1129.74,
+    "other_usd": 5464.52,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2027-01-11",
+    "receipts_usd": 75964.86,
+    "supplier_usd": 36000.02,
+    "payroll_usd": 16500,
+    "refunds_usd": 1647.72,
+    "other_usd": 6607.11,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2027-01-18",
+    "receipts_usd": 84397.3,
+    "supplier_usd": 45441.21,
+    "payroll_usd": 0,
+    "refunds_usd": 1378.89,
+    "other_usd": 4407.96,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  },
+  {
+    "week": "2027-01-25",
+    "receipts_usd": 86116.87,
+    "supplier_usd": 42910.0,
+    "payroll_usd": 16500,
+    "refunds_usd": 4304.74,
+    "other_usd": 3645.17,
+    "owner": "Planning desk",
+    "assumption": "Illustrative receipts and commitments; not a predictive claim."
+  }
+]

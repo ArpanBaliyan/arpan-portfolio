@@ -1,0 +1,161 @@
+﻿account_id,customer,yard,open_usd,days_from_invoice,status,owner,next_action
+W00001,Alder Auto Body,North yard,10203.89,165,Dispute review,Maya Chen,Pause the disputed ask and reconcile the evidence.
+W00002,Bluewater Auto Body,Valley yard,1027.8,42,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00003,Cedar Auto Body,Coastal yard,17280.92,79,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00004,Driftwood Auto Body,Central yard,14822.42,141,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00005,Eastbank Auto Body,North yard,13516.21,144,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00006,Fairview Auto Body,Valley yard,13105.81,105,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00007,Glenrock Auto Body,Coastal yard,4583.54,78,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00008,Harbour Auto Body,Central yard,12431.55,105,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00009,Ironwood Auto Body,North yard,6359.43,50,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00010,Juniper Auto Body,Valley yard,483.57,91,Return check,Maya Chen,Confirm open pickup and delivery-ticket status.
+W00011,Kingsway Auto Body,Coastal yard,17276.18,90,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00012,Lakeside Auto Body,Central yard,14475.68,118,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00013,Maple Auto Body,North yard,7933.17,118,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00014,Northstar Auto Body,Valley yard,10072.83,146,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00015,Oakfield Auto Body,Coastal yard,15560.91,66,Return check,Sam Rivera,Confirm open pickup and delivery-ticket status.
+W00016,Parkside Auto Body,Central yard,2130.45,129,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00017,Quarry Auto Body,North yard,16690.05,136,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00018,Redwood Auto Body,Valley yard,6058.34,104,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00019,Summit Auto Body,Coastal yard,9234.0,159,Promise due,Maya Chen,Check whether the agreed payment arrived before following up.
+W00020,Tidewater Auto Body,Central yard,6580.44,96,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00021,Alder Repair Group,North yard,15917.56,73,Return check,Sam Rivera,Confirm open pickup and delivery-ticket status.
+W00022,Bluewater Repair Group,Valley yard,5621.08,74,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00023,Cedar Repair Group,Coastal yard,5019.73,53,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00024,Driftwood Repair Group,Central yard,14513.11,155,Return check,Sam Rivera,Confirm open pickup and delivery-ticket status.
+W00025,Eastbank Repair Group,North yard,6189.35,91,Dispute review,Maya Chen,Pause the disputed ask and reconcile the evidence.
+W00026,Fairview Repair Group,Valley yard,15107.53,57,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00027,Glenrock Repair Group,Coastal yard,9954.76,82,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00028,Harbour Repair Group,Central yard,462.53,164,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00029,Ironwood Repair Group,North yard,2717.62,37,Return check,Jordan Lee,Confirm open pickup and delivery-ticket status.
+W00030,Juniper Repair Group,Valley yard,11521.56,82,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00031,Kingsway Repair Group,Coastal yard,7537.18,68,Dispute review,Maya Chen,Pause the disputed ask and reconcile the evidence.
+W00032,Lakeside Repair Group,Central yard,230.84,135,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00033,Maple Repair Group,North yard,17759.28,127,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00034,Northstar Repair Group,Valley yard,3484.43,54,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00035,Oakfield Repair Group,Coastal yard,14193.78,64,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00036,Parkside Repair Group,Central yard,11003.05,96,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00037,Quarry Repair Group,North yard,5130.07,131,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00038,Redwood Repair Group,Valley yard,9936.9,55,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00039,Summit Repair Group,Coastal yard,10740.22,102,Return check,Sam Rivera,Confirm open pickup and delivery-ticket status.
+W00040,Tidewater Repair Group,Central yard,9213.11,93,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00041,Alder Fleet Services,North yard,6779.33,138,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00042,Bluewater Fleet Services,Valley yard,6961.41,82,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00043,Cedar Fleet Services,Coastal yard,13031.1,144,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00044,Driftwood Fleet Services,Central yard,17355.89,43,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00045,Eastbank Fleet Services,North yard,2819.99,77,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00046,Fairview Fleet Services,Valley yard,12920.51,43,Return check,Maya Chen,Confirm open pickup and delivery-ticket status.
+W00047,Glenrock Fleet Services,Coastal yard,2600.74,178,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00048,Harbour Fleet Services,Central yard,6575.39,72,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00049,Ironwood Fleet Services,North yard,786.22,57,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00050,Juniper Fleet Services,Valley yard,17048.49,178,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00051,Kingsway Fleet Services,Coastal yard,17891.97,86,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00052,Lakeside Fleet Services,Central yard,5724.26,103,Return check,Maya Chen,Confirm open pickup and delivery-ticket status.
+W00053,Maple Fleet Services,North yard,5874.38,97,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00054,Northstar Fleet Services,Valley yard,8888.46,149,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00055,Oakfield Fleet Services,Coastal yard,17025.18,82,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00056,Parkside Fleet Services,Central yard,15345.91,73,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00057,Quarry Fleet Services,North yard,9248.31,87,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00058,Redwood Fleet Services,Valley yard,11074.55,111,Return check,Maya Chen,Confirm open pickup and delivery-ticket status.
+W00059,Summit Fleet Services,Coastal yard,7180.58,136,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00060,Tidewater Fleet Services,Central yard,7055.55,118,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00061,Alder Motor Works,North yard,3190.77,51,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00062,Bluewater Motor Works,Valley yard,2298.04,122,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00063,Cedar Motor Works,Coastal yard,10736.35,143,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00064,Driftwood Motor Works,Central yard,12924.63,98,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00065,Eastbank Motor Works,North yard,1885.44,130,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00066,Fairview Motor Works,Valley yard,9768.33,85,Return check,Sam Rivera,Confirm open pickup and delivery-ticket status.
+W00067,Glenrock Motor Works,Coastal yard,15520.73,45,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00068,Harbour Motor Works,Central yard,1920.35,69,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00069,Ironwood Motor Works,North yard,16581.06,153,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00070,Juniper Motor Works,Valley yard,11748.05,119,Promise due,Maya Chen,Check whether the agreed payment arrived before following up.
+W00071,Kingsway Motor Works,Coastal yard,8467.15,108,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00072,Lakeside Motor Works,Central yard,16311.3,31,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00073,Maple Motor Works,North yard,13994.45,158,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00074,Northstar Motor Works,Valley yard,8293.07,158,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00075,Oakfield Motor Works,Coastal yard,2605.83,180,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00076,Parkside Motor Works,Central yard,3592.19,166,Promise due,Maya Chen,Check whether the agreed payment arrived before following up.
+W00077,Quarry Motor Works,North yard,1790.51,94,Return check,Jordan Lee,Confirm open pickup and delivery-ticket status.
+W00078,Redwood Motor Works,Valley yard,3329.52,116,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00079,Summit Motor Works,Coastal yard,7676.48,150,Promise due,Maya Chen,Check whether the agreed payment arrived before following up.
+W00080,Tidewater Motor Works,Central yard,16489.98,41,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00081,Alder Collision Centre,North yard,11028.55,44,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00082,Bluewater Collision Centre,Valley yard,2868.93,175,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00083,Cedar Collision Centre,Coastal yard,16990.67,100,Promise due,Jordan Lee,Check whether the agreed payment arrived before following up.
+W00084,Driftwood Collision Centre,Central yard,10162.06,115,Return check,Sam Rivera,Confirm open pickup and delivery-ticket status.
+W00085,Eastbank Collision Centre,North yard,15982.94,73,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00086,Fairview Collision Centre,Valley yard,3697.75,65,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00087,Glenrock Collision Centre,Coastal yard,12749.45,63,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00088,Harbour Collision Centre,Central yard,11911.25,96,Dispute review,Maya Chen,Pause the disputed ask and reconcile the evidence.
+W00089,Ironwood Collision Centre,North yard,4592.74,89,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00090,Juniper Collision Centre,Valley yard,3257.47,95,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00091,Kingsway Collision Centre,Coastal yard,2770.81,167,Dispute review,Maya Chen,Pause the disputed ask and reconcile the evidence.
+W00092,Lakeside Collision Centre,Central yard,1459.96,117,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00093,Maple Collision Centre,North yard,13264.03,169,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00094,Northstar Collision Centre,Valley yard,14765.79,39,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00095,Oakfield Collision Centre,Coastal yard,8298.87,140,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00096,Parkside Collision Centre,Central yard,15047.2,43,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00097,Quarry Collision Centre,North yard,10046.74,128,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00098,Redwood Collision Centre,Valley yard,11196.03,31,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00099,Summit Collision Centre,Coastal yard,2624.88,44,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00100,Tidewater Collision Centre,Central yard,14512.94,166,Return check,Maya Chen,Confirm open pickup and delivery-ticket status.
+W00101,Alder Parts Network,North yard,14558.37,71,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00102,Bluewater Parts Network,Valley yard,7911.34,171,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00103,Cedar Parts Network,Coastal yard,11352.33,81,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00104,Driftwood Parts Network,Central yard,7725.27,52,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00105,Eastbank Parts Network,North yard,825.88,34,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00106,Fairview Parts Network,Valley yard,1971.6,37,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00107,Glenrock Parts Network,Coastal yard,13817.35,38,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00108,Harbour Parts Network,Central yard,14079.1,170,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00109,Ironwood Parts Network,North yard,8304.61,125,Dispute review,Maya Chen,Pause the disputed ask and reconcile the evidence.
+W00110,Juniper Parts Network,Valley yard,10281.98,43,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00111,Kingsway Parts Network,Coastal yard,17302.72,150,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00112,Lakeside Parts Network,Central yard,13196.08,57,Return check,Maya Chen,Confirm open pickup and delivery-ticket status.
+W00113,Maple Parts Network,North yard,16024.22,145,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00114,Northstar Parts Network,Valley yard,14466.88,117,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00115,Oakfield Parts Network,Coastal yard,15036.68,167,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00116,Parkside Parts Network,Central yard,12174.93,100,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00117,Quarry Parts Network,North yard,15224.13,41,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00118,Redwood Parts Network,Valley yard,12763.91,135,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00119,Summit Parts Network,Coastal yard,9084.41,77,Return check,Jordan Lee,Confirm open pickup and delivery-ticket status.
+W00120,Tidewater Parts Network,Central yard,683.12,40,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00121,Alder Service Garage,North yard,1601.97,53,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00122,Bluewater Service Garage,Valley yard,16639.07,161,Return check,Jordan Lee,Confirm open pickup and delivery-ticket status.
+W00123,Cedar Service Garage,Coastal yard,7607.5,140,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00124,Driftwood Service Garage,Central yard,8647.27,57,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00125,Eastbank Service Garage,North yard,12104.95,140,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00126,Fairview Service Garage,Valley yard,8977.94,96,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00127,Glenrock Service Garage,Coastal yard,251.49,165,Dispute review,Maya Chen,Pause the disputed ask and reconcile the evidence.
+W00128,Harbour Service Garage,Central yard,4563.36,151,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00129,Ironwood Service Garage,North yard,15041.42,133,Return check,Sam Rivera,Confirm open pickup and delivery-ticket status.
+W00130,Juniper Service Garage,Valley yard,16170.56,93,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00131,Kingsway Service Garage,Coastal yard,997.01,104,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00132,Lakeside Service Garage,Central yard,14650.25,176,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00133,Maple Service Garage,North yard,10092.58,67,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00134,Northstar Service Garage,Valley yard,16832.18,127,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00135,Oakfield Service Garage,Coastal yard,1962.15,135,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00136,Parkside Service Garage,Central yard,17718.55,69,Dispute review,Maya Chen,Pause the disputed ask and reconcile the evidence.
+W00137,Quarry Service Garage,North yard,10331.71,78,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00138,Redwood Service Garage,Valley yard,1793.69,37,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00139,Summit Service Garage,Coastal yard,3937.44,148,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00140,Tidewater Service Garage,Central yard,12488.95,135,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00141,Alder Vehicle Care,North yard,7554.29,84,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00142,Bluewater Vehicle Care,Valley yard,2717.4,46,Promise due,Maya Chen,Check whether the agreed payment arrived before following up.
+W00143,Cedar Vehicle Care,Coastal yard,3105.87,141,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00144,Driftwood Vehicle Care,Central yard,15914.48,151,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00145,Eastbank Vehicle Care,North yard,10909.56,82,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00146,Fairview Vehicle Care,Valley yard,6856.81,162,Credit pending,Jordan Lee,Obtain the scan reference and request the credit memo.
+W00147,Glenrock Vehicle Care,Coastal yard,17964.44,127,Collect,Sam Rivera,Confirm the payable balance and request a payment date.
+W00148,Harbour Vehicle Care,Central yard,9151.04,115,Return check,Maya Chen,Confirm open pickup and delivery-ticket status.
+W00149,Ironwood Vehicle Care,North yard,12140.45,136,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00150,Juniper Vehicle Care,Valley yard,8818.49,86,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00151,Kingsway Vehicle Care,Coastal yard,13892.02,153,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00152,Lakeside Vehicle Care,Central yard,4305.18,177,Dispute review,Jordan Lee,Pause the disputed ask and reconcile the evidence.
+W00153,Maple Vehicle Care,North yard,2546.54,33,Credit pending,Sam Rivera,Obtain the scan reference and request the credit memo.
+W00154,Northstar Vehicle Care,Valley yard,16349.7,154,Collect,Maya Chen,Confirm the payable balance and request a payment date.
+W00155,Oakfield Vehicle Care,Coastal yard,7248.33,34,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00156,Parkside Vehicle Care,Central yard,9420.67,168,Dispute review,Sam Rivera,Pause the disputed ask and reconcile the evidence.
+W00157,Quarry Vehicle Care,North yard,14685.27,138,Credit pending,Maya Chen,Obtain the scan reference and request the credit memo.
+W00158,Redwood Vehicle Care,Valley yard,13356.48,162,Collect,Jordan Lee,Confirm the payable balance and request a payment date.
+W00159,Summit Vehicle Care,Coastal yard,14998.41,92,Promise due,Sam Rivera,Check whether the agreed payment arrived before following up.
+W00160,Tidewater Vehicle Care,Central yard,8040.14,65,Promise due,Maya Chen,Check whether the agreed payment arrived before following up.

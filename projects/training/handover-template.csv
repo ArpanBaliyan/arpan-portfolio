@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,Days 1–3: account foundations,Account screen examples and glossary,"Release a learner to independent work after practical demonstrations and documented coaching, rather than after an arbitrary number of calls.","Identify invoice, statement, delivery and credit records.",Coach,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation

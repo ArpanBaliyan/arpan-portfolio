@@ -1,0 +1,57 @@
+[
+  {
+    "field": "client_id",
+    "type": "TEXT",
+    "definition": "Client id"
+  },
+  {
+    "field": "client",
+    "type": "TEXT",
+    "definition": "Client"
+  },
+  {
+    "field": "locations",
+    "type": "REAL",
+    "definition": "Locations"
+  },
+  {
+    "field": "health",
+    "type": "TEXT",
+    "definition": "Health"
+  },
+  {
+    "field": "open_issues",
+    "type": "REAL",
+    "definition": "Open issues"
+  },
+  {
+    "field": "opportunity_usd",
+    "type": "REAL",
+    "definition": "US dollars, illustrative amount"
+  },
+  {
+    "field": "stage",
+    "type": "TEXT",
+    "definition": "Stage"
+  },
+  {
+    "field": "next_action",
+    "type": "TEXT",
+    "definition": "Next action"
+  },
+  {
+    "field": "central_contact",
+    "type": "TEXT",
+    "definition": "Central contact"
+  },
+  {
+    "field": "review_cadence",
+    "type": "TEXT",
+    "definition": "Review cadence"
+  },
+  {
+    "field": "discovery_question",
+    "type": "TEXT",
+    "definition": "Discovery question"
+  }
+]

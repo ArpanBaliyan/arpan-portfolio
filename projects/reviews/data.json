@@ -1,0 +1,362 @@
+[
+  {
+    "review_id": "RV-0001",
+    "agent": "Maya Chen",
+    "week": "2026-10-30",
+    "attempts": 242,
+    "contacts": 174,
+    "promises": 44,
+    "followup_pct": 69,
+    "quality_pct": 95
+  },
+  {
+    "review_id": "RV-0002",
+    "agent": "Jordan Lee",
+    "week": "2026-10-30",
+    "attempts": 321,
+    "contacts": 190,
+    "promises": 25,
+    "followup_pct": 78,
+    "quality_pct": 82
+  },
+  {
+    "review_id": "RV-0003",
+    "agent": "Sam Rivera",
+    "week": "2026-10-30",
+    "attempts": 256,
+    "contacts": 121,
+    "promises": 22,
+    "followup_pct": 77,
+    "quality_pct": 96
+  },
+  {
+    "review_id": "RV-0004",
+    "agent": "Maya Chen",
+    "week": "2026-10-23",
+    "attempts": 378,
+    "contacts": 115,
+    "promises": 43,
+    "followup_pct": 86,
+    "quality_pct": 76
+  },
+  {
+    "review_id": "RV-0005",
+    "agent": "Jordan Lee",
+    "week": "2026-10-23",
+    "attempts": 244,
+    "contacts": 161,
+    "promises": 58,
+    "followup_pct": 94,
+    "quality_pct": 75
+  },
+  {
+    "review_id": "RV-0006",
+    "agent": "Sam Rivera",
+    "week": "2026-10-23",
+    "attempts": 376,
+    "contacts": 174,
+    "promises": 33,
+    "followup_pct": 77,
+    "quality_pct": 81
+  },
+  {
+    "review_id": "RV-0007",
+    "agent": "Maya Chen",
+    "week": "2026-10-16",
+    "attempts": 384,
+    "contacts": 81,
+    "promises": 29,
+    "followup_pct": 78,
+    "quality_pct": 78
+  },
+  {
+    "review_id": "RV-0008",
+    "agent": "Jordan Lee",
+    "week": "2026-10-16",
+    "attempts": 237,
+    "contacts": 135,
+    "promises": 58,
+    "followup_pct": 66,
+    "quality_pct": 81
+  },
+  {
+    "review_id": "RV-0009",
+    "agent": "Sam Rivera",
+    "week": "2026-10-16",
+    "attempts": 289,
+    "contacts": 143,
+    "promises": 22,
+    "followup_pct": 82,
+    "quality_pct": 73
+  },
+  {
+    "review_id": "RV-0010",
+    "agent": "Maya Chen",
+    "week": "2026-10-09",
+    "attempts": 277,
+    "contacts": 124,
+    "promises": 34,
+    "followup_pct": 83,
+    "quality_pct": 92
+  },
+  {
+    "review_id": "RV-0011",
+    "agent": "Jordan Lee",
+    "week": "2026-10-09",
+    "attempts": 305,
+    "contacts": 104,
+    "promises": 60,
+    "followup_pct": 67,
+    "quality_pct": 75
+  },
+  {
+    "review_id": "RV-0012",
+    "agent": "Sam Rivera",
+    "week": "2026-10-09",
+    "attempts": 297,
+    "contacts": 93,
+    "promises": 68,
+    "followup_pct": 72,
+    "quality_pct": 96
+  },
+  {
+    "review_id": "RV-0013",
+    "agent": "Maya Chen",
+    "week": "2026-10-02",
+    "attempts": 228,
+    "contacts": 137,
+    "promises": 34,
+    "followup_pct": 66,
+    "quality_pct": 75
+  },
+  {
+    "review_id": "RV-0014",
+    "agent": "Jordan Lee",
+    "week": "2026-10-02",
+    "attempts": 338,
+    "contacts": 178,
+    "promises": 34,
+    "followup_pct": 96,
+    "quality_pct": 91
+  },
+  {
+    "review_id": "RV-0015",
+    "agent": "Sam Rivera",
+    "week": "2026-10-02",
+    "attempts": 272,
+    "contacts": 119,
+    "promises": 40,
+    "followup_pct": 72,
+    "quality_pct": 92
+  },
+  {
+    "review_id": "RV-0016",
+    "agent": "Maya Chen",
+    "week": "2026-09-25",
+    "attempts": 349,
+    "contacts": 114,
+    "promises": 33,
+    "followup_pct": 84,
+    "quality_pct": 79
+  },
+  {
+    "review_id": "RV-0017",
+    "agent": "Jordan Lee",
+    "week": "2026-09-25",
+    "attempts": 388,
+    "contacts": 130,
+    "promises": 41,
+    "followup_pct": 77,
+    "quality_pct": 87
+  },
+  {
+    "review_id": "RV-0018",
+    "agent": "Sam Rivera",
+    "week": "2026-09-25",
+    "attempts": 266,
+    "contacts": 124,
+    "promises": 39,
+    "followup_pct": 68,
+    "quality_pct": 75
+  },
+  {
+    "review_id": "RV-0019",
+    "agent": "Maya Chen",
+    "week": "2026-09-18",
+    "attempts": 225,
+    "contacts": 150,
+    "promises": 63,
+    "followup_pct": 93,
+    "quality_pct": 91
+  },
+  {
+    "review_id": "RV-0020",
+    "agent": "Jordan Lee",
+    "week": "2026-09-18",
+    "attempts": 382,
+    "contacts": 82,
+    "promises": 24,
+    "followup_pct": 88,
+    "quality_pct": 94
+  },
+  {
+    "review_id": "RV-0021",
+    "agent": "Sam Rivera",
+    "week": "2026-09-18",
+    "attempts": 391,
+    "contacts": 150,
+    "promises": 62,
+    "followup_pct": 73,
+    "quality_pct": 82
+  },
+  {
+    "review_id": "RV-0022",
+    "agent": "Maya Chen",
+    "week": "2026-09-11",
+    "attempts": 265,
+    "contacts": 164,
+    "promises": 29,
+    "followup_pct": 74,
+    "quality_pct": 81
+  },
+  {
+    "review_id": "RV-0023",
+    "agent": "Jordan Lee",
+    "week": "2026-09-11",
+    "attempts": 363,
+    "contacts": 169,
+    "promises": 39,
+    "followup_pct": 69,
+    "quality_pct": 97
+  },
+  {
+    "review_id": "RV-0024",
+    "agent": "Sam Rivera",
+    "week": "2026-09-11",
+    "attempts": 406,
+    "contacts": 81,
+    "promises": 42,
+    "followup_pct": 93,
+    "quality_pct": 98
+  },
+  {
+    "review_id": "RV-0025",
+    "agent": "Maya Chen",
+    "week": "2026-09-04",
+    "attempts": 271,
+    "contacts": 124,
+    "promises": 35,
+    "followup_pct": 70,
+    "quality_pct": 91
+  },
+  {
+    "review_id": "RV-0026",
+    "agent": "Jordan Lee",
+    "week": "2026-09-04",
+    "attempts": 339,
+    "contacts": 126,
+    "promises": 52,
+    "followup_pct": 84,
+    "quality_pct": 79
+  },
+  {
+    "review_id": "RV-0027",
+    "agent": "Sam Rivera",
+    "week": "2026-09-04",
+    "attempts": 282,
+    "contacts": 155,
+    "promises": 70,
+    "followup_pct": 67,
+    "quality_pct": 94
+  },
+  {
+    "review_id": "RV-0028",
+    "agent": "Maya Chen",
+    "week": "2026-08-28",
+    "attempts": 255,
+    "contacts": 186,
+    "promises": 70,
+    "followup_pct": 66,
+    "quality_pct": 91
+  },
+  {
+    "review_id": "RV-0029",
+    "agent": "Jordan Lee",
+    "week": "2026-08-28",
+    "attempts": 414,
+    "contacts": 148,
+    "promises": 46,
+    "followup_pct": 82,
+    "quality_pct": 98
+  },
+  {
+    "review_id": "RV-0030",
+    "agent": "Sam Rivera",
+    "week": "2026-08-28",
+    "attempts": 343,
+    "contacts": 140,
+    "promises": 42,
+    "followup_pct": 90,
+    "quality_pct": 85
+  },
+  {
+    "review_id": "RV-0031",
+    "agent": "Maya Chen",
+    "week": "2026-08-21",
+    "attempts": 254,
+    "contacts": 148,
+    "promises": 66,
+    "followup_pct": 65,
+    "quality_pct": 89
+  },
+  {
+    "review_id": "RV-0032",
+    "agent": "Jordan Lee",
+    "week": "2026-08-21",
+    "attempts": 239,
+    "contacts": 173,
+    "promises": 64,
+    "followup_pct": 98,
+    "quality_pct": 98
+  },
+  {
+    "review_id": "RV-0033",
+    "agent": "Sam Rivera",
+    "week": "2026-08-21",
+    "attempts": 235,
+    "contacts": 154,
+    "promises": 27,
+    "followup_pct": 77,
+    "quality_pct": 75
+  },
+  {
+    "review_id": "RV-0034",
+    "agent": "Maya Chen",
+    "week": "2026-08-14",
+    "attempts": 324,
+    "contacts": 164,
+    "promises": 57,
+    "followup_pct": 73,
+    "quality_pct": 85
+  },
+  {
+    "review_id": "RV-0035",
+    "agent": "Jordan Lee",
+    "week": "2026-08-14",
+    "attempts": 349,
+    "contacts": 120,
+    "promises": 26,
+    "followup_pct": 66,
+    "quality_pct": 88
+  },
+  {
+    "review_id": "RV-0036",
+    "agent": "Sam Rivera",
+    "week": "2026-08-14",
+    "attempts": 266,
+    "contacts": 114,
+    "promises": 25,
+    "followup_pct": 94,
+    "quality_pct": 82
+  }
+]

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Westline AR Command Center</title>
+<meta name="description" content="A collections, credit and chargeback system for a four-yard California parts distributor, built on Google Sheets and Apps Script. Every number reconciles before anyone sees it.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/site.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2316233F'/%3E%3Cpath d='M7 20h18' stroke='%23F3D54E' stroke-width='4'/%3E%3Cpath d='M7 12h18' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="bar"><div class="wrap">
+  <a class="brand" href="#top">Westline AR Command Center</a>
+  <nav aria-label="Sections">
+    <a href="#morning">This morning</a><a href="#lists">Call lists</a><a href="#mgmt">Management review</a><a href="#credit">Credit limits</a><a href="#cb">Chargebacks</a><a href="#team">Team</a><a href="#clean">Data cleaning</a><a href="#controls">How it stays accurate</a><a href="#phases">The three phases</a>
+  </nav>
+</div></header>
+
+<main id="top">
+  <section class="hero"><div class="wrap">
+    <h1>A collections desk that checks its own math.</h1>
+    <p class="lead" id="heroLead"></p>
+    <div class="tie" id="tie" aria-label="Reconciliation of the open AR total"></div>
+    <ul class="facts" id="facts"></ul>
+  </div></section>
+
+  <section class="part" id="morning"><div class="wrap">
+    <h2>What the lead sees at 6:30 in the morning</h2>
+    <p class="lead">One brief built from every sheet: money due today, deadlines, accounts still ordering while late, and what to raise in the meeting. It arrives by email and lives in the Owner_Today tab.</p>
+    <div class="cols"><div id="promises"></div><div id="risk"></div></div>
+    <h3>Meeting agenda, built automatically</h3><div class="scroll" id="agenda"></div>
+    <h3>The emails, exactly as they are sent</h3>
+    <div class="tabs" role="tablist" id="mailTabs"></div><div class="panel mail" id="mailBody" role="tabpanel"></div>
+  </div></section>
+
+  <section class="part" id="lists"><div class="wrap">
+    <h2>Every agent starts the day with a ranked list</h2>
+    <p class="lead">Each account earns points for age, size, a promise due today, a late follow-up, new orders while 60+ days late and more. The list is cut at the agent's daily capacity, and every row says why it is there and what to do.</p>
+    <div class="tabs" role="tablist" id="listTabs"></div><div class="panel" id="listBody" role="tabpanel"></div>
+    <h3>Open queries and escalations from other teams</h3>
+    <p class="small muted">Read from the shared request sheet and the escalation sheet. Due dates come from the sheet, or from a service level by request type; owners get "due today" and "did you work on this?" reminders.</p>
+    <div class="scroll" id="tracker"></div>
+  </div></section>
+
+  <section class="part" id="mgmt"><div class="wrap">
+    <h2>Accounts that need a decision above the desk</h2>
+    <p class="lead" id="mgmtLead"></p>
+    <div class="scroll" id="mgmtTable"></div>
+    <p class="small muted">Routes: resolve the dispute first, review open credits, demand letter, small claims, write-off review, or a credit hold for accounts that keep ordering while late. The system recommends; a person decides.</p>
+  </div></section>
+
+  <section class="part" id="credit"><div class="wrap">
+    <h2>Credit limits sized to how each customer actually buys</h2>
+    <p class="lead" id="creditLead"></p>
+    <figure id="scatter"></figure>
+    <div class="cols"><div id="creditActions"></div><div id="creditMethod"></div></div>
+    <h3>The biggest changes, with the reasons written out</h3><div class="scroll" id="creditTable"></div>
+  </div></section>
+
+  <section class="part" id="cb"><div class="wrap">
+    <h2>Chargebacks</h2>
+    <p class="lead" id="cbLead"></p>
+    <figure id="rootChart"></figure>
+    <h3>Open cases and their deadlines</h3><div class="scroll" id="cbOpen"></div>
+    <h3>A rebuttal draft, generated from the tracker</h3>
+    <p class="small muted">One Google Doc per open case, pre-filled from the tracker, the account and its sales history, with the evidence list for the reason code. A person attaches the exhibits and edits the wording.</p>
+    <pre class="doc" id="doc"></pre>
+  </div></section>
+
+  <section class="part" id="team"><div class="wrap">
+    <h2>A fair scorecard for agents holding harder accounts</h2>
+    <p class="lead">A call on a 61–90 day account counts 1.6, on a 120+ day account 2.5. Contact results are compared with what the team achieves on the same mix of buckets, so 100 means "as expected for this portfolio".</p>
+    <div class="scroll" id="teamTable"></div>
+    <figure id="allocChart"></figure>
+  </div></section>
+
+  <section class="part" id="clean"><div class="wrap">
+    <h2>Messy exports go in; a clean customer master comes out</h2>
+    <p class="lead" id="cleanLead"></p>
+    <div class="scroll" id="ba"></div>
+    <div class="cols"><div><h3>Problems that need a person</h3><div class="scroll" id="errs"></div></div><div><h3>Probable duplicate accounts</h3><div class="scroll" id="dups"></div></div></div>
+  </div></section>
+
+  <section class="part" id="controls"><div class="wrap">
+    <h2>How it stays accurate</h2>
+    <p class="lead">Spreadsheets fail silently, so every run proves itself. If any blocking check fails, nothing is published and yesterday's lists stay live.</p>
+    <ul class="checks" id="checks"></ul>
+    <h3>How the pieces connect</h3>
+    <div class="flow">
+      <div class="col"><h4>Sheets the team already uses</h4><ul id="srcList"></ul></div>
+      <div class="arrow" aria-hidden="true">›</div>
+      <div class="col engine"><h4>One Apps Script engine</h4><ul><li>Reads every source by file ID, never edits it</li><li>Cleans, joins into one row per account</li><li>Scores, ranks, routes and sizes limits</li><li>Reconciles to the cent</li><li>Publishes, emails, drafts documents</li></ul></div>
+      <div class="arrow" aria-hidden="true">›</div>
+      <div class="col"><h4>What people use</h4><ul><li>Owner brief and Ask tab</li><li>One worklist file per agent</li><li>Management review and credit review</li><li>Chargeback work queue and drafts</li><li>A management workbook with no customer data</li></ul></div>
+    </div>
+    <p>Everything runs inside the company's own Google account: Sheets, Apps Script, Gmail and Drive, at no added cost. Credit limits, data fixes and reassignments change only when a person ticks approve, and each decision is logged with a name and a time.</p>
+    <p class="small muted">The engine is about 1,700 lines of plain JavaScript with 44 automated tests built on hand-calculated examples. The same code runs in the browser for this page and in Apps Script for the live workbooks.</p>
+  </div></section>
+
+  <section class="part" id="phases"><div class="wrap">
+    <h2>The three phases of the Westline project</h2>
+    <p class="lead">One fictional company, built in three steps. Phase 3 reads the phase 1 workbook directly and runs the credit review that phase 2 designed, every morning, for every account.</p>
+    <div class="phases" id="phaseCards"></div>
+    <div class="btnrow" id="links"></div>
+  </div></section>
+</main>
+<footer><div class="wrap" id="foot"></div></footer>
+<script src="js/config.js"></script>
+<script src="data/command-center.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

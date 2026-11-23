@@ -1,0 +1,5 @@
+.git
+tools/node_modules
+*.zip
+__pycache__
+*.pyc

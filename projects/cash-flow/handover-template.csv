@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,Opening cash,Confirmed bank balance at the forecast start,"Compare a timing downside with the base plan before committing cash, and assign follow-ups to the receipts that matter most.",Enter the cash available at the start. Do not substitute open receivables.,Planning owner,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation

@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,Account identifier,Original export and source account screen,Approve a correction with evidence. Flag a possible duplicate for review instead of merging two customer accounts automatically.,Preserve as text. Never drop leading zeroes.,Data steward,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation

@@ -1,0 +1,42 @@
+[
+  {
+    "field": "assessment_id",
+    "type": "TEXT",
+    "definition": "Assessment id"
+  },
+  {
+    "field": "learner",
+    "type": "TEXT",
+    "definition": "Learner"
+  },
+  {
+    "field": "week",
+    "type": "REAL",
+    "definition": "Week"
+  },
+  {
+    "field": "module",
+    "type": "TEXT",
+    "definition": "Module"
+  },
+  {
+    "field": "score_pct",
+    "type": "REAL",
+    "definition": "Percentage points from 0 to 100"
+  },
+  {
+    "field": "pass_mark_pct",
+    "type": "REAL",
+    "definition": "Percentage points from 0 to 100"
+  },
+  {
+    "field": "coach",
+    "type": "TEXT",
+    "definition": "Coach"
+  },
+  {
+    "field": "next_action",
+    "type": "TEXT",
+    "definition": "Next action"
+  }
+]

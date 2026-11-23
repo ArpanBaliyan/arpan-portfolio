@@ -1,0 +1,1402 @@
+[
+  {
+    "ticket_id": "OP-0001",
+    "customer": "Alder Auto Body",
+    "stage": "Credit memo",
+    "elapsed_hours": 100,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0002",
+    "customer": "Bluewater Auto Body",
+    "stage": "Refund",
+    "elapsed_hours": 9,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0003",
+    "customer": "Cedar Auto Body",
+    "stage": "Credit memo",
+    "elapsed_hours": 120,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0004",
+    "customer": "Driftwood Auto Body",
+    "stage": "Return approved",
+    "elapsed_hours": 3,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0005",
+    "customer": "Eastbank Auto Body",
+    "stage": "Pickup",
+    "elapsed_hours": 19,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0006",
+    "customer": "Fairview Auto Body",
+    "stage": "Return approved",
+    "elapsed_hours": 1,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0007",
+    "customer": "Glenrock Auto Body",
+    "stage": "Credit memo",
+    "elapsed_hours": 111,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0008",
+    "customer": "Harbour Auto Body",
+    "stage": "Credit memo",
+    "elapsed_hours": 134,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0009",
+    "customer": "Ironwood Auto Body",
+    "stage": "Return approved",
+    "elapsed_hours": 4,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0010",
+    "customer": "Juniper Auto Body",
+    "stage": "Return approved",
+    "elapsed_hours": 6,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0011",
+    "customer": "Kingsway Auto Body",
+    "stage": "Return approved",
+    "elapsed_hours": 9,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0012",
+    "customer": "Lakeside Auto Body",
+    "stage": "Pickup",
+    "elapsed_hours": 147,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0013",
+    "customer": "Maple Auto Body",
+    "stage": "Yard scan",
+    "elapsed_hours": 21,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0014",
+    "customer": "Northstar Auto Body",
+    "stage": "Pickup",
+    "elapsed_hours": 129,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0015",
+    "customer": "Oakfield Auto Body",
+    "stage": "Pickup",
+    "elapsed_hours": 123,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0016",
+    "customer": "Parkside Auto Body",
+    "stage": "Return approved",
+    "elapsed_hours": 4,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0017",
+    "customer": "Quarry Auto Body",
+    "stage": "Return approved",
+    "elapsed_hours": 11,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0018",
+    "customer": "Redwood Auto Body",
+    "stage": "Refund",
+    "elapsed_hours": 107,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0019",
+    "customer": "Summit Auto Body",
+    "stage": "Return approved",
+    "elapsed_hours": 6,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0020",
+    "customer": "Tidewater Auto Body",
+    "stage": "Credit memo",
+    "elapsed_hours": 43,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0021",
+    "customer": "Alder Repair Group",
+    "stage": "Pickup",
+    "elapsed_hours": 10,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0022",
+    "customer": "Bluewater Repair Group",
+    "stage": "Return approved",
+    "elapsed_hours": 10,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0023",
+    "customer": "Cedar Repair Group",
+    "stage": "Yard scan",
+    "elapsed_hours": 48,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0024",
+    "customer": "Driftwood Repair Group",
+    "stage": "Pickup",
+    "elapsed_hours": 142,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0025",
+    "customer": "Eastbank Repair Group",
+    "stage": "Refund",
+    "elapsed_hours": 74,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0026",
+    "customer": "Fairview Repair Group",
+    "stage": "Return approved",
+    "elapsed_hours": 12,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0027",
+    "customer": "Glenrock Repair Group",
+    "stage": "Refund",
+    "elapsed_hours": 141,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0028",
+    "customer": "Harbour Repair Group",
+    "stage": "Credit memo",
+    "elapsed_hours": 63,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0029",
+    "customer": "Ironwood Repair Group",
+    "stage": "Return approved",
+    "elapsed_hours": 10,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0030",
+    "customer": "Juniper Repair Group",
+    "stage": "Yard scan",
+    "elapsed_hours": 45,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0031",
+    "customer": "Kingsway Repair Group",
+    "stage": "Refund",
+    "elapsed_hours": 124,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0032",
+    "customer": "Lakeside Repair Group",
+    "stage": "Refund",
+    "elapsed_hours": 108,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0033",
+    "customer": "Maple Repair Group",
+    "stage": "Credit memo",
+    "elapsed_hours": 39,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0034",
+    "customer": "Northstar Repair Group",
+    "stage": "Yard scan",
+    "elapsed_hours": 26,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0035",
+    "customer": "Oakfield Repair Group",
+    "stage": "Pickup",
+    "elapsed_hours": 156,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0036",
+    "customer": "Parkside Repair Group",
+    "stage": "Refund",
+    "elapsed_hours": 48,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0037",
+    "customer": "Quarry Repair Group",
+    "stage": "Pickup",
+    "elapsed_hours": 12,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0038",
+    "customer": "Redwood Repair Group",
+    "stage": "Credit memo",
+    "elapsed_hours": 117,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0039",
+    "customer": "Summit Repair Group",
+    "stage": "Credit memo",
+    "elapsed_hours": 30,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0040",
+    "customer": "Tidewater Repair Group",
+    "stage": "Yard scan",
+    "elapsed_hours": 59,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0041",
+    "customer": "Alder Fleet Services",
+    "stage": "Yard scan",
+    "elapsed_hours": 64,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0042",
+    "customer": "Bluewater Fleet Services",
+    "stage": "Pickup",
+    "elapsed_hours": 162,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0043",
+    "customer": "Cedar Fleet Services",
+    "stage": "Yard scan",
+    "elapsed_hours": 4,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0044",
+    "customer": "Driftwood Fleet Services",
+    "stage": "Refund",
+    "elapsed_hours": 7,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0045",
+    "customer": "Eastbank Fleet Services",
+    "stage": "Credit memo",
+    "elapsed_hours": 50,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0046",
+    "customer": "Fairview Fleet Services",
+    "stage": "Yard scan",
+    "elapsed_hours": 67,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0047",
+    "customer": "Glenrock Fleet Services",
+    "stage": "Return approved",
+    "elapsed_hours": 10,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0048",
+    "customer": "Harbour Fleet Services",
+    "stage": "Yard scan",
+    "elapsed_hours": 59,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0049",
+    "customer": "Ironwood Fleet Services",
+    "stage": "Pickup",
+    "elapsed_hours": 194,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0050",
+    "customer": "Juniper Fleet Services",
+    "stage": "Yard scan",
+    "elapsed_hours": 17,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0051",
+    "customer": "Kingsway Fleet Services",
+    "stage": "Yard scan",
+    "elapsed_hours": 66,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0052",
+    "customer": "Lakeside Fleet Services",
+    "stage": "Refund",
+    "elapsed_hours": 64,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0053",
+    "customer": "Maple Fleet Services",
+    "stage": "Yard scan",
+    "elapsed_hours": 69,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0054",
+    "customer": "Northstar Fleet Services",
+    "stage": "Refund",
+    "elapsed_hours": 47,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0055",
+    "customer": "Oakfield Fleet Services",
+    "stage": "Refund",
+    "elapsed_hours": 34,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0056",
+    "customer": "Parkside Fleet Services",
+    "stage": "Refund",
+    "elapsed_hours": 35,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0057",
+    "customer": "Quarry Fleet Services",
+    "stage": "Credit memo",
+    "elapsed_hours": 109,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0058",
+    "customer": "Redwood Fleet Services",
+    "stage": "Refund",
+    "elapsed_hours": 63,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0059",
+    "customer": "Summit Fleet Services",
+    "stage": "Credit memo",
+    "elapsed_hours": 121,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0060",
+    "customer": "Tidewater Fleet Services",
+    "stage": "Pickup",
+    "elapsed_hours": 160,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0061",
+    "customer": "Alder Motor Works",
+    "stage": "Credit memo",
+    "elapsed_hours": 54,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0062",
+    "customer": "Bluewater Motor Works",
+    "stage": "Return approved",
+    "elapsed_hours": 7,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0063",
+    "customer": "Cedar Motor Works",
+    "stage": "Credit memo",
+    "elapsed_hours": 46,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0064",
+    "customer": "Driftwood Motor Works",
+    "stage": "Refund",
+    "elapsed_hours": 129,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0065",
+    "customer": "Eastbank Motor Works",
+    "stage": "Refund",
+    "elapsed_hours": 38,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0066",
+    "customer": "Fairview Motor Works",
+    "stage": "Pickup",
+    "elapsed_hours": 177,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0067",
+    "customer": "Glenrock Motor Works",
+    "stage": "Refund",
+    "elapsed_hours": 112,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0068",
+    "customer": "Harbour Motor Works",
+    "stage": "Yard scan",
+    "elapsed_hours": 58,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0069",
+    "customer": "Ironwood Motor Works",
+    "stage": "Return approved",
+    "elapsed_hours": 11,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0070",
+    "customer": "Juniper Motor Works",
+    "stage": "Yard scan",
+    "elapsed_hours": 12,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0071",
+    "customer": "Kingsway Motor Works",
+    "stage": "Credit memo",
+    "elapsed_hours": 46,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0072",
+    "customer": "Lakeside Motor Works",
+    "stage": "Return approved",
+    "elapsed_hours": 3,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0073",
+    "customer": "Maple Motor Works",
+    "stage": "Credit memo",
+    "elapsed_hours": 63,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0074",
+    "customer": "Northstar Motor Works",
+    "stage": "Yard scan",
+    "elapsed_hours": 23,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0075",
+    "customer": "Oakfield Motor Works",
+    "stage": "Pickup",
+    "elapsed_hours": 112,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0076",
+    "customer": "Parkside Motor Works",
+    "stage": "Refund",
+    "elapsed_hours": 32,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0077",
+    "customer": "Quarry Motor Works",
+    "stage": "Credit memo",
+    "elapsed_hours": 44,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0078",
+    "customer": "Redwood Motor Works",
+    "stage": "Pickup",
+    "elapsed_hours": 141,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0079",
+    "customer": "Summit Motor Works",
+    "stage": "Pickup",
+    "elapsed_hours": 22,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0080",
+    "customer": "Tidewater Motor Works",
+    "stage": "Pickup",
+    "elapsed_hours": 145,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0081",
+    "customer": "Alder Collision Centre",
+    "stage": "Yard scan",
+    "elapsed_hours": 41,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0082",
+    "customer": "Bluewater Collision Centre",
+    "stage": "Return approved",
+    "elapsed_hours": 4,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0083",
+    "customer": "Cedar Collision Centre",
+    "stage": "Credit memo",
+    "elapsed_hours": 58,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0084",
+    "customer": "Driftwood Collision Centre",
+    "stage": "Yard scan",
+    "elapsed_hours": 15,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0085",
+    "customer": "Eastbank Collision Centre",
+    "stage": "Credit memo",
+    "elapsed_hours": 104,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0086",
+    "customer": "Fairview Collision Centre",
+    "stage": "Credit memo",
+    "elapsed_hours": 108,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0087",
+    "customer": "Glenrock Collision Centre",
+    "stage": "Yard scan",
+    "elapsed_hours": 20,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0088",
+    "customer": "Harbour Collision Centre",
+    "stage": "Credit memo",
+    "elapsed_hours": 30,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0089",
+    "customer": "Ironwood Collision Centre",
+    "stage": "Yard scan",
+    "elapsed_hours": 10,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0090",
+    "customer": "Juniper Collision Centre",
+    "stage": "Pickup",
+    "elapsed_hours": 146,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0091",
+    "customer": "Kingsway Collision Centre",
+    "stage": "Return approved",
+    "elapsed_hours": 6,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0092",
+    "customer": "Lakeside Collision Centre",
+    "stage": "Return approved",
+    "elapsed_hours": 5,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0093",
+    "customer": "Maple Collision Centre",
+    "stage": "Yard scan",
+    "elapsed_hours": 54,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0094",
+    "customer": "Northstar Collision Centre",
+    "stage": "Pickup",
+    "elapsed_hours": 134,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0095",
+    "customer": "Oakfield Collision Centre",
+    "stage": "Return approved",
+    "elapsed_hours": 9,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0096",
+    "customer": "Parkside Collision Centre",
+    "stage": "Yard scan",
+    "elapsed_hours": 50,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0097",
+    "customer": "Quarry Collision Centre",
+    "stage": "Pickup",
+    "elapsed_hours": 134,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0098",
+    "customer": "Redwood Collision Centre",
+    "stage": "Pickup",
+    "elapsed_hours": 14,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0099",
+    "customer": "Summit Collision Centre",
+    "stage": "Pickup",
+    "elapsed_hours": 90,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0100",
+    "customer": "Tidewater Collision Centre",
+    "stage": "Credit memo",
+    "elapsed_hours": 37,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0101",
+    "customer": "Alder Parts Network",
+    "stage": "Return approved",
+    "elapsed_hours": 12,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0102",
+    "customer": "Bluewater Parts Network",
+    "stage": "Refund",
+    "elapsed_hours": 43,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0103",
+    "customer": "Cedar Parts Network",
+    "stage": "Refund",
+    "elapsed_hours": 123,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0104",
+    "customer": "Driftwood Parts Network",
+    "stage": "Pickup",
+    "elapsed_hours": 197,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0105",
+    "customer": "Eastbank Parts Network",
+    "stage": "Refund",
+    "elapsed_hours": 139,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0106",
+    "customer": "Fairview Parts Network",
+    "stage": "Pickup",
+    "elapsed_hours": 178,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0107",
+    "customer": "Glenrock Parts Network",
+    "stage": "Refund",
+    "elapsed_hours": 8,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0108",
+    "customer": "Harbour Parts Network",
+    "stage": "Refund",
+    "elapsed_hours": 65,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0109",
+    "customer": "Ironwood Parts Network",
+    "stage": "Refund",
+    "elapsed_hours": 78,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0110",
+    "customer": "Juniper Parts Network",
+    "stage": "Yard scan",
+    "elapsed_hours": 26,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0111",
+    "customer": "Kingsway Parts Network",
+    "stage": "Return approved",
+    "elapsed_hours": 9,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0112",
+    "customer": "Lakeside Parts Network",
+    "stage": "Credit memo",
+    "elapsed_hours": 4,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0113",
+    "customer": "Maple Parts Network",
+    "stage": "Return approved",
+    "elapsed_hours": 8,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0114",
+    "customer": "Northstar Parts Network",
+    "stage": "Pickup",
+    "elapsed_hours": 4,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0115",
+    "customer": "Oakfield Parts Network",
+    "stage": "Return approved",
+    "elapsed_hours": 9,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0116",
+    "customer": "Parkside Parts Network",
+    "stage": "Return approved",
+    "elapsed_hours": 8,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0117",
+    "customer": "Quarry Parts Network",
+    "stage": "Credit memo",
+    "elapsed_hours": 116,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0118",
+    "customer": "Redwood Parts Network",
+    "stage": "Pickup",
+    "elapsed_hours": 22,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0119",
+    "customer": "Summit Parts Network",
+    "stage": "Refund",
+    "elapsed_hours": 46,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0120",
+    "customer": "Tidewater Parts Network",
+    "stage": "Pickup",
+    "elapsed_hours": 103,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0121",
+    "customer": "Alder Service Garage",
+    "stage": "Yard scan",
+    "elapsed_hours": 33,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0122",
+    "customer": "Bluewater Service Garage",
+    "stage": "Pickup",
+    "elapsed_hours": 72,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0123",
+    "customer": "Cedar Service Garage",
+    "stage": "Return approved",
+    "elapsed_hours": 10,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0124",
+    "customer": "Driftwood Service Garage",
+    "stage": "Return approved",
+    "elapsed_hours": 2,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0125",
+    "customer": "Eastbank Service Garage",
+    "stage": "Pickup",
+    "elapsed_hours": 204,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0126",
+    "customer": "Fairview Service Garage",
+    "stage": "Pickup",
+    "elapsed_hours": 103,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0127",
+    "customer": "Glenrock Service Garage",
+    "stage": "Yard scan",
+    "elapsed_hours": 31,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0128",
+    "customer": "Harbour Service Garage",
+    "stage": "Credit memo",
+    "elapsed_hours": 84,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0129",
+    "customer": "Ironwood Service Garage",
+    "stage": "Yard scan",
+    "elapsed_hours": 58,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0130",
+    "customer": "Juniper Service Garage",
+    "stage": "Return approved",
+    "elapsed_hours": 3,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0131",
+    "customer": "Kingsway Service Garage",
+    "stage": "Credit memo",
+    "elapsed_hours": 69,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0132",
+    "customer": "Lakeside Service Garage",
+    "stage": "Refund",
+    "elapsed_hours": 77,
+    "target_hours": 48,
+    "owner": "Cash application",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0133",
+    "customer": "Maple Service Garage",
+    "stage": "Pickup",
+    "elapsed_hours": 84,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0134",
+    "customer": "Northstar Service Garage",
+    "stage": "Credit memo",
+    "elapsed_hours": 30,
+    "target_hours": 48,
+    "owner": "Returns",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0135",
+    "customer": "Oakfield Service Garage",
+    "stage": "Return approved",
+    "elapsed_hours": 8,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0136",
+    "customer": "Parkside Service Garage",
+    "stage": "Yard scan",
+    "elapsed_hours": 21,
+    "target_hours": 24,
+    "owner": "Yard team",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0137",
+    "customer": "Quarry Service Garage",
+    "stage": "Return approved",
+    "elapsed_hours": 3,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0138",
+    "customer": "Redwood Service Garage",
+    "stage": "Return approved",
+    "elapsed_hours": 6,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Overdue",
+    "next_action": "Confirm the missing hand-off evidence and agree a completion time."
+  },
+  {
+    "ticket_id": "OP-0139",
+    "customer": "Summit Service Garage",
+    "stage": "Pickup",
+    "elapsed_hours": 69,
+    "target_hours": 72,
+    "owner": "Dispatch",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  },
+  {
+    "ticket_id": "OP-0140",
+    "customer": "Tidewater Service Garage",
+    "stage": "Return approved",
+    "elapsed_hours": 4,
+    "target_hours": 4,
+    "owner": "Client desk",
+    "status": "Within target",
+    "next_action": "Monitor the next hand-off."
+  }
+]

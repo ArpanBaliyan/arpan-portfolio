@@ -1,0 +1,3 @@
+/* Reading sizes for working records and small-screen navigation. */
+table{font-size:.875rem}.bar-row{font-size:.875rem;grid-template-columns:190px 1fr 90px}.resource span,.kpi span,.viz-caption,.workspace-header span{font-size:.875rem}.workspace .legend,.table-meta{font-size:.82rem}.mini-heading{font-size:.78rem}.feature-body .eyebrow{font-size:.75rem}
+@media(max-width:760px){.orbit{display:none}.hero{padding-bottom:48px}.bar-row{font-size:.8rem;grid-template-columns:130px 1fr 75px}.workspace-header span{font-size:.78rem}.kpi span{font-size:.8rem}.project-row .eyebrow{font-size:.7rem}}

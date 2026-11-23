@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Westline Credit Control</title>
+<meta name="description" content="A credit review and 13-week cash forecast for a B2B auto parts distributor: risk scores, credit limit recommendations and a tested forecast. Runs in your browser; try it on your own AR file.">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%232457A6'/%3E%3Cpath d='M7 22h4V14H7zM14 22h4V9h-4zM21 22h4v-5h-4z' fill='%23fff'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="6" fill="#2457A6"/><path d="M7 22h4V14H7zM14 22h4V9h-4zM21 22h4v-5h-4z" fill="#fff"/></svg>
+      <div>
+        <div class="brand-name">Westline Credit Control</div>
+        <div class="brand-sub">Credit review and cash forecast for a B2B parts distributor</div>
+      </div>
+    </div>
+    <div class="source">
+      <span id="source-label">Loading data…</span>
+      <button class="btn ghost" type="button" data-goto="data">Try it on your data</button>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs" aria-label="Sections">
+  <div class="tabs-inner" role="tablist">
+    <button class="tab" role="tab" data-view="overview" aria-selected="true">Overview</button>
+    <button class="tab" role="tab" data-view="accounts" aria-selected="false">Accounts</button>
+    <button class="tab" role="tab" data-view="limits" aria-selected="false">Limit review</button>
+    <button class="tab" role="tab" data-view="forecast" aria-selected="false">Cash forecast</button>
+    <button class="tab" role="tab" data-view="whatif" aria-selected="false">What if</button>
+    <button class="tab" role="tab" data-view="method" aria-selected="false">How it works</button>
+    <button class="tab" role="tab" data-view="data" aria-selected="false">Use your data</button>
+  </div>
+</nav>
+
+<main id="main">
+  <section class="view" id="view-overview" role="tabpanel"></section>
+  <section class="view" id="view-accounts" role="tabpanel" hidden></section>
+  <section class="view" id="view-limits" role="tabpanel" hidden></section>
+  <section class="view" id="view-forecast" role="tabpanel" hidden></section>
+  <section class="view" id="view-whatif" role="tabpanel" hidden></section>
+  <section class="view" id="view-method" role="tabpanel" hidden></section>
+  <section class="view" id="view-data" role="tabpanel" hidden></section>
+</main>
+
+<div class="drawer-backdrop" id="backdrop" hidden></div>
+<aside class="drawer" id="drawer" hidden aria-label="Credit review memo" role="dialog" aria-modal="true">
+  <div class="drawer-bar">
+    <strong>Credit review memo</strong>
+    <div style="display:flex;gap:8px">
+      <button class="btn ghost" type="button" id="print-memo">Print or save as PDF</button>
+      <button class="btn" type="button" id="close-drawer">Close</button>
+    </div>
+  </div>
+  <div class="memo" id="memo"></div>
+</aside>
+
+<footer>
+  <div class="line">
+    <span>Westline Auto Parts is a fictional company. Every account, invoice and payment in the sample is synthetic.</span>
+    <span id="credit"></span>
+  </div>
+</footer>
+
+<script src="js/config.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/charts.js"></script>
+<script src="data/sample-data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

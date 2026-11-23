@@ -1,0 +1,121 @@
+﻿audit_id,agent,sample_type,score_pct,critical_failure,finding,owner,status
+QA-0001,Maya Chen,High exposure,87,No,Evidence linked correctly,Maya Chen,Closed
+QA-0002,Jordan Lee,Random,78,No,Return check not documented,Jordan Lee,Coaching booked
+QA-0003,Sam Rivera,Escalation,92,No,Evidence linked correctly,Sam Rivera,Rechecked
+QA-0004,Maya Chen,New colleague,80,Yes,Sensitive information handling needs immediate review,Maya Chen,Open
+QA-0005,Jordan Lee,High exposure,95,No,Return check not documented,Jordan Lee,Closed
+QA-0006,Sam Rivera,High exposure,76,No,Return check not documented,Sam Rivera,Closed
+QA-0007,Maya Chen,Random,68,No,Return check not documented,Maya Chen,Closed
+QA-0008,Jordan Lee,New colleague,90,No,Return check not documented,Jordan Lee,Open
+QA-0009,Sam Rivera,High exposure,60,No,Evidence linked correctly,Sam Rivera,Coaching booked
+QA-0010,Maya Chen,High exposure,72,No,Evidence linked correctly,Maya Chen,Open
+QA-0011,Jordan Lee,New colleague,97,No,Evidence linked correctly,Jordan Lee,Coaching booked
+QA-0012,Sam Rivera,Escalation,79,No,Follow-up date not confirmed,Sam Rivera,Closed
+QA-0013,Maya Chen,New colleague,65,No,Clear explanation and accurate next step,Maya Chen,Open
+QA-0014,Jordan Lee,New colleague,66,No,Payment commitment not read back,Jordan Lee,Open
+QA-0015,Sam Rivera,High exposure,58,Yes,Sensitive information handling needs immediate review,Sam Rivera,Open
+QA-0016,Maya Chen,New colleague,96,Yes,Sensitive information handling needs immediate review,Maya Chen,Coaching booked
+QA-0017,Jordan Lee,New colleague,68,No,Return check not documented,Jordan Lee,Coaching booked
+QA-0018,Sam Rivera,High exposure,82,No,Clear explanation and accurate next step,Sam Rivera,Closed
+QA-0019,Maya Chen,Random,78,No,Return check not documented,Maya Chen,Coaching booked
+QA-0020,Jordan Lee,New colleague,86,Yes,Sensitive information handling needs immediate review,Jordan Lee,Open
+QA-0021,Sam Rivera,New colleague,59,No,Payment commitment not read back,Sam Rivera,Closed
+QA-0022,Maya Chen,High exposure,95,No,Return check not documented,Maya Chen,Closed
+QA-0023,Jordan Lee,Random,93,No,Follow-up date not confirmed,Jordan Lee,Rechecked
+QA-0024,Sam Rivera,New colleague,74,No,Evidence linked correctly,Sam Rivera,Rechecked
+QA-0025,Maya Chen,Random,80,No,Clear explanation and accurate next step,Maya Chen,Coaching booked
+QA-0026,Jordan Lee,Random,92,No,Follow-up date not confirmed,Jordan Lee,Coaching booked
+QA-0027,Sam Rivera,Escalation,85,No,Return check not documented,Sam Rivera,Open
+QA-0028,Maya Chen,Random,67,No,Follow-up date not confirmed,Maya Chen,Open
+QA-0029,Jordan Lee,New colleague,70,No,Payment commitment not read back,Jordan Lee,Coaching booked
+QA-0030,Sam Rivera,Escalation,97,No,Evidence linked correctly,Sam Rivera,Coaching booked
+QA-0031,Maya Chen,Random,66,No,Clear explanation and accurate next step,Maya Chen,Open
+QA-0032,Jordan Lee,Escalation,60,Yes,Sensitive information handling needs immediate review,Jordan Lee,Open
+QA-0033,Sam Rivera,Escalation,89,Yes,Sensitive information handling needs immediate review,Sam Rivera,Coaching booked
+QA-0034,Maya Chen,New colleague,65,No,Payment commitment not read back,Maya Chen,Open
+QA-0035,Jordan Lee,Random,76,No,Payment commitment not read back,Jordan Lee,Closed
+QA-0036,Sam Rivera,High exposure,93,No,Clear explanation and accurate next step,Sam Rivera,Closed
+QA-0037,Maya Chen,High exposure,80,No,Return check not documented,Maya Chen,Coaching booked
+QA-0038,Jordan Lee,New colleague,84,No,Return check not documented,Jordan Lee,Open
+QA-0039,Sam Rivera,High exposure,59,No,Clear explanation and accurate next step,Sam Rivera,Open
+QA-0040,Maya Chen,Escalation,94,No,Evidence linked correctly,Maya Chen,Open
+QA-0041,Jordan Lee,Random,80,No,Return check not documented,Jordan Lee,Open
+QA-0042,Sam Rivera,Escalation,68,No,Return check not documented,Sam Rivera,Closed
+QA-0043,Maya Chen,New colleague,65,No,Evidence linked correctly,Maya Chen,Closed
+QA-0044,Jordan Lee,High exposure,98,Yes,Sensitive information handling needs immediate review,Jordan Lee,Closed
+QA-0045,Sam Rivera,New colleague,90,No,Evidence linked correctly,Sam Rivera,Closed
+QA-0046,Maya Chen,High exposure,89,No,Follow-up date not confirmed,Maya Chen,Open
+QA-0047,Jordan Lee,Random,93,No,Clear explanation and accurate next step,Jordan Lee,Rechecked
+QA-0048,Sam Rivera,Escalation,69,No,Clear explanation and accurate next step,Sam Rivera,Coaching booked
+QA-0049,Maya Chen,New colleague,95,Yes,Sensitive information handling needs immediate review,Maya Chen,Rechecked
+QA-0050,Jordan Lee,Escalation,75,No,Clear explanation and accurate next step,Jordan Lee,Open
+QA-0051,Sam Rivera,New colleague,88,No,Return check not documented,Sam Rivera,Open
+QA-0052,Maya Chen,Escalation,70,No,Clear explanation and accurate next step,Maya Chen,Open
+QA-0053,Jordan Lee,Escalation,66,No,Follow-up date not confirmed,Jordan Lee,Closed
+QA-0054,Sam Rivera,High exposure,87,No,Return check not documented,Sam Rivera,Rechecked
+QA-0055,Maya Chen,Escalation,97,No,Evidence linked correctly,Maya Chen,Closed
+QA-0056,Jordan Lee,New colleague,90,No,Evidence linked correctly,Jordan Lee,Closed
+QA-0057,Sam Rivera,Escalation,76,Yes,Sensitive information handling needs immediate review,Sam Rivera,Coaching booked
+QA-0058,Maya Chen,High exposure,77,No,Payment commitment not read back,Maya Chen,Open
+QA-0059,Jordan Lee,Random,73,No,Evidence linked correctly,Jordan Lee,Closed
+QA-0060,Sam Rivera,New colleague,97,No,Evidence linked correctly,Sam Rivera,Rechecked
+QA-0061,Maya Chen,Escalation,60,No,Follow-up date not confirmed,Maya Chen,Rechecked
+QA-0062,Jordan Lee,New colleague,70,No,Clear explanation and accurate next step,Jordan Lee,Open
+QA-0063,Sam Rivera,New colleague,68,No,Follow-up date not confirmed,Sam Rivera,Coaching booked
+QA-0064,Maya Chen,High exposure,59,No,Return check not documented,Maya Chen,Closed
+QA-0065,Jordan Lee,Escalation,76,No,Evidence linked correctly,Jordan Lee,Rechecked
+QA-0066,Sam Rivera,New colleague,75,No,Payment commitment not read back,Sam Rivera,Closed
+QA-0067,Maya Chen,High exposure,78,No,Return check not documented,Maya Chen,Coaching booked
+QA-0068,Jordan Lee,High exposure,83,No,Follow-up date not confirmed,Jordan Lee,Open
+QA-0069,Sam Rivera,Escalation,59,No,Clear explanation and accurate next step,Sam Rivera,Rechecked
+QA-0070,Maya Chen,New colleague,91,No,Clear explanation and accurate next step,Maya Chen,Rechecked
+QA-0071,Jordan Lee,Escalation,70,No,Follow-up date not confirmed,Jordan Lee,Closed
+QA-0072,Sam Rivera,Random,90,No,Evidence linked correctly,Sam Rivera,Rechecked
+QA-0073,Maya Chen,Random,92,No,Return check not documented,Maya Chen,Open
+QA-0074,Jordan Lee,High exposure,96,No,Evidence linked correctly,Jordan Lee,Open
+QA-0075,Sam Rivera,Escalation,96,No,Return check not documented,Sam Rivera,Rechecked
+QA-0076,Maya Chen,Random,68,No,Clear explanation and accurate next step,Maya Chen,Open
+QA-0077,Jordan Lee,Escalation,88,No,Return check not documented,Jordan Lee,Rechecked
+QA-0078,Sam Rivera,Escalation,79,Yes,Sensitive information handling needs immediate review,Sam Rivera,Open
+QA-0079,Maya Chen,High exposure,75,No,Return check not documented,Maya Chen,Rechecked
+QA-0080,Jordan Lee,High exposure,91,No,Payment commitment not read back,Jordan Lee,Closed
+QA-0081,Sam Rivera,New colleague,85,No,Payment commitment not read back,Sam Rivera,Open
+QA-0082,Maya Chen,New colleague,79,No,Clear explanation and accurate next step,Maya Chen,Coaching booked
+QA-0083,Jordan Lee,Random,76,Yes,Sensitive information handling needs immediate review,Jordan Lee,Coaching booked
+QA-0084,Sam Rivera,High exposure,60,No,Clear explanation and accurate next step,Sam Rivera,Rechecked
+QA-0085,Maya Chen,Escalation,71,No,Return check not documented,Maya Chen,Closed
+QA-0086,Jordan Lee,High exposure,95,No,Evidence linked correctly,Jordan Lee,Coaching booked
+QA-0087,Sam Rivera,Escalation,70,No,Payment commitment not read back,Sam Rivera,Coaching booked
+QA-0088,Maya Chen,Escalation,74,No,Follow-up date not confirmed,Maya Chen,Closed
+QA-0089,Jordan Lee,Random,87,No,Return check not documented,Jordan Lee,Coaching booked
+QA-0090,Sam Rivera,New colleague,97,No,Follow-up date not confirmed,Sam Rivera,Coaching booked
+QA-0091,Maya Chen,High exposure,69,No,Return check not documented,Maya Chen,Coaching booked
+QA-0092,Jordan Lee,New colleague,82,Yes,Sensitive information handling needs immediate review,Jordan Lee,Coaching booked
+QA-0093,Sam Rivera,Random,79,No,Evidence linked correctly,Sam Rivera,Coaching booked
+QA-0094,Maya Chen,New colleague,59,No,Return check not documented,Maya Chen,Open
+QA-0095,Jordan Lee,Random,78,No,Evidence linked correctly,Jordan Lee,Coaching booked
+QA-0096,Sam Rivera,Escalation,78,No,Follow-up date not confirmed,Sam Rivera,Coaching booked
+QA-0097,Maya Chen,Escalation,78,No,Return check not documented,Maya Chen,Open
+QA-0098,Jordan Lee,High exposure,88,No,Evidence linked correctly,Jordan Lee,Coaching booked
+QA-0099,Sam Rivera,High exposure,70,No,Evidence linked correctly,Sam Rivera,Coaching booked
+QA-0100,Maya Chen,Random,85,No,Follow-up date not confirmed,Maya Chen,Coaching booked
+QA-0101,Jordan Lee,Random,91,No,Clear explanation and accurate next step,Jordan Lee,Coaching booked
+QA-0102,Sam Rivera,New colleague,84,No,Payment commitment not read back,Sam Rivera,Rechecked
+QA-0103,Maya Chen,New colleague,64,No,Follow-up date not confirmed,Maya Chen,Rechecked
+QA-0104,Jordan Lee,Escalation,90,No,Payment commitment not read back,Jordan Lee,Closed
+QA-0105,Sam Rivera,Random,65,Yes,Sensitive information handling needs immediate review,Sam Rivera,Rechecked
+QA-0106,Maya Chen,High exposure,66,No,Payment commitment not read back,Maya Chen,Rechecked
+QA-0107,Jordan Lee,Escalation,85,No,Return check not documented,Jordan Lee,Rechecked
+QA-0108,Sam Rivera,High exposure,96,No,Payment commitment not read back,Sam Rivera,Coaching booked
+QA-0109,Maya Chen,Random,82,No,Clear explanation and accurate next step,Maya Chen,Coaching booked
+QA-0110,Jordan Lee,High exposure,60,No,Payment commitment not read back,Jordan Lee,Coaching booked
+QA-0111,Sam Rivera,High exposure,77,No,Return check not documented,Sam Rivera,Coaching booked
+QA-0112,Maya Chen,High exposure,89,No,Return check not documented,Maya Chen,Closed
+QA-0113,Jordan Lee,New colleague,79,No,Return check not documented,Jordan Lee,Coaching booked
+QA-0114,Sam Rivera,Random,58,No,Payment commitment not read back,Sam Rivera,Coaching booked
+QA-0115,Maya Chen,Escalation,68,No,Payment commitment not read back,Maya Chen,Rechecked
+QA-0116,Jordan Lee,Random,75,No,Clear explanation and accurate next step,Jordan Lee,Coaching booked
+QA-0117,Sam Rivera,Random,84,No,Evidence linked correctly,Sam Rivera,Coaching booked
+QA-0118,Maya Chen,Random,71,No,Payment commitment not read back,Maya Chen,Closed
+QA-0119,Jordan Lee,New colleague,74,No,Evidence linked correctly,Jordan Lee,Closed
+QA-0120,Sam Rivera,Random,66,No,Follow-up date not confirmed,Sam Rivera,Closed

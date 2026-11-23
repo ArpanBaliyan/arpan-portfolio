@@ -1,0 +1,1602 @@
+[
+  {
+    "account_id": "W00001",
+    "customer": "Alder Auto Body",
+    "yard": "North yard",
+    "open_usd": 10203.89,
+    "days_from_invoice": 165,
+    "status": "Dispute review",
+    "owner": "Maya Chen",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00002",
+    "customer": "Bluewater Auto Body",
+    "yard": "Valley yard",
+    "open_usd": 1027.8,
+    "days_from_invoice": 42,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00003",
+    "customer": "Cedar Auto Body",
+    "yard": "Coastal yard",
+    "open_usd": 17280.92,
+    "days_from_invoice": 79,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00004",
+    "customer": "Driftwood Auto Body",
+    "yard": "Central yard",
+    "open_usd": 14822.42,
+    "days_from_invoice": 141,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00005",
+    "customer": "Eastbank Auto Body",
+    "yard": "North yard",
+    "open_usd": 13516.21,
+    "days_from_invoice": 144,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00006",
+    "customer": "Fairview Auto Body",
+    "yard": "Valley yard",
+    "open_usd": 13105.81,
+    "days_from_invoice": 105,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00007",
+    "customer": "Glenrock Auto Body",
+    "yard": "Coastal yard",
+    "open_usd": 4583.54,
+    "days_from_invoice": 78,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00008",
+    "customer": "Harbour Auto Body",
+    "yard": "Central yard",
+    "open_usd": 12431.55,
+    "days_from_invoice": 105,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00009",
+    "customer": "Ironwood Auto Body",
+    "yard": "North yard",
+    "open_usd": 6359.43,
+    "days_from_invoice": 50,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00010",
+    "customer": "Juniper Auto Body",
+    "yard": "Valley yard",
+    "open_usd": 483.57,
+    "days_from_invoice": 91,
+    "status": "Return check",
+    "owner": "Maya Chen",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00011",
+    "customer": "Kingsway Auto Body",
+    "yard": "Coastal yard",
+    "open_usd": 17276.18,
+    "days_from_invoice": 90,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00012",
+    "customer": "Lakeside Auto Body",
+    "yard": "Central yard",
+    "open_usd": 14475.68,
+    "days_from_invoice": 118,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00013",
+    "customer": "Maple Auto Body",
+    "yard": "North yard",
+    "open_usd": 7933.17,
+    "days_from_invoice": 118,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00014",
+    "customer": "Northstar Auto Body",
+    "yard": "Valley yard",
+    "open_usd": 10072.83,
+    "days_from_invoice": 146,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00015",
+    "customer": "Oakfield Auto Body",
+    "yard": "Coastal yard",
+    "open_usd": 15560.91,
+    "days_from_invoice": 66,
+    "status": "Return check",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00016",
+    "customer": "Parkside Auto Body",
+    "yard": "Central yard",
+    "open_usd": 2130.45,
+    "days_from_invoice": 129,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00017",
+    "customer": "Quarry Auto Body",
+    "yard": "North yard",
+    "open_usd": 16690.05,
+    "days_from_invoice": 136,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00018",
+    "customer": "Redwood Auto Body",
+    "yard": "Valley yard",
+    "open_usd": 6058.34,
+    "days_from_invoice": 104,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00019",
+    "customer": "Summit Auto Body",
+    "yard": "Coastal yard",
+    "open_usd": 9234.0,
+    "days_from_invoice": 159,
+    "status": "Promise due",
+    "owner": "Maya Chen",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00020",
+    "customer": "Tidewater Auto Body",
+    "yard": "Central yard",
+    "open_usd": 6580.44,
+    "days_from_invoice": 96,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00021",
+    "customer": "Alder Repair Group",
+    "yard": "North yard",
+    "open_usd": 15917.56,
+    "days_from_invoice": 73,
+    "status": "Return check",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00022",
+    "customer": "Bluewater Repair Group",
+    "yard": "Valley yard",
+    "open_usd": 5621.08,
+    "days_from_invoice": 74,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00023",
+    "customer": "Cedar Repair Group",
+    "yard": "Coastal yard",
+    "open_usd": 5019.73,
+    "days_from_invoice": 53,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00024",
+    "customer": "Driftwood Repair Group",
+    "yard": "Central yard",
+    "open_usd": 14513.11,
+    "days_from_invoice": 155,
+    "status": "Return check",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00025",
+    "customer": "Eastbank Repair Group",
+    "yard": "North yard",
+    "open_usd": 6189.35,
+    "days_from_invoice": 91,
+    "status": "Dispute review",
+    "owner": "Maya Chen",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00026",
+    "customer": "Fairview Repair Group",
+    "yard": "Valley yard",
+    "open_usd": 15107.53,
+    "days_from_invoice": 57,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00027",
+    "customer": "Glenrock Repair Group",
+    "yard": "Coastal yard",
+    "open_usd": 9954.76,
+    "days_from_invoice": 82,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00028",
+    "customer": "Harbour Repair Group",
+    "yard": "Central yard",
+    "open_usd": 462.53,
+    "days_from_invoice": 164,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00029",
+    "customer": "Ironwood Repair Group",
+    "yard": "North yard",
+    "open_usd": 2717.62,
+    "days_from_invoice": 37,
+    "status": "Return check",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00030",
+    "customer": "Juniper Repair Group",
+    "yard": "Valley yard",
+    "open_usd": 11521.56,
+    "days_from_invoice": 82,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00031",
+    "customer": "Kingsway Repair Group",
+    "yard": "Coastal yard",
+    "open_usd": 7537.18,
+    "days_from_invoice": 68,
+    "status": "Dispute review",
+    "owner": "Maya Chen",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00032",
+    "customer": "Lakeside Repair Group",
+    "yard": "Central yard",
+    "open_usd": 230.84,
+    "days_from_invoice": 135,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00033",
+    "customer": "Maple Repair Group",
+    "yard": "North yard",
+    "open_usd": 17759.28,
+    "days_from_invoice": 127,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00034",
+    "customer": "Northstar Repair Group",
+    "yard": "Valley yard",
+    "open_usd": 3484.43,
+    "days_from_invoice": 54,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00035",
+    "customer": "Oakfield Repair Group",
+    "yard": "Coastal yard",
+    "open_usd": 14193.78,
+    "days_from_invoice": 64,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00036",
+    "customer": "Parkside Repair Group",
+    "yard": "Central yard",
+    "open_usd": 11003.05,
+    "days_from_invoice": 96,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00037",
+    "customer": "Quarry Repair Group",
+    "yard": "North yard",
+    "open_usd": 5130.07,
+    "days_from_invoice": 131,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00038",
+    "customer": "Redwood Repair Group",
+    "yard": "Valley yard",
+    "open_usd": 9936.9,
+    "days_from_invoice": 55,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00039",
+    "customer": "Summit Repair Group",
+    "yard": "Coastal yard",
+    "open_usd": 10740.22,
+    "days_from_invoice": 102,
+    "status": "Return check",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00040",
+    "customer": "Tidewater Repair Group",
+    "yard": "Central yard",
+    "open_usd": 9213.11,
+    "days_from_invoice": 93,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00041",
+    "customer": "Alder Fleet Services",
+    "yard": "North yard",
+    "open_usd": 6779.33,
+    "days_from_invoice": 138,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00042",
+    "customer": "Bluewater Fleet Services",
+    "yard": "Valley yard",
+    "open_usd": 6961.41,
+    "days_from_invoice": 82,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00043",
+    "customer": "Cedar Fleet Services",
+    "yard": "Coastal yard",
+    "open_usd": 13031.1,
+    "days_from_invoice": 144,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00044",
+    "customer": "Driftwood Fleet Services",
+    "yard": "Central yard",
+    "open_usd": 17355.89,
+    "days_from_invoice": 43,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00045",
+    "customer": "Eastbank Fleet Services",
+    "yard": "North yard",
+    "open_usd": 2819.99,
+    "days_from_invoice": 77,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00046",
+    "customer": "Fairview Fleet Services",
+    "yard": "Valley yard",
+    "open_usd": 12920.51,
+    "days_from_invoice": 43,
+    "status": "Return check",
+    "owner": "Maya Chen",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00047",
+    "customer": "Glenrock Fleet Services",
+    "yard": "Coastal yard",
+    "open_usd": 2600.74,
+    "days_from_invoice": 178,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00048",
+    "customer": "Harbour Fleet Services",
+    "yard": "Central yard",
+    "open_usd": 6575.39,
+    "days_from_invoice": 72,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00049",
+    "customer": "Ironwood Fleet Services",
+    "yard": "North yard",
+    "open_usd": 786.22,
+    "days_from_invoice": 57,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00050",
+    "customer": "Juniper Fleet Services",
+    "yard": "Valley yard",
+    "open_usd": 17048.49,
+    "days_from_invoice": 178,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00051",
+    "customer": "Kingsway Fleet Services",
+    "yard": "Coastal yard",
+    "open_usd": 17891.97,
+    "days_from_invoice": 86,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00052",
+    "customer": "Lakeside Fleet Services",
+    "yard": "Central yard",
+    "open_usd": 5724.26,
+    "days_from_invoice": 103,
+    "status": "Return check",
+    "owner": "Maya Chen",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00053",
+    "customer": "Maple Fleet Services",
+    "yard": "North yard",
+    "open_usd": 5874.38,
+    "days_from_invoice": 97,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00054",
+    "customer": "Northstar Fleet Services",
+    "yard": "Valley yard",
+    "open_usd": 8888.46,
+    "days_from_invoice": 149,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00055",
+    "customer": "Oakfield Fleet Services",
+    "yard": "Coastal yard",
+    "open_usd": 17025.18,
+    "days_from_invoice": 82,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00056",
+    "customer": "Parkside Fleet Services",
+    "yard": "Central yard",
+    "open_usd": 15345.91,
+    "days_from_invoice": 73,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00057",
+    "customer": "Quarry Fleet Services",
+    "yard": "North yard",
+    "open_usd": 9248.31,
+    "days_from_invoice": 87,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00058",
+    "customer": "Redwood Fleet Services",
+    "yard": "Valley yard",
+    "open_usd": 11074.55,
+    "days_from_invoice": 111,
+    "status": "Return check",
+    "owner": "Maya Chen",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00059",
+    "customer": "Summit Fleet Services",
+    "yard": "Coastal yard",
+    "open_usd": 7180.58,
+    "days_from_invoice": 136,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00060",
+    "customer": "Tidewater Fleet Services",
+    "yard": "Central yard",
+    "open_usd": 7055.55,
+    "days_from_invoice": 118,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00061",
+    "customer": "Alder Motor Works",
+    "yard": "North yard",
+    "open_usd": 3190.77,
+    "days_from_invoice": 51,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00062",
+    "customer": "Bluewater Motor Works",
+    "yard": "Valley yard",
+    "open_usd": 2298.04,
+    "days_from_invoice": 122,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00063",
+    "customer": "Cedar Motor Works",
+    "yard": "Coastal yard",
+    "open_usd": 10736.35,
+    "days_from_invoice": 143,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00064",
+    "customer": "Driftwood Motor Works",
+    "yard": "Central yard",
+    "open_usd": 12924.63,
+    "days_from_invoice": 98,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00065",
+    "customer": "Eastbank Motor Works",
+    "yard": "North yard",
+    "open_usd": 1885.44,
+    "days_from_invoice": 130,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00066",
+    "customer": "Fairview Motor Works",
+    "yard": "Valley yard",
+    "open_usd": 9768.33,
+    "days_from_invoice": 85,
+    "status": "Return check",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00067",
+    "customer": "Glenrock Motor Works",
+    "yard": "Coastal yard",
+    "open_usd": 15520.73,
+    "days_from_invoice": 45,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00068",
+    "customer": "Harbour Motor Works",
+    "yard": "Central yard",
+    "open_usd": 1920.35,
+    "days_from_invoice": 69,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00069",
+    "customer": "Ironwood Motor Works",
+    "yard": "North yard",
+    "open_usd": 16581.06,
+    "days_from_invoice": 153,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00070",
+    "customer": "Juniper Motor Works",
+    "yard": "Valley yard",
+    "open_usd": 11748.05,
+    "days_from_invoice": 119,
+    "status": "Promise due",
+    "owner": "Maya Chen",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00071",
+    "customer": "Kingsway Motor Works",
+    "yard": "Coastal yard",
+    "open_usd": 8467.15,
+    "days_from_invoice": 108,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00072",
+    "customer": "Lakeside Motor Works",
+    "yard": "Central yard",
+    "open_usd": 16311.3,
+    "days_from_invoice": 31,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00073",
+    "customer": "Maple Motor Works",
+    "yard": "North yard",
+    "open_usd": 13994.45,
+    "days_from_invoice": 158,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00074",
+    "customer": "Northstar Motor Works",
+    "yard": "Valley yard",
+    "open_usd": 8293.07,
+    "days_from_invoice": 158,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00075",
+    "customer": "Oakfield Motor Works",
+    "yard": "Coastal yard",
+    "open_usd": 2605.83,
+    "days_from_invoice": 180,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00076",
+    "customer": "Parkside Motor Works",
+    "yard": "Central yard",
+    "open_usd": 3592.19,
+    "days_from_invoice": 166,
+    "status": "Promise due",
+    "owner": "Maya Chen",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00077",
+    "customer": "Quarry Motor Works",
+    "yard": "North yard",
+    "open_usd": 1790.51,
+    "days_from_invoice": 94,
+    "status": "Return check",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00078",
+    "customer": "Redwood Motor Works",
+    "yard": "Valley yard",
+    "open_usd": 3329.52,
+    "days_from_invoice": 116,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00079",
+    "customer": "Summit Motor Works",
+    "yard": "Coastal yard",
+    "open_usd": 7676.48,
+    "days_from_invoice": 150,
+    "status": "Promise due",
+    "owner": "Maya Chen",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00080",
+    "customer": "Tidewater Motor Works",
+    "yard": "Central yard",
+    "open_usd": 16489.98,
+    "days_from_invoice": 41,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00081",
+    "customer": "Alder Collision Centre",
+    "yard": "North yard",
+    "open_usd": 11028.55,
+    "days_from_invoice": 44,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00082",
+    "customer": "Bluewater Collision Centre",
+    "yard": "Valley yard",
+    "open_usd": 2868.93,
+    "days_from_invoice": 175,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00083",
+    "customer": "Cedar Collision Centre",
+    "yard": "Coastal yard",
+    "open_usd": 16990.67,
+    "days_from_invoice": 100,
+    "status": "Promise due",
+    "owner": "Jordan Lee",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00084",
+    "customer": "Driftwood Collision Centre",
+    "yard": "Central yard",
+    "open_usd": 10162.06,
+    "days_from_invoice": 115,
+    "status": "Return check",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00085",
+    "customer": "Eastbank Collision Centre",
+    "yard": "North yard",
+    "open_usd": 15982.94,
+    "days_from_invoice": 73,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00086",
+    "customer": "Fairview Collision Centre",
+    "yard": "Valley yard",
+    "open_usd": 3697.75,
+    "days_from_invoice": 65,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00087",
+    "customer": "Glenrock Collision Centre",
+    "yard": "Coastal yard",
+    "open_usd": 12749.45,
+    "days_from_invoice": 63,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00088",
+    "customer": "Harbour Collision Centre",
+    "yard": "Central yard",
+    "open_usd": 11911.25,
+    "days_from_invoice": 96,
+    "status": "Dispute review",
+    "owner": "Maya Chen",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00089",
+    "customer": "Ironwood Collision Centre",
+    "yard": "North yard",
+    "open_usd": 4592.74,
+    "days_from_invoice": 89,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00090",
+    "customer": "Juniper Collision Centre",
+    "yard": "Valley yard",
+    "open_usd": 3257.47,
+    "days_from_invoice": 95,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00091",
+    "customer": "Kingsway Collision Centre",
+    "yard": "Coastal yard",
+    "open_usd": 2770.81,
+    "days_from_invoice": 167,
+    "status": "Dispute review",
+    "owner": "Maya Chen",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00092",
+    "customer": "Lakeside Collision Centre",
+    "yard": "Central yard",
+    "open_usd": 1459.96,
+    "days_from_invoice": 117,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00093",
+    "customer": "Maple Collision Centre",
+    "yard": "North yard",
+    "open_usd": 13264.03,
+    "days_from_invoice": 169,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00094",
+    "customer": "Northstar Collision Centre",
+    "yard": "Valley yard",
+    "open_usd": 14765.79,
+    "days_from_invoice": 39,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00095",
+    "customer": "Oakfield Collision Centre",
+    "yard": "Coastal yard",
+    "open_usd": 8298.87,
+    "days_from_invoice": 140,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00096",
+    "customer": "Parkside Collision Centre",
+    "yard": "Central yard",
+    "open_usd": 15047.2,
+    "days_from_invoice": 43,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00097",
+    "customer": "Quarry Collision Centre",
+    "yard": "North yard",
+    "open_usd": 10046.74,
+    "days_from_invoice": 128,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00098",
+    "customer": "Redwood Collision Centre",
+    "yard": "Valley yard",
+    "open_usd": 11196.03,
+    "days_from_invoice": 31,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00099",
+    "customer": "Summit Collision Centre",
+    "yard": "Coastal yard",
+    "open_usd": 2624.88,
+    "days_from_invoice": 44,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00100",
+    "customer": "Tidewater Collision Centre",
+    "yard": "Central yard",
+    "open_usd": 14512.94,
+    "days_from_invoice": 166,
+    "status": "Return check",
+    "owner": "Maya Chen",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00101",
+    "customer": "Alder Parts Network",
+    "yard": "North yard",
+    "open_usd": 14558.37,
+    "days_from_invoice": 71,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00102",
+    "customer": "Bluewater Parts Network",
+    "yard": "Valley yard",
+    "open_usd": 7911.34,
+    "days_from_invoice": 171,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00103",
+    "customer": "Cedar Parts Network",
+    "yard": "Coastal yard",
+    "open_usd": 11352.33,
+    "days_from_invoice": 81,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00104",
+    "customer": "Driftwood Parts Network",
+    "yard": "Central yard",
+    "open_usd": 7725.27,
+    "days_from_invoice": 52,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00105",
+    "customer": "Eastbank Parts Network",
+    "yard": "North yard",
+    "open_usd": 825.88,
+    "days_from_invoice": 34,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00106",
+    "customer": "Fairview Parts Network",
+    "yard": "Valley yard",
+    "open_usd": 1971.6,
+    "days_from_invoice": 37,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00107",
+    "customer": "Glenrock Parts Network",
+    "yard": "Coastal yard",
+    "open_usd": 13817.35,
+    "days_from_invoice": 38,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00108",
+    "customer": "Harbour Parts Network",
+    "yard": "Central yard",
+    "open_usd": 14079.1,
+    "days_from_invoice": 170,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00109",
+    "customer": "Ironwood Parts Network",
+    "yard": "North yard",
+    "open_usd": 8304.61,
+    "days_from_invoice": 125,
+    "status": "Dispute review",
+    "owner": "Maya Chen",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00110",
+    "customer": "Juniper Parts Network",
+    "yard": "Valley yard",
+    "open_usd": 10281.98,
+    "days_from_invoice": 43,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00111",
+    "customer": "Kingsway Parts Network",
+    "yard": "Coastal yard",
+    "open_usd": 17302.72,
+    "days_from_invoice": 150,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00112",
+    "customer": "Lakeside Parts Network",
+    "yard": "Central yard",
+    "open_usd": 13196.08,
+    "days_from_invoice": 57,
+    "status": "Return check",
+    "owner": "Maya Chen",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00113",
+    "customer": "Maple Parts Network",
+    "yard": "North yard",
+    "open_usd": 16024.22,
+    "days_from_invoice": 145,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00114",
+    "customer": "Northstar Parts Network",
+    "yard": "Valley yard",
+    "open_usd": 14466.88,
+    "days_from_invoice": 117,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00115",
+    "customer": "Oakfield Parts Network",
+    "yard": "Coastal yard",
+    "open_usd": 15036.68,
+    "days_from_invoice": 167,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00116",
+    "customer": "Parkside Parts Network",
+    "yard": "Central yard",
+    "open_usd": 12174.93,
+    "days_from_invoice": 100,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00117",
+    "customer": "Quarry Parts Network",
+    "yard": "North yard",
+    "open_usd": 15224.13,
+    "days_from_invoice": 41,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00118",
+    "customer": "Redwood Parts Network",
+    "yard": "Valley yard",
+    "open_usd": 12763.91,
+    "days_from_invoice": 135,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00119",
+    "customer": "Summit Parts Network",
+    "yard": "Coastal yard",
+    "open_usd": 9084.41,
+    "days_from_invoice": 77,
+    "status": "Return check",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00120",
+    "customer": "Tidewater Parts Network",
+    "yard": "Central yard",
+    "open_usd": 683.12,
+    "days_from_invoice": 40,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00121",
+    "customer": "Alder Service Garage",
+    "yard": "North yard",
+    "open_usd": 1601.97,
+    "days_from_invoice": 53,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00122",
+    "customer": "Bluewater Service Garage",
+    "yard": "Valley yard",
+    "open_usd": 16639.07,
+    "days_from_invoice": 161,
+    "status": "Return check",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00123",
+    "customer": "Cedar Service Garage",
+    "yard": "Coastal yard",
+    "open_usd": 7607.5,
+    "days_from_invoice": 140,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00124",
+    "customer": "Driftwood Service Garage",
+    "yard": "Central yard",
+    "open_usd": 8647.27,
+    "days_from_invoice": 57,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00125",
+    "customer": "Eastbank Service Garage",
+    "yard": "North yard",
+    "open_usd": 12104.95,
+    "days_from_invoice": 140,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00126",
+    "customer": "Fairview Service Garage",
+    "yard": "Valley yard",
+    "open_usd": 8977.94,
+    "days_from_invoice": 96,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00127",
+    "customer": "Glenrock Service Garage",
+    "yard": "Coastal yard",
+    "open_usd": 251.49,
+    "days_from_invoice": 165,
+    "status": "Dispute review",
+    "owner": "Maya Chen",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00128",
+    "customer": "Harbour Service Garage",
+    "yard": "Central yard",
+    "open_usd": 4563.36,
+    "days_from_invoice": 151,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00129",
+    "customer": "Ironwood Service Garage",
+    "yard": "North yard",
+    "open_usd": 15041.42,
+    "days_from_invoice": 133,
+    "status": "Return check",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00130",
+    "customer": "Juniper Service Garage",
+    "yard": "Valley yard",
+    "open_usd": 16170.56,
+    "days_from_invoice": 93,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00131",
+    "customer": "Kingsway Service Garage",
+    "yard": "Coastal yard",
+    "open_usd": 997.01,
+    "days_from_invoice": 104,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00132",
+    "customer": "Lakeside Service Garage",
+    "yard": "Central yard",
+    "open_usd": 14650.25,
+    "days_from_invoice": 176,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00133",
+    "customer": "Maple Service Garage",
+    "yard": "North yard",
+    "open_usd": 10092.58,
+    "days_from_invoice": 67,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00134",
+    "customer": "Northstar Service Garage",
+    "yard": "Valley yard",
+    "open_usd": 16832.18,
+    "days_from_invoice": 127,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00135",
+    "customer": "Oakfield Service Garage",
+    "yard": "Coastal yard",
+    "open_usd": 1962.15,
+    "days_from_invoice": 135,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00136",
+    "customer": "Parkside Service Garage",
+    "yard": "Central yard",
+    "open_usd": 17718.55,
+    "days_from_invoice": 69,
+    "status": "Dispute review",
+    "owner": "Maya Chen",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00137",
+    "customer": "Quarry Service Garage",
+    "yard": "North yard",
+    "open_usd": 10331.71,
+    "days_from_invoice": 78,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00138",
+    "customer": "Redwood Service Garage",
+    "yard": "Valley yard",
+    "open_usd": 1793.69,
+    "days_from_invoice": 37,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00139",
+    "customer": "Summit Service Garage",
+    "yard": "Coastal yard",
+    "open_usd": 3937.44,
+    "days_from_invoice": 148,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00140",
+    "customer": "Tidewater Service Garage",
+    "yard": "Central yard",
+    "open_usd": 12488.95,
+    "days_from_invoice": 135,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00141",
+    "customer": "Alder Vehicle Care",
+    "yard": "North yard",
+    "open_usd": 7554.29,
+    "days_from_invoice": 84,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00142",
+    "customer": "Bluewater Vehicle Care",
+    "yard": "Valley yard",
+    "open_usd": 2717.4,
+    "days_from_invoice": 46,
+    "status": "Promise due",
+    "owner": "Maya Chen",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00143",
+    "customer": "Cedar Vehicle Care",
+    "yard": "Coastal yard",
+    "open_usd": 3105.87,
+    "days_from_invoice": 141,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00144",
+    "customer": "Driftwood Vehicle Care",
+    "yard": "Central yard",
+    "open_usd": 15914.48,
+    "days_from_invoice": 151,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00145",
+    "customer": "Eastbank Vehicle Care",
+    "yard": "North yard",
+    "open_usd": 10909.56,
+    "days_from_invoice": 82,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00146",
+    "customer": "Fairview Vehicle Care",
+    "yard": "Valley yard",
+    "open_usd": 6856.81,
+    "days_from_invoice": 162,
+    "status": "Credit pending",
+    "owner": "Jordan Lee",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00147",
+    "customer": "Glenrock Vehicle Care",
+    "yard": "Coastal yard",
+    "open_usd": 17964.44,
+    "days_from_invoice": 127,
+    "status": "Collect",
+    "owner": "Sam Rivera",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00148",
+    "customer": "Harbour Vehicle Care",
+    "yard": "Central yard",
+    "open_usd": 9151.04,
+    "days_from_invoice": 115,
+    "status": "Return check",
+    "owner": "Maya Chen",
+    "next_action": "Confirm open pickup and delivery-ticket status."
+  },
+  {
+    "account_id": "W00149",
+    "customer": "Ironwood Vehicle Care",
+    "yard": "North yard",
+    "open_usd": 12140.45,
+    "days_from_invoice": 136,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00150",
+    "customer": "Juniper Vehicle Care",
+    "yard": "Valley yard",
+    "open_usd": 8818.49,
+    "days_from_invoice": 86,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00151",
+    "customer": "Kingsway Vehicle Care",
+    "yard": "Coastal yard",
+    "open_usd": 13892.02,
+    "days_from_invoice": 153,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00152",
+    "customer": "Lakeside Vehicle Care",
+    "yard": "Central yard",
+    "open_usd": 4305.18,
+    "days_from_invoice": 177,
+    "status": "Dispute review",
+    "owner": "Jordan Lee",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00153",
+    "customer": "Maple Vehicle Care",
+    "yard": "North yard",
+    "open_usd": 2546.54,
+    "days_from_invoice": 33,
+    "status": "Credit pending",
+    "owner": "Sam Rivera",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00154",
+    "customer": "Northstar Vehicle Care",
+    "yard": "Valley yard",
+    "open_usd": 16349.7,
+    "days_from_invoice": 154,
+    "status": "Collect",
+    "owner": "Maya Chen",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00155",
+    "customer": "Oakfield Vehicle Care",
+    "yard": "Coastal yard",
+    "open_usd": 7248.33,
+    "days_from_invoice": 34,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00156",
+    "customer": "Parkside Vehicle Care",
+    "yard": "Central yard",
+    "open_usd": 9420.67,
+    "days_from_invoice": 168,
+    "status": "Dispute review",
+    "owner": "Sam Rivera",
+    "next_action": "Pause the disputed ask and reconcile the evidence."
+  },
+  {
+    "account_id": "W00157",
+    "customer": "Quarry Vehicle Care",
+    "yard": "North yard",
+    "open_usd": 14685.27,
+    "days_from_invoice": 138,
+    "status": "Credit pending",
+    "owner": "Maya Chen",
+    "next_action": "Obtain the scan reference and request the credit memo."
+  },
+  {
+    "account_id": "W00158",
+    "customer": "Redwood Vehicle Care",
+    "yard": "Valley yard",
+    "open_usd": 13356.48,
+    "days_from_invoice": 162,
+    "status": "Collect",
+    "owner": "Jordan Lee",
+    "next_action": "Confirm the payable balance and request a payment date."
+  },
+  {
+    "account_id": "W00159",
+    "customer": "Summit Vehicle Care",
+    "yard": "Coastal yard",
+    "open_usd": 14998.41,
+    "days_from_invoice": 92,
+    "status": "Promise due",
+    "owner": "Sam Rivera",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  },
+  {
+    "account_id": "W00160",
+    "customer": "Tidewater Vehicle Care",
+    "yard": "Central yard",
+    "open_usd": 8040.14,
+    "days_from_invoice": 65,
+    "status": "Promise due",
+    "owner": "Maya Chen",
+    "next_action": "Check whether the agreed payment arrived before following up."
+  }
+]

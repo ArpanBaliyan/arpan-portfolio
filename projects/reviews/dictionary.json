@@ -1,0 +1,42 @@
+[
+  {
+    "field": "review_id",
+    "type": "TEXT",
+    "definition": "Review id"
+  },
+  {
+    "field": "agent",
+    "type": "TEXT",
+    "definition": "Agent"
+  },
+  {
+    "field": "week",
+    "type": "TEXT",
+    "definition": "Week"
+  },
+  {
+    "field": "attempts",
+    "type": "REAL",
+    "definition": "Attempts"
+  },
+  {
+    "field": "contacts",
+    "type": "REAL",
+    "definition": "Contacts"
+  },
+  {
+    "field": "promises",
+    "type": "REAL",
+    "definition": "Promises"
+  },
+  {
+    "field": "followup_pct",
+    "type": "REAL",
+    "definition": "Percentage points from 0 to 100"
+  },
+  {
+    "field": "quality_pct",
+    "type": "REAL",
+    "definition": "Percentage points from 0 to 100"
+  }
+]

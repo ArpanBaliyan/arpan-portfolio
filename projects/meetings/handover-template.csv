@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,Weekly operations review,"Overdue hand-offs, refund queue, blocked actions",Use meeting time for the decision that needs the group. Track execution outside the meeting with a named owner and deadline.,Resolve dependencies and assign completion dates.,Process owner,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation

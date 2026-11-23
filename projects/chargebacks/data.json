@@ -1,0 +1,1442 @@
+[
+  {
+    "case_id": "DS-0001",
+    "customer": "Alder Auto Body",
+    "amount_usd": 6098.2,
+    "reason": "Refund not received",
+    "status": "Won",
+    "days_to_deadline": 2,
+    "root_cause": "Delivery query",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0002",
+    "customer": "Bluewater Auto Body",
+    "amount_usd": 3365.11,
+    "reason": "Merchandise not received",
+    "status": "Research",
+    "days_to_deadline": -2,
+    "root_cause": "Scan missing",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0003",
+    "customer": "Cedar Auto Body",
+    "amount_usd": 4503.0,
+    "reason": "Duplicate processing",
+    "status": "Evidence ready",
+    "days_to_deadline": 5,
+    "root_cause": "Refund pending",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0004",
+    "customer": "Driftwood Auto Body",
+    "amount_usd": 3915.12,
+    "reason": "Not as described",
+    "status": "Evidence ready",
+    "days_to_deadline": 13,
+    "root_cause": "Credit not raised",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0005",
+    "customer": "Eastbank Auto Body",
+    "amount_usd": 758.57,
+    "reason": "Duplicate processing",
+    "status": "Submitted",
+    "days_to_deadline": 11,
+    "root_cause": "Pickup delayed",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0006",
+    "customer": "Fairview Auto Body",
+    "amount_usd": 281.3,
+    "reason": "Merchandise not received",
+    "status": "Research",
+    "days_to_deadline": 6,
+    "root_cause": "Refund pending",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0007",
+    "customer": "Glenrock Auto Body",
+    "amount_usd": 352.05,
+    "reason": "Not as described",
+    "status": "Research",
+    "days_to_deadline": 6,
+    "root_cause": "Partial credit",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0008",
+    "customer": "Harbour Auto Body",
+    "amount_usd": 516.2,
+    "reason": "Merchandise not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 14,
+    "root_cause": "Pickup delayed",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0009",
+    "customer": "Ironwood Auto Body",
+    "amount_usd": 2005.86,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 2,
+    "root_cause": "Partial credit",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0010",
+    "customer": "Juniper Auto Body",
+    "amount_usd": 5501.33,
+    "reason": "Duplicate processing",
+    "status": "Won",
+    "days_to_deadline": 7,
+    "root_cause": "Pickup delayed",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0011",
+    "customer": "Kingsway Auto Body",
+    "amount_usd": 1217.15,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 0,
+    "root_cause": "Scan missing",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0012",
+    "customer": "Lakeside Auto Body",
+    "amount_usd": 3690.98,
+    "reason": "Not as described",
+    "status": "Accepted refund",
+    "days_to_deadline": -2,
+    "root_cause": "Partial credit",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0013",
+    "customer": "Maple Auto Body",
+    "amount_usd": 1285.36,
+    "reason": "Merchandise not received",
+    "status": "Submitted",
+    "days_to_deadline": 8,
+    "root_cause": "Scan missing",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0014",
+    "customer": "Northstar Auto Body",
+    "amount_usd": 599.9,
+    "reason": "Refund not received",
+    "status": "Won",
+    "days_to_deadline": 7,
+    "root_cause": "Delivery query",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0015",
+    "customer": "Oakfield Auto Body",
+    "amount_usd": 1478.61,
+    "reason": "Merchandise not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 10,
+    "root_cause": "Refund pending",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0016",
+    "customer": "Parkside Auto Body",
+    "amount_usd": 5024.2,
+    "reason": "Merchandise not received",
+    "status": "Submitted",
+    "days_to_deadline": 14,
+    "root_cause": "Refund pending",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0017",
+    "customer": "Quarry Auto Body",
+    "amount_usd": 4116.98,
+    "reason": "Merchandise not received",
+    "status": "Lost",
+    "days_to_deadline": -1,
+    "root_cause": "Credit not raised",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0018",
+    "customer": "Redwood Auto Body",
+    "amount_usd": 4944.79,
+    "reason": "Duplicate processing",
+    "status": "Accepted refund",
+    "days_to_deadline": 13,
+    "root_cause": "Delivery query",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0019",
+    "customer": "Summit Auto Body",
+    "amount_usd": 1035.91,
+    "reason": "Refund not received",
+    "status": "Won",
+    "days_to_deadline": 8,
+    "root_cause": "Credit not raised",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0020",
+    "customer": "Tidewater Auto Body",
+    "amount_usd": 3303.61,
+    "reason": "Duplicate processing",
+    "status": "Submitted",
+    "days_to_deadline": -1,
+    "root_cause": "Scan missing",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0021",
+    "customer": "Alder Repair Group",
+    "amount_usd": 4995.34,
+    "reason": "Duplicate processing",
+    "status": "Evidence ready",
+    "days_to_deadline": 1,
+    "root_cause": "Credit not raised",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0022",
+    "customer": "Bluewater Repair Group",
+    "amount_usd": 1334.8,
+    "reason": "Merchandise not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 2,
+    "root_cause": "Pickup delayed",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0023",
+    "customer": "Cedar Repair Group",
+    "amount_usd": 3378.83,
+    "reason": "Duplicate processing",
+    "status": "Submitted",
+    "days_to_deadline": 11,
+    "root_cause": "Scan missing",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0024",
+    "customer": "Driftwood Repair Group",
+    "amount_usd": 4260.33,
+    "reason": "Duplicate processing",
+    "status": "Evidence ready",
+    "days_to_deadline": 3,
+    "root_cause": "Scan missing",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0025",
+    "customer": "Eastbank Repair Group",
+    "amount_usd": 5211.64,
+    "reason": "Merchandise not received",
+    "status": "Won",
+    "days_to_deadline": 1,
+    "root_cause": "Partial credit",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0026",
+    "customer": "Fairview Repair Group",
+    "amount_usd": 4985.1,
+    "reason": "Duplicate processing",
+    "status": "Submitted",
+    "days_to_deadline": 8,
+    "root_cause": "Partial credit",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0027",
+    "customer": "Glenrock Repair Group",
+    "amount_usd": 4404.97,
+    "reason": "Duplicate processing",
+    "status": "Won",
+    "days_to_deadline": -2,
+    "root_cause": "Pickup delayed",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0028",
+    "customer": "Harbour Repair Group",
+    "amount_usd": 3750.42,
+    "reason": "Merchandise not received",
+    "status": "Submitted",
+    "days_to_deadline": 3,
+    "root_cause": "Partial credit",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0029",
+    "customer": "Ironwood Repair Group",
+    "amount_usd": 3507.17,
+    "reason": "Merchandise not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 6,
+    "root_cause": "Credit not raised",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0030",
+    "customer": "Juniper Repair Group",
+    "amount_usd": 3532.14,
+    "reason": "Not as described",
+    "status": "Accepted refund",
+    "days_to_deadline": 3,
+    "root_cause": "Scan missing",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0031",
+    "customer": "Kingsway Repair Group",
+    "amount_usd": 5118.72,
+    "reason": "Duplicate processing",
+    "status": "Submitted",
+    "days_to_deadline": 1,
+    "root_cause": "Delivery query",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0032",
+    "customer": "Lakeside Repair Group",
+    "amount_usd": 1739.75,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 13,
+    "root_cause": "Scan missing",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0033",
+    "customer": "Maple Repair Group",
+    "amount_usd": 3033.69,
+    "reason": "Duplicate processing",
+    "status": "Submitted",
+    "days_to_deadline": 3,
+    "root_cause": "Refund pending",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0034",
+    "customer": "Northstar Repair Group",
+    "amount_usd": 1105.96,
+    "reason": "Merchandise not received",
+    "status": "Won",
+    "days_to_deadline": 7,
+    "root_cause": "Scan missing",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0035",
+    "customer": "Oakfield Repair Group",
+    "amount_usd": 3024.54,
+    "reason": "Merchandise not received",
+    "status": "Won",
+    "days_to_deadline": -1,
+    "root_cause": "Pickup delayed",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0036",
+    "customer": "Parkside Repair Group",
+    "amount_usd": 2546.34,
+    "reason": "Merchandise not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 4,
+    "root_cause": "Delivery query",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0037",
+    "customer": "Quarry Repair Group",
+    "amount_usd": 5974.66,
+    "reason": "Merchandise not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 10,
+    "root_cause": "Scan missing",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0038",
+    "customer": "Redwood Repair Group",
+    "amount_usd": 4540.83,
+    "reason": "Not as described",
+    "status": "Evidence ready",
+    "days_to_deadline": 12,
+    "root_cause": "Refund pending",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0039",
+    "customer": "Summit Repair Group",
+    "amount_usd": 2879.57,
+    "reason": "Duplicate processing",
+    "status": "Accepted refund",
+    "days_to_deadline": -1,
+    "root_cause": "Scan missing",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0040",
+    "customer": "Tidewater Repair Group",
+    "amount_usd": 1235.66,
+    "reason": "Not as described",
+    "status": "Won",
+    "days_to_deadline": 1,
+    "root_cause": "Credit not raised",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0041",
+    "customer": "Alder Fleet Services",
+    "amount_usd": 2547.11,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 4,
+    "root_cause": "Partial credit",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0042",
+    "customer": "Bluewater Fleet Services",
+    "amount_usd": 2690.66,
+    "reason": "Duplicate processing",
+    "status": "Accepted refund",
+    "days_to_deadline": 1,
+    "root_cause": "Partial credit",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0043",
+    "customer": "Cedar Fleet Services",
+    "amount_usd": 6160.77,
+    "reason": "Not as described",
+    "status": "Lost",
+    "days_to_deadline": 7,
+    "root_cause": "Delivery query",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0044",
+    "customer": "Driftwood Fleet Services",
+    "amount_usd": 6113.28,
+    "reason": "Duplicate processing",
+    "status": "Research",
+    "days_to_deadline": 7,
+    "root_cause": "Credit not raised",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0045",
+    "customer": "Eastbank Fleet Services",
+    "amount_usd": 4344.69,
+    "reason": "Merchandise not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 3,
+    "root_cause": "Pickup delayed",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0046",
+    "customer": "Fairview Fleet Services",
+    "amount_usd": 5918.06,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 14,
+    "root_cause": "Scan missing",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0047",
+    "customer": "Glenrock Fleet Services",
+    "amount_usd": 2544.3,
+    "reason": "Refund not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 13,
+    "root_cause": "Delivery query",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0048",
+    "customer": "Harbour Fleet Services",
+    "amount_usd": 2537.67,
+    "reason": "Refund not received",
+    "status": "Research",
+    "days_to_deadline": 13,
+    "root_cause": "Credit not raised",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0049",
+    "customer": "Ironwood Fleet Services",
+    "amount_usd": 5828.35,
+    "reason": "Duplicate processing",
+    "status": "Lost",
+    "days_to_deadline": 1,
+    "root_cause": "Partial credit",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0050",
+    "customer": "Juniper Fleet Services",
+    "amount_usd": 2045.36,
+    "reason": "Duplicate processing",
+    "status": "Won",
+    "days_to_deadline": 0,
+    "root_cause": "Refund pending",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0051",
+    "customer": "Kingsway Fleet Services",
+    "amount_usd": 4670.5,
+    "reason": "Merchandise not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 4,
+    "root_cause": "Credit not raised",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0052",
+    "customer": "Lakeside Fleet Services",
+    "amount_usd": 5364.74,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 14,
+    "root_cause": "Pickup delayed",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0053",
+    "customer": "Maple Fleet Services",
+    "amount_usd": 4695.71,
+    "reason": "Merchandise not received",
+    "status": "Submitted",
+    "days_to_deadline": 8,
+    "root_cause": "Refund pending",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0054",
+    "customer": "Northstar Fleet Services",
+    "amount_usd": 2132.12,
+    "reason": "Merchandise not received",
+    "status": "Won",
+    "days_to_deadline": 8,
+    "root_cause": "Scan missing",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0055",
+    "customer": "Oakfield Fleet Services",
+    "amount_usd": 4704.79,
+    "reason": "Refund not received",
+    "status": "Lost",
+    "days_to_deadline": 13,
+    "root_cause": "Partial credit",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0056",
+    "customer": "Parkside Fleet Services",
+    "amount_usd": 2795.4,
+    "reason": "Merchandise not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 10,
+    "root_cause": "Scan missing",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0057",
+    "customer": "Quarry Fleet Services",
+    "amount_usd": 2573.57,
+    "reason": "Refund not received",
+    "status": "Won",
+    "days_to_deadline": 13,
+    "root_cause": "Refund pending",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0058",
+    "customer": "Redwood Fleet Services",
+    "amount_usd": 2117.11,
+    "reason": "Not as described",
+    "status": "Lost",
+    "days_to_deadline": -2,
+    "root_cause": "Pickup delayed",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0059",
+    "customer": "Summit Fleet Services",
+    "amount_usd": 2447.04,
+    "reason": "Duplicate processing",
+    "status": "Accepted refund",
+    "days_to_deadline": -1,
+    "root_cause": "Partial credit",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0060",
+    "customer": "Tidewater Fleet Services",
+    "amount_usd": 5299.67,
+    "reason": "Merchandise not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 8,
+    "root_cause": "Refund pending",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0061",
+    "customer": "Alder Motor Works",
+    "amount_usd": 2111.4,
+    "reason": "Duplicate processing",
+    "status": "Research",
+    "days_to_deadline": 12,
+    "root_cause": "Pickup delayed",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0062",
+    "customer": "Bluewater Motor Works",
+    "amount_usd": 5197.88,
+    "reason": "Duplicate processing",
+    "status": "Lost",
+    "days_to_deadline": 10,
+    "root_cause": "Refund pending",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0063",
+    "customer": "Cedar Motor Works",
+    "amount_usd": 2065.4,
+    "reason": "Refund not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 12,
+    "root_cause": "Partial credit",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0064",
+    "customer": "Driftwood Motor Works",
+    "amount_usd": 1745.85,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 6,
+    "root_cause": "Credit not raised",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0065",
+    "customer": "Eastbank Motor Works",
+    "amount_usd": 3846.75,
+    "reason": "Refund not received",
+    "status": "Submitted",
+    "days_to_deadline": 4,
+    "root_cause": "Partial credit",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0066",
+    "customer": "Fairview Motor Works",
+    "amount_usd": 6000.79,
+    "reason": "Duplicate processing",
+    "status": "Accepted refund",
+    "days_to_deadline": -1,
+    "root_cause": "Delivery query",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0067",
+    "customer": "Glenrock Motor Works",
+    "amount_usd": 5799.98,
+    "reason": "Merchandise not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 1,
+    "root_cause": "Scan missing",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0068",
+    "customer": "Harbour Motor Works",
+    "amount_usd": 2670.67,
+    "reason": "Merchandise not received",
+    "status": "Lost",
+    "days_to_deadline": 12,
+    "root_cause": "Scan missing",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0069",
+    "customer": "Ironwood Motor Works",
+    "amount_usd": 667.21,
+    "reason": "Not as described",
+    "status": "Research",
+    "days_to_deadline": 10,
+    "root_cause": "Pickup delayed",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0070",
+    "customer": "Juniper Motor Works",
+    "amount_usd": 2957.85,
+    "reason": "Not as described",
+    "status": "Lost",
+    "days_to_deadline": 7,
+    "root_cause": "Delivery query",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0071",
+    "customer": "Kingsway Motor Works",
+    "amount_usd": 5728.84,
+    "reason": "Refund not received",
+    "status": "Research",
+    "days_to_deadline": 3,
+    "root_cause": "Delivery query",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0072",
+    "customer": "Lakeside Motor Works",
+    "amount_usd": 298.81,
+    "reason": "Merchandise not received",
+    "status": "Research",
+    "days_to_deadline": 1,
+    "root_cause": "Credit not raised",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0073",
+    "customer": "Maple Motor Works",
+    "amount_usd": 2371.24,
+    "reason": "Duplicate processing",
+    "status": "Accepted refund",
+    "days_to_deadline": 13,
+    "root_cause": "Partial credit",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0074",
+    "customer": "Northstar Motor Works",
+    "amount_usd": 2999.13,
+    "reason": "Not as described",
+    "status": "Evidence ready",
+    "days_to_deadline": 14,
+    "root_cause": "Delivery query",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0075",
+    "customer": "Oakfield Motor Works",
+    "amount_usd": 138.73,
+    "reason": "Refund not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 5,
+    "root_cause": "Refund pending",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0076",
+    "customer": "Parkside Motor Works",
+    "amount_usd": 1904.27,
+    "reason": "Merchandise not received",
+    "status": "Research",
+    "days_to_deadline": 2,
+    "root_cause": "Partial credit",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0077",
+    "customer": "Quarry Motor Works",
+    "amount_usd": 1125.88,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 11,
+    "root_cause": "Delivery query",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0078",
+    "customer": "Redwood Motor Works",
+    "amount_usd": 3091.84,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 4,
+    "root_cause": "Credit not raised",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0079",
+    "customer": "Summit Motor Works",
+    "amount_usd": 4394.37,
+    "reason": "Refund not received",
+    "status": "Won",
+    "days_to_deadline": 13,
+    "root_cause": "Pickup delayed",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0080",
+    "customer": "Tidewater Motor Works",
+    "amount_usd": 1606.2,
+    "reason": "Duplicate processing",
+    "status": "Research",
+    "days_to_deadline": 1,
+    "root_cause": "Pickup delayed",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0081",
+    "customer": "Alder Collision Centre",
+    "amount_usd": 2970.04,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 4,
+    "root_cause": "Scan missing",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0082",
+    "customer": "Bluewater Collision Centre",
+    "amount_usd": 427.8,
+    "reason": "Merchandise not received",
+    "status": "Won",
+    "days_to_deadline": 9,
+    "root_cause": "Credit not raised",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0083",
+    "customer": "Cedar Collision Centre",
+    "amount_usd": 402.43,
+    "reason": "Merchandise not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 1,
+    "root_cause": "Pickup delayed",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0084",
+    "customer": "Driftwood Collision Centre",
+    "amount_usd": 2069.37,
+    "reason": "Not as described",
+    "status": "Submitted",
+    "days_to_deadline": -2,
+    "root_cause": "Pickup delayed",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0085",
+    "customer": "Eastbank Collision Centre",
+    "amount_usd": 4369.05,
+    "reason": "Merchandise not received",
+    "status": "Research",
+    "days_to_deadline": 10,
+    "root_cause": "Pickup delayed",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0086",
+    "customer": "Fairview Collision Centre",
+    "amount_usd": 404.51,
+    "reason": "Merchandise not received",
+    "status": "Accepted refund",
+    "days_to_deadline": 9,
+    "root_cause": "Partial credit",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0087",
+    "customer": "Glenrock Collision Centre",
+    "amount_usd": 6165.82,
+    "reason": "Merchandise not received",
+    "status": "Submitted",
+    "days_to_deadline": 13,
+    "root_cause": "Refund pending",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  },
+  {
+    "case_id": "DS-0088",
+    "customer": "Harbour Collision Centre",
+    "amount_usd": 5087.53,
+    "reason": "Not as described",
+    "status": "Lost",
+    "days_to_deadline": 1,
+    "root_cause": "Pickup delayed",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0089",
+    "customer": "Ironwood Collision Centre",
+    "amount_usd": 4209.46,
+    "reason": "Not as described",
+    "status": "Research",
+    "days_to_deadline": 11,
+    "root_cause": "Credit not raised",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0090",
+    "customer": "Juniper Collision Centre",
+    "amount_usd": 4971.41,
+    "reason": "Not as described",
+    "status": "Accepted refund",
+    "days_to_deadline": 9,
+    "root_cause": "Pickup delayed",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0091",
+    "customer": "Kingsway Collision Centre",
+    "amount_usd": 4407.47,
+    "reason": "Duplicate processing",
+    "status": "Submitted",
+    "days_to_deadline": 1,
+    "root_cause": "Scan missing",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0092",
+    "customer": "Lakeside Collision Centre",
+    "amount_usd": 2567.12,
+    "reason": "Refund not received",
+    "status": "Evidence ready",
+    "days_to_deadline": 4,
+    "root_cause": "Delivery query",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Return approval",
+      "Credit memo",
+      "Refund transaction reference"
+    ]
+  },
+  {
+    "case_id": "DS-0093",
+    "customer": "Maple Collision Centre",
+    "amount_usd": 5307.44,
+    "reason": "Not as described",
+    "status": "Submitted",
+    "days_to_deadline": -1,
+    "root_cause": "Scan missing",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0094",
+    "customer": "Northstar Collision Centre",
+    "amount_usd": 895.8,
+    "reason": "Duplicate processing",
+    "status": "Accepted refund",
+    "days_to_deadline": 4,
+    "root_cause": "Partial credit",
+    "owner": "Maya Chen",
+    "evidence_required": [
+      "Both invoice references",
+      "Transaction references",
+      "Shipment evidence"
+    ]
+  },
+  {
+    "case_id": "DS-0095",
+    "customer": "Oakfield Collision Centre",
+    "amount_usd": 2285.67,
+    "reason": "Not as described",
+    "status": "Evidence ready",
+    "days_to_deadline": 5,
+    "root_cause": "Pickup delayed",
+    "owner": "Jordan Lee",
+    "evidence_required": [
+      "Ordered part specification",
+      "Dispatch photos",
+      "Return offer"
+    ]
+  },
+  {
+    "case_id": "DS-0096",
+    "customer": "Parkside Collision Centre",
+    "amount_usd": 4585.57,
+    "reason": "Merchandise not received",
+    "status": "Won",
+    "days_to_deadline": 10,
+    "root_cause": "Partial credit",
+    "owner": "Sam Rivera",
+    "evidence_required": [
+      "Order confirmation",
+      "Ship-to agreement",
+      "Proof of delivery"
+    ]
+  }
+]

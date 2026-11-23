@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,Return approval to pickup,Approved return and pickup address,"Escalate the stalled hand-off with the evidence needed by the receiving team, rather than sending a general follow-up to everyone.",Confirm the booking and tell the customer when to expect it.,Client desk to dispatch,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation

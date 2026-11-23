@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Westline Collections Portfolio</title>
+<meta name="description" content="Three connected projects for a fictional California parts distributor: a collections desk, a credit review, and an automated AR command center.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<header class="bar"><div class="wrap"><a class="brand" href="#top">Westline Collections Portfolio</a><nav aria-label="Sections"><a href="#phases">Three phases</a><a href="#impact">Results</a><a href="#method">How it was built</a></nav></div></header>
+<main id="top">
+  <section class="hero"><div class="wrap">
+    <h1>One collections desk, built three layers deep.</h1>
+    <p class="lead">Westline Auto Parts is a fictional four-yard distributor in California that sells parts on credit to body shops, garages, dealers and fleets. The three projects below take the same company from a manual desk to a system that runs itself every morning and proves its numbers before anyone reads them.</p>
+    <div class="btnrow"><a class="btn primary" href="index.html">Open the AR Command Center</a></div>
+  </div></section>
+
+  <section class="part" id="phases"><div class="wrap">
+    <h2>The three phases</h2>
+    <div class="phases" id="cards"></div>
+  </div></section>
+
+  <section class="part" id="impact"><div class="wrap">
+    <h2>What changed on the desk</h2>
+    <p class="lead" id="impactLead"></p>
+    <figure id="over60"></figure>
+    <figure id="collected"></figure>
+  </div></section>
+
+  <section class="part" id="method"><div class="wrap">
+    <h2>How it was built</h2>
+    <p>Everything runs on tools a growing company already has: Google Sheets, Apps Script, Gmail and Drive, at no added cost. Customer data never leaves the company's Google account.</p>
+    <p>Phase 3 reads the phase 1 workbook in place and never edits it, applies the credit method designed in phase 2 to every account each month, and checks its own totals before publishing: the AR export, the cleaned invoices and the sum of every account must agree to the cent.</p>
+    <p class="small muted">The company and every record are synthetic. The processes are the ones used on a real in-house collections desk.</p>
+  </div></section>
+</main>
+<footer><div class="wrap" id="foot"></div></footer>
+<script src="js/config.js"></script><script src="data/command-center.js"></script><script src="js/charts.js"></script>
+<script>
+(function () {
+  var W = window.WCC, S = window.SITE || {}, u = S.githubUser && S.githubUser !== 'YOUR-USERNAME' ? S.githubUser : null, base = u ? 'https://' + u + '.github.io/' : null;
+  function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;'); }
+  var h = W.history, first = h[0], last = h[h.length - 1];
+  var cards = [
+    ['Phase 1', 'Collections desk', 'A Google Sheets operating workbook with a ranked work queue, a collections dashboard, a month-end reconciliation SOP, a chargeback root-cause map and a 19-slide team playbook.', ['Older-than-60-day balances from ' + Math.round(first.over60 * 1000) / 10 + '% to ' + Math.round(last.over60 * 1000) / 10 + '% of AR', 'Card payments from ' + Math.round(first.card * 100) + '% to ' + Math.round(last.card * 100) + '% of collections'], base ? base + 'westline-collections/' : '#'],
+    ['Phase 2', 'Credit review and cash forecast', 'A seven-rule risk score for every account, limits sized to how each customer buys with a sign-off matrix, and a 13-week cash forecast back-tested against actual cash.', ['Forecast within 2% of the cash that arrived', 'Limits that no longer matched buying, found and sized'], base ? base + 'westline-credit-control/' : '#'],
+    ['Phase 3', 'AR Command Center', 'Runs the desk every morning: cleans the customer master, joins eight sheets into one view of every account, and publishes call lists, credit decisions, chargeback drafts and a management queue.', ['AR ties to the cent: ' + W.tieout.ex + ' in three places', W.recon.length + ' reconciliation checks and 44 tests, all passing'], 'index.html']];
+  document.getElementById('cards').innerHTML = cards.map(function (c) { return '<div><div class="n">' + c[0] + '</div><h3>' + esc(c[1]) + '</h3><p class="small">' + esc(c[2]) + '</p><ul class="small" style="padding-left:18px;margin:0 0 12px">' + c[3].map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul><a href="' + c[4] + '">Open ' + c[0].toLowerCase() + '</a></div>'; }).join('');
+  document.getElementById('impactLead').textContent = 'Monthly figures from the phase 1 workbook, ' + first.m + ' to ' + last.m + '. The stretch target of $600,000 a month was set in April 2026; the company target was $400,000.';
+  var mi = h.map(function (x) { return x.m; }).indexOf('Apr 2026');
+  CH.line(document.getElementById('over60'), h.map(function (x) { return { m: x.m.replace(' 20', " '"), v: x.over60 }; }), { label: 'Share of AR older than 60 days by month', fmt: function (v) { return Math.round(v * 1000) / 10 + '%'; }, marker: mi, markerText: 'Stretch target set' });
+  document.getElementById('over60').insertAdjacentHTML('beforeend', '<figcaption>Share of open AR older than 60 days, month end.</figcaption>');
+  CH.line(document.getElementById('collected'), h.map(function (x) { return { m: x.m.replace(' 20', " '"), v: x.collected }; }), { label: 'Cash collected by month', max: 800000, fmt: function (v) { return '$' + Math.round(v / 1000) + 'K'; }, marker: mi, markerText: 'Stretch target set' });
+  document.getElementById('collected').insertAdjacentHTML('beforeend', '<figcaption>Cash collected per month; October is month to date. Company target $400K.</figcaption>');
+  document.getElementById('foot').innerHTML = 'Westline Auto Parts is fictional; every record is synthetic.' + (S.authorName ? ' Built by ' + (S.authorLink ? '<a href="' + esc(S.authorLink) + '">' + esc(S.authorName) + '</a>' : esc(S.authorName)) + '.' : '');
+})();
+</script>
+</body>
+</html>

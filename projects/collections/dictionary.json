@@ -1,0 +1,42 @@
+[
+  {
+    "field": "account_id",
+    "type": "TEXT",
+    "definition": "Account id"
+  },
+  {
+    "field": "customer",
+    "type": "TEXT",
+    "definition": "Customer"
+  },
+  {
+    "field": "yard",
+    "type": "TEXT",
+    "definition": "Yard"
+  },
+  {
+    "field": "open_usd",
+    "type": "REAL",
+    "definition": "US dollars, illustrative amount"
+  },
+  {
+    "field": "days_from_invoice",
+    "type": "REAL",
+    "definition": "Days from invoice"
+  },
+  {
+    "field": "status",
+    "type": "TEXT",
+    "definition": "Status"
+  },
+  {
+    "field": "owner",
+    "type": "TEXT",
+    "definition": "Owner"
+  },
+  {
+    "field": "next_action",
+    "type": "TEXT",
+    "definition": "Next action"
+  }
+]

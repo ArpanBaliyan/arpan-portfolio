@@ -1,0 +1,181 @@
+﻿record_id,customer,account_id,issue,severity,proposed_fix,owner,status,severity_points
+DQ-0001,Alder Auto Body,W00001,Name inconsistency,High,Standardise display name and preserve original text.,Maya Chen,Deferred,1
+DQ-0002,Bluewater Auto Body,W00002,Name inconsistency,High,Standardise display name and preserve original text.,Jordan Lee,Applied,1
+DQ-0003,Cedar Auto Body,W00003,Invalid phone,High,Verify against a known contact channel.,Sam Rivera,Applied,2
+DQ-0004,Driftwood Auto Body,W00004,Missing owner,High,Assign the responsible relationship owner.,Maya Chen,Deferred,1
+DQ-0005,Eastbank Auto Body,W00005,Possible duplicate,Medium,"Compare address, tax reference and account history before merging.",Jordan Lee,Applied,1
+DQ-0006,Fairview Auto Body,W00006,Name inconsistency,Medium,Standardise display name and preserve original text.,Sam Rivera,Applied,2
+DQ-0007,Glenrock Auto Body,W00007,Missing owner,High,Assign the responsible relationship owner.,Maya Chen,Approved,2
+DQ-0008,Harbour Auto Body,W00008,Invalid phone,High,Verify against a known contact channel.,Jordan Lee,Applied,2
+DQ-0009,Ironwood Auto Body,W00009,Missing email,Low,Confirm the correct accounts-payable contact.,Sam Rivera,Deferred,2
+DQ-0010,Juniper Auto Body,W00010,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Maya Chen,Review,2
+DQ-0011,Kingsway Auto Body,W00011,Missing owner,Low,Assign the responsible relationship owner.,Jordan Lee,Deferred,2
+DQ-0012,Lakeside Auto Body,W00012,Missing owner,High,Assign the responsible relationship owner.,Sam Rivera,Applied,1
+DQ-0013,Maple Auto Body,W00013,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Maya Chen,Review,1
+DQ-0014,Northstar Auto Body,W00014,Postal code format,High,Preserve as text and confirm the five-digit format.,Jordan Lee,Approved,2
+DQ-0015,Oakfield Auto Body,W00015,Missing owner,Medium,Assign the responsible relationship owner.,Sam Rivera,Applied,3
+DQ-0016,Parkside Auto Body,W00016,Missing owner,Low,Assign the responsible relationship owner.,Maya Chen,Deferred,3
+DQ-0017,Quarry Auto Body,W00017,Name inconsistency,Medium,Standardise display name and preserve original text.,Jordan Lee,Approved,3
+DQ-0018,Redwood Auto Body,W00018,Name inconsistency,High,Standardise display name and preserve original text.,Sam Rivera,Review,1
+DQ-0019,Summit Auto Body,W00019,Missing owner,Low,Assign the responsible relationship owner.,Maya Chen,Deferred,3
+DQ-0020,Tidewater Auto Body,W00020,Name inconsistency,Medium,Standardise display name and preserve original text.,Jordan Lee,Deferred,1
+DQ-0021,Alder Repair Group,W00021,Possible duplicate,Medium,"Compare address, tax reference and account history before merging.",Sam Rivera,Applied,2
+DQ-0022,Bluewater Repair Group,W00022,Postal code format,Low,Preserve as text and confirm the five-digit format.,Maya Chen,Deferred,1
+DQ-0023,Cedar Repair Group,W00023,Missing email,High,Confirm the correct accounts-payable contact.,Jordan Lee,Approved,3
+DQ-0024,Driftwood Repair Group,W00024,Missing owner,Medium,Assign the responsible relationship owner.,Sam Rivera,Applied,1
+DQ-0025,Eastbank Repair Group,W00025,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Maya Chen,Review,3
+DQ-0026,Fairview Repair Group,W00026,Missing email,High,Confirm the correct accounts-payable contact.,Jordan Lee,Deferred,2
+DQ-0027,Glenrock Repair Group,W00027,Missing owner,High,Assign the responsible relationship owner.,Sam Rivera,Review,1
+DQ-0028,Harbour Repair Group,W00028,Postal code format,Low,Preserve as text and confirm the five-digit format.,Maya Chen,Review,3
+DQ-0029,Ironwood Repair Group,W00029,Name inconsistency,Medium,Standardise display name and preserve original text.,Jordan Lee,Review,2
+DQ-0030,Juniper Repair Group,W00030,Invalid phone,High,Verify against a known contact channel.,Sam Rivera,Review,3
+DQ-0031,Kingsway Repair Group,W00031,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Maya Chen,Review,3
+DQ-0032,Lakeside Repair Group,W00032,Invalid phone,High,Verify against a known contact channel.,Jordan Lee,Approved,3
+DQ-0033,Maple Repair Group,W00033,Name inconsistency,High,Standardise display name and preserve original text.,Sam Rivera,Applied,1
+DQ-0034,Northstar Repair Group,W00034,Missing owner,High,Assign the responsible relationship owner.,Maya Chen,Deferred,3
+DQ-0035,Oakfield Repair Group,W00035,Name inconsistency,High,Standardise display name and preserve original text.,Jordan Lee,Deferred,2
+DQ-0036,Parkside Repair Group,W00036,Missing email,Medium,Confirm the correct accounts-payable contact.,Sam Rivera,Applied,3
+DQ-0037,Quarry Repair Group,W00037,Name inconsistency,Low,Standardise display name and preserve original text.,Maya Chen,Deferred,3
+DQ-0038,Redwood Repair Group,W00038,Name inconsistency,High,Standardise display name and preserve original text.,Jordan Lee,Review,3
+DQ-0039,Summit Repair Group,W00039,Missing email,Medium,Confirm the correct accounts-payable contact.,Sam Rivera,Deferred,2
+DQ-0040,Tidewater Repair Group,W00040,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Maya Chen,Applied,1
+DQ-0041,Alder Fleet Services,W00041,Missing email,High,Confirm the correct accounts-payable contact.,Jordan Lee,Applied,2
+DQ-0042,Bluewater Fleet Services,W00042,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Sam Rivera,Deferred,1
+DQ-0043,Cedar Fleet Services,W00043,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Maya Chen,Applied,3
+DQ-0044,Driftwood Fleet Services,W00044,Missing email,Low,Confirm the correct accounts-payable contact.,Jordan Lee,Review,3
+DQ-0045,Eastbank Fleet Services,W00045,Name inconsistency,Medium,Standardise display name and preserve original text.,Sam Rivera,Applied,1
+DQ-0046,Fairview Fleet Services,W00046,Missing email,High,Confirm the correct accounts-payable contact.,Maya Chen,Applied,3
+DQ-0047,Glenrock Fleet Services,W00047,Name inconsistency,Low,Standardise display name and preserve original text.,Jordan Lee,Review,1
+DQ-0048,Harbour Fleet Services,W00048,Invalid phone,High,Verify against a known contact channel.,Sam Rivera,Deferred,1
+DQ-0049,Ironwood Fleet Services,W00049,Name inconsistency,High,Standardise display name and preserve original text.,Maya Chen,Deferred,3
+DQ-0050,Juniper Fleet Services,W00050,Missing owner,Low,Assign the responsible relationship owner.,Jordan Lee,Approved,2
+DQ-0051,Kingsway Fleet Services,W00051,Missing email,High,Confirm the correct accounts-payable contact.,Sam Rivera,Review,2
+DQ-0052,Lakeside Fleet Services,W00052,Postal code format,High,Preserve as text and confirm the five-digit format.,Maya Chen,Deferred,2
+DQ-0053,Maple Fleet Services,W00053,Name inconsistency,Medium,Standardise display name and preserve original text.,Jordan Lee,Deferred,2
+DQ-0054,Northstar Fleet Services,W00054,Postal code format,Low,Preserve as text and confirm the five-digit format.,Sam Rivera,Approved,1
+DQ-0055,Oakfield Fleet Services,W00055,Name inconsistency,Medium,Standardise display name and preserve original text.,Maya Chen,Review,2
+DQ-0056,Parkside Fleet Services,W00056,Name inconsistency,Medium,Standardise display name and preserve original text.,Jordan Lee,Deferred,2
+DQ-0057,Quarry Fleet Services,W00057,Possible duplicate,Medium,"Compare address, tax reference and account history before merging.",Sam Rivera,Deferred,3
+DQ-0058,Redwood Fleet Services,W00058,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Maya Chen,Review,3
+DQ-0059,Summit Fleet Services,W00059,Invalid phone,Low,Verify against a known contact channel.,Jordan Lee,Applied,2
+DQ-0060,Tidewater Fleet Services,W00060,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Sam Rivera,Review,3
+DQ-0061,Alder Motor Works,W00061,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Maya Chen,Deferred,3
+DQ-0062,Bluewater Motor Works,W00062,Postal code format,Low,Preserve as text and confirm the five-digit format.,Jordan Lee,Review,1
+DQ-0063,Cedar Motor Works,W00063,Invalid phone,Low,Verify against a known contact channel.,Sam Rivera,Review,3
+DQ-0064,Driftwood Motor Works,W00064,Missing owner,Medium,Assign the responsible relationship owner.,Maya Chen,Approved,3
+DQ-0065,Eastbank Motor Works,W00065,Postal code format,High,Preserve as text and confirm the five-digit format.,Jordan Lee,Deferred,2
+DQ-0066,Fairview Motor Works,W00066,Missing email,High,Confirm the correct accounts-payable contact.,Sam Rivera,Applied,2
+DQ-0067,Glenrock Motor Works,W00067,Invalid phone,Low,Verify against a known contact channel.,Maya Chen,Review,2
+DQ-0068,Harbour Motor Works,W00068,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Jordan Lee,Review,3
+DQ-0069,Ironwood Motor Works,W00069,Invalid phone,High,Verify against a known contact channel.,Sam Rivera,Review,2
+DQ-0070,Juniper Motor Works,W00070,Name inconsistency,Medium,Standardise display name and preserve original text.,Maya Chen,Review,2
+DQ-0071,Kingsway Motor Works,W00071,Missing owner,High,Assign the responsible relationship owner.,Jordan Lee,Approved,1
+DQ-0072,Lakeside Motor Works,W00072,Name inconsistency,Medium,Standardise display name and preserve original text.,Sam Rivera,Applied,3
+DQ-0073,Maple Motor Works,W00073,Missing email,Low,Confirm the correct accounts-payable contact.,Maya Chen,Deferred,1
+DQ-0074,Northstar Motor Works,W00074,Possible duplicate,Medium,"Compare address, tax reference and account history before merging.",Jordan Lee,Review,1
+DQ-0075,Oakfield Motor Works,W00075,Missing email,Low,Confirm the correct accounts-payable contact.,Sam Rivera,Approved,3
+DQ-0076,Parkside Motor Works,W00076,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Maya Chen,Deferred,1
+DQ-0077,Quarry Motor Works,W00077,Invalid phone,Low,Verify against a known contact channel.,Jordan Lee,Approved,1
+DQ-0078,Redwood Motor Works,W00078,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Sam Rivera,Review,2
+DQ-0079,Summit Motor Works,W00079,Invalid phone,High,Verify against a known contact channel.,Maya Chen,Applied,1
+DQ-0080,Tidewater Motor Works,W00080,Name inconsistency,Low,Standardise display name and preserve original text.,Jordan Lee,Deferred,2
+DQ-0081,Alder Collision Centre,W00081,Invalid phone,Medium,Verify against a known contact channel.,Sam Rivera,Review,3
+DQ-0082,Bluewater Collision Centre,W00082,Name inconsistency,Low,Standardise display name and preserve original text.,Maya Chen,Review,2
+DQ-0083,Cedar Collision Centre,W00083,Missing email,Low,Confirm the correct accounts-payable contact.,Jordan Lee,Review,1
+DQ-0084,Driftwood Collision Centre,W00084,Name inconsistency,Medium,Standardise display name and preserve original text.,Sam Rivera,Approved,2
+DQ-0085,Eastbank Collision Centre,W00085,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Maya Chen,Review,3
+DQ-0086,Fairview Collision Centre,W00086,Postal code format,Low,Preserve as text and confirm the five-digit format.,Jordan Lee,Review,2
+DQ-0087,Glenrock Collision Centre,W00087,Invalid phone,Low,Verify against a known contact channel.,Sam Rivera,Applied,3
+DQ-0088,Harbour Collision Centre,W00088,Name inconsistency,Medium,Standardise display name and preserve original text.,Maya Chen,Deferred,1
+DQ-0089,Ironwood Collision Centre,W00089,Missing email,High,Confirm the correct accounts-payable contact.,Jordan Lee,Approved,1
+DQ-0090,Juniper Collision Centre,W00090,Name inconsistency,High,Standardise display name and preserve original text.,Sam Rivera,Review,3
+DQ-0091,Kingsway Collision Centre,W00091,Invalid phone,Low,Verify against a known contact channel.,Maya Chen,Deferred,1
+DQ-0092,Lakeside Collision Centre,W00092,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Jordan Lee,Applied,3
+DQ-0093,Maple Collision Centre,W00093,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Sam Rivera,Review,2
+DQ-0094,Northstar Collision Centre,W00094,Name inconsistency,High,Standardise display name and preserve original text.,Maya Chen,Approved,3
+DQ-0095,Oakfield Collision Centre,W00095,Name inconsistency,Low,Standardise display name and preserve original text.,Jordan Lee,Applied,3
+DQ-0096,Parkside Collision Centre,W00096,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Sam Rivera,Deferred,3
+DQ-0097,Quarry Collision Centre,W00097,Name inconsistency,Medium,Standardise display name and preserve original text.,Maya Chen,Review,1
+DQ-0098,Redwood Collision Centre,W00098,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Jordan Lee,Deferred,2
+DQ-0099,Summit Collision Centre,W00099,Invalid phone,Medium,Verify against a known contact channel.,Sam Rivera,Deferred,3
+DQ-0100,Tidewater Collision Centre,W00100,Missing owner,High,Assign the responsible relationship owner.,Maya Chen,Review,1
+DQ-0101,Alder Parts Network,W00101,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Jordan Lee,Approved,1
+DQ-0102,Bluewater Parts Network,W00102,Missing owner,Low,Assign the responsible relationship owner.,Sam Rivera,Approved,2
+DQ-0103,Cedar Parts Network,W00103,Missing email,Low,Confirm the correct accounts-payable contact.,Maya Chen,Review,2
+DQ-0104,Driftwood Parts Network,W00104,Name inconsistency,Low,Standardise display name and preserve original text.,Jordan Lee,Approved,2
+DQ-0105,Eastbank Parts Network,W00105,Invalid phone,High,Verify against a known contact channel.,Sam Rivera,Approved,1
+DQ-0106,Fairview Parts Network,W00106,Postal code format,High,Preserve as text and confirm the five-digit format.,Maya Chen,Applied,2
+DQ-0107,Glenrock Parts Network,W00107,Missing email,High,Confirm the correct accounts-payable contact.,Jordan Lee,Review,1
+DQ-0108,Harbour Parts Network,W00108,Name inconsistency,High,Standardise display name and preserve original text.,Sam Rivera,Applied,2
+DQ-0109,Ironwood Parts Network,W00109,Invalid phone,Medium,Verify against a known contact channel.,Maya Chen,Review,2
+DQ-0110,Juniper Parts Network,W00110,Invalid phone,Medium,Verify against a known contact channel.,Jordan Lee,Applied,1
+DQ-0111,Kingsway Parts Network,W00111,Possible duplicate,Medium,"Compare address, tax reference and account history before merging.",Sam Rivera,Review,1
+DQ-0112,Lakeside Parts Network,W00112,Invalid phone,Low,Verify against a known contact channel.,Maya Chen,Approved,2
+DQ-0113,Maple Parts Network,W00113,Missing email,Medium,Confirm the correct accounts-payable contact.,Jordan Lee,Approved,3
+DQ-0114,Northstar Parts Network,W00114,Name inconsistency,High,Standardise display name and preserve original text.,Sam Rivera,Review,1
+DQ-0115,Oakfield Parts Network,W00115,Missing email,Medium,Confirm the correct accounts-payable contact.,Maya Chen,Approved,1
+DQ-0116,Parkside Parts Network,W00116,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Jordan Lee,Deferred,1
+DQ-0117,Quarry Parts Network,W00117,Postal code format,Low,Preserve as text and confirm the five-digit format.,Sam Rivera,Approved,3
+DQ-0118,Redwood Parts Network,W00118,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Maya Chen,Deferred,2
+DQ-0119,Summit Parts Network,W00119,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Jordan Lee,Review,2
+DQ-0120,Tidewater Parts Network,W00120,Missing email,High,Confirm the correct accounts-payable contact.,Sam Rivera,Review,1
+DQ-0121,Alder Service Garage,W00121,Name inconsistency,Medium,Standardise display name and preserve original text.,Maya Chen,Deferred,1
+DQ-0122,Bluewater Service Garage,W00122,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Jordan Lee,Review,2
+DQ-0123,Cedar Service Garage,W00123,Invalid phone,High,Verify against a known contact channel.,Sam Rivera,Review,1
+DQ-0124,Driftwood Service Garage,W00124,Missing owner,Medium,Assign the responsible relationship owner.,Maya Chen,Approved,3
+DQ-0125,Eastbank Service Garage,W00125,Missing email,Medium,Confirm the correct accounts-payable contact.,Jordan Lee,Deferred,2
+DQ-0126,Fairview Service Garage,W00126,Possible duplicate,Medium,"Compare address, tax reference and account history before merging.",Sam Rivera,Applied,2
+DQ-0127,Glenrock Service Garage,W00127,Postal code format,Low,Preserve as text and confirm the five-digit format.,Maya Chen,Approved,3
+DQ-0128,Harbour Service Garage,W00128,Missing email,High,Confirm the correct accounts-payable contact.,Jordan Lee,Review,3
+DQ-0129,Ironwood Service Garage,W00129,Invalid phone,Medium,Verify against a known contact channel.,Sam Rivera,Review,3
+DQ-0130,Juniper Service Garage,W00130,Missing email,Medium,Confirm the correct accounts-payable contact.,Maya Chen,Applied,3
+DQ-0131,Kingsway Service Garage,W00131,Invalid phone,High,Verify against a known contact channel.,Jordan Lee,Review,2
+DQ-0132,Lakeside Service Garage,W00132,Missing email,Medium,Confirm the correct accounts-payable contact.,Sam Rivera,Deferred,3
+DQ-0133,Maple Service Garage,W00133,Name inconsistency,Medium,Standardise display name and preserve original text.,Maya Chen,Deferred,2
+DQ-0134,Northstar Service Garage,W00134,Invalid phone,Low,Verify against a known contact channel.,Jordan Lee,Deferred,2
+DQ-0135,Oakfield Service Garage,W00135,Possible duplicate,Low,"Compare address, tax reference and account history before merging.",Sam Rivera,Deferred,2
+DQ-0136,Parkside Service Garage,W00136,Postal code format,High,Preserve as text and confirm the five-digit format.,Maya Chen,Review,2
+DQ-0137,Quarry Service Garage,W00137,Possible duplicate,Medium,"Compare address, tax reference and account history before merging.",Jordan Lee,Review,3
+DQ-0138,Redwood Service Garage,W00138,Name inconsistency,Medium,Standardise display name and preserve original text.,Sam Rivera,Deferred,3
+DQ-0139,Summit Service Garage,W00139,Invalid phone,High,Verify against a known contact channel.,Maya Chen,Approved,1
+DQ-0140,Tidewater Service Garage,W00140,Name inconsistency,High,Standardise display name and preserve original text.,Jordan Lee,Applied,2
+DQ-0141,Alder Vehicle Care,W00141,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Sam Rivera,Deferred,1
+DQ-0142,Bluewater Vehicle Care,W00142,Missing email,Low,Confirm the correct accounts-payable contact.,Maya Chen,Deferred,2
+DQ-0143,Cedar Vehicle Care,W00143,Missing email,Low,Confirm the correct accounts-payable contact.,Jordan Lee,Approved,1
+DQ-0144,Driftwood Vehicle Care,W00144,Missing owner,Low,Assign the responsible relationship owner.,Sam Rivera,Deferred,2
+DQ-0145,Eastbank Vehicle Care,W00145,Postal code format,Low,Preserve as text and confirm the five-digit format.,Maya Chen,Approved,2
+DQ-0146,Fairview Vehicle Care,W00146,Postal code format,High,Preserve as text and confirm the five-digit format.,Jordan Lee,Applied,2
+DQ-0147,Glenrock Vehicle Care,W00147,Invalid phone,Medium,Verify against a known contact channel.,Sam Rivera,Applied,3
+DQ-0148,Harbour Vehicle Care,W00148,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Maya Chen,Approved,3
+DQ-0149,Ironwood Vehicle Care,W00149,Name inconsistency,Low,Standardise display name and preserve original text.,Jordan Lee,Deferred,1
+DQ-0150,Juniper Vehicle Care,W00150,Name inconsistency,High,Standardise display name and preserve original text.,Sam Rivera,Approved,2
+DQ-0151,Kingsway Vehicle Care,W00151,Missing email,High,Confirm the correct accounts-payable contact.,Maya Chen,Applied,1
+DQ-0152,Lakeside Vehicle Care,W00152,Missing owner,High,Assign the responsible relationship owner.,Jordan Lee,Applied,2
+DQ-0153,Maple Vehicle Care,W00153,Missing email,High,Confirm the correct accounts-payable contact.,Sam Rivera,Deferred,2
+DQ-0154,Northstar Vehicle Care,W00154,Missing email,Low,Confirm the correct accounts-payable contact.,Maya Chen,Deferred,3
+DQ-0155,Oakfield Vehicle Care,W00155,Postal code format,Low,Preserve as text and confirm the five-digit format.,Jordan Lee,Deferred,2
+DQ-0156,Parkside Vehicle Care,W00156,Postal code format,Low,Preserve as text and confirm the five-digit format.,Sam Rivera,Applied,3
+DQ-0157,Quarry Vehicle Care,W00157,Missing email,High,Confirm the correct accounts-payable contact.,Maya Chen,Applied,3
+DQ-0158,Redwood Vehicle Care,W00158,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Jordan Lee,Deferred,1
+DQ-0159,Summit Vehicle Care,W00159,Name inconsistency,Low,Standardise display name and preserve original text.,Sam Rivera,Applied,2
+DQ-0160,Tidewater Vehicle Care,W00160,Name inconsistency,Low,Standardise display name and preserve original text.,Maya Chen,Deferred,3
+DQ-0161,Alder Auto Group,W00161,Postal code format,Medium,Preserve as text and confirm the five-digit format.,Jordan Lee,Approved,3
+DQ-0162,Bluewater Auto Group,W00162,Name inconsistency,Medium,Standardise display name and preserve original text.,Sam Rivera,Review,2
+DQ-0163,Cedar Auto Group,W00163,Possible duplicate,Medium,"Compare address, tax reference and account history before merging.",Maya Chen,Approved,1
+DQ-0164,Driftwood Auto Group,W00164,Postal code format,Low,Preserve as text and confirm the five-digit format.,Jordan Lee,Approved,2
+DQ-0165,Eastbank Auto Group,W00165,Missing email,Low,Confirm the correct accounts-payable contact.,Sam Rivera,Approved,1
+DQ-0166,Fairview Auto Group,W00166,Name inconsistency,Low,Standardise display name and preserve original text.,Maya Chen,Deferred,1
+DQ-0167,Glenrock Auto Group,W00167,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Jordan Lee,Review,2
+DQ-0168,Harbour Auto Group,W00168,Missing email,High,Confirm the correct accounts-payable contact.,Sam Rivera,Deferred,3
+DQ-0169,Ironwood Auto Group,W00169,Name inconsistency,High,Standardise display name and preserve original text.,Maya Chen,Review,2
+DQ-0170,Juniper Auto Group,W00170,Missing email,Medium,Confirm the correct accounts-payable contact.,Jordan Lee,Deferred,1
+DQ-0171,Kingsway Auto Group,W00171,Missing email,High,Confirm the correct accounts-payable contact.,Sam Rivera,Applied,2
+DQ-0172,Lakeside Auto Group,W00172,Possible duplicate,High,"Compare address, tax reference and account history before merging.",Maya Chen,Deferred,3
+DQ-0173,Maple Auto Group,W00173,Missing email,Medium,Confirm the correct accounts-payable contact.,Jordan Lee,Approved,3
+DQ-0174,Northstar Auto Group,W00174,Postal code format,Low,Preserve as text and confirm the five-digit format.,Sam Rivera,Applied,1
+DQ-0175,Oakfield Auto Group,W00175,Name inconsistency,Medium,Standardise display name and preserve original text.,Maya Chen,Approved,1
+DQ-0176,Parkside Auto Group,W00176,Name inconsistency,Medium,Standardise display name and preserve original text.,Jordan Lee,Deferred,2
+DQ-0177,Quarry Auto Group,W00177,Missing email,Low,Confirm the correct accounts-payable contact.,Sam Rivera,Deferred,1
+DQ-0178,Redwood Auto Group,W00178,Invalid phone,Low,Verify against a known contact channel.,Maya Chen,Deferred,1
+DQ-0179,Summit Auto Group,W00179,Missing email,Medium,Confirm the correct accounts-payable contact.,Jordan Lee,Deferred,1
+DQ-0180,Tidewater Auto Group,W00180,Missing owner,Low,Assign the responsible relationship owner.,Sam Rivera,Applied,1

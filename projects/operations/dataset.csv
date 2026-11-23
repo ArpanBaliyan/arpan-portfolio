@@ -1,0 +1,141 @@
+﻿ticket_id,customer,stage,elapsed_hours,target_hours,owner,status,next_action
+OP-0001,Alder Auto Body,Credit memo,100,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0002,Bluewater Auto Body,Refund,9,48,Cash application,Within target,Monitor the next hand-off.
+OP-0003,Cedar Auto Body,Credit memo,120,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0004,Driftwood Auto Body,Return approved,3,4,Client desk,Within target,Monitor the next hand-off.
+OP-0005,Eastbank Auto Body,Pickup,19,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0006,Fairview Auto Body,Return approved,1,4,Client desk,Within target,Monitor the next hand-off.
+OP-0007,Glenrock Auto Body,Credit memo,111,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0008,Harbour Auto Body,Credit memo,134,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0009,Ironwood Auto Body,Return approved,4,4,Client desk,Within target,Monitor the next hand-off.
+OP-0010,Juniper Auto Body,Return approved,6,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0011,Kingsway Auto Body,Return approved,9,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0012,Lakeside Auto Body,Pickup,147,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0013,Maple Auto Body,Yard scan,21,24,Yard team,Within target,Monitor the next hand-off.
+OP-0014,Northstar Auto Body,Pickup,129,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0015,Oakfield Auto Body,Pickup,123,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0016,Parkside Auto Body,Return approved,4,4,Client desk,Within target,Monitor the next hand-off.
+OP-0017,Quarry Auto Body,Return approved,11,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0018,Redwood Auto Body,Refund,107,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0019,Summit Auto Body,Return approved,6,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0020,Tidewater Auto Body,Credit memo,43,48,Returns,Within target,Monitor the next hand-off.
+OP-0021,Alder Repair Group,Pickup,10,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0022,Bluewater Repair Group,Return approved,10,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0023,Cedar Repair Group,Yard scan,48,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0024,Driftwood Repair Group,Pickup,142,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0025,Eastbank Repair Group,Refund,74,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0026,Fairview Repair Group,Return approved,12,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0027,Glenrock Repair Group,Refund,141,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0028,Harbour Repair Group,Credit memo,63,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0029,Ironwood Repair Group,Return approved,10,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0030,Juniper Repair Group,Yard scan,45,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0031,Kingsway Repair Group,Refund,124,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0032,Lakeside Repair Group,Refund,108,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0033,Maple Repair Group,Credit memo,39,48,Returns,Within target,Monitor the next hand-off.
+OP-0034,Northstar Repair Group,Yard scan,26,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0035,Oakfield Repair Group,Pickup,156,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0036,Parkside Repair Group,Refund,48,48,Cash application,Within target,Monitor the next hand-off.
+OP-0037,Quarry Repair Group,Pickup,12,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0038,Redwood Repair Group,Credit memo,117,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0039,Summit Repair Group,Credit memo,30,48,Returns,Within target,Monitor the next hand-off.
+OP-0040,Tidewater Repair Group,Yard scan,59,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0041,Alder Fleet Services,Yard scan,64,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0042,Bluewater Fleet Services,Pickup,162,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0043,Cedar Fleet Services,Yard scan,4,24,Yard team,Within target,Monitor the next hand-off.
+OP-0044,Driftwood Fleet Services,Refund,7,48,Cash application,Within target,Monitor the next hand-off.
+OP-0045,Eastbank Fleet Services,Credit memo,50,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0046,Fairview Fleet Services,Yard scan,67,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0047,Glenrock Fleet Services,Return approved,10,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0048,Harbour Fleet Services,Yard scan,59,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0049,Ironwood Fleet Services,Pickup,194,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0050,Juniper Fleet Services,Yard scan,17,24,Yard team,Within target,Monitor the next hand-off.
+OP-0051,Kingsway Fleet Services,Yard scan,66,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0052,Lakeside Fleet Services,Refund,64,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0053,Maple Fleet Services,Yard scan,69,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0054,Northstar Fleet Services,Refund,47,48,Cash application,Within target,Monitor the next hand-off.
+OP-0055,Oakfield Fleet Services,Refund,34,48,Cash application,Within target,Monitor the next hand-off.
+OP-0056,Parkside Fleet Services,Refund,35,48,Cash application,Within target,Monitor the next hand-off.
+OP-0057,Quarry Fleet Services,Credit memo,109,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0058,Redwood Fleet Services,Refund,63,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0059,Summit Fleet Services,Credit memo,121,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0060,Tidewater Fleet Services,Pickup,160,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0061,Alder Motor Works,Credit memo,54,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0062,Bluewater Motor Works,Return approved,7,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0063,Cedar Motor Works,Credit memo,46,48,Returns,Within target,Monitor the next hand-off.
+OP-0064,Driftwood Motor Works,Refund,129,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0065,Eastbank Motor Works,Refund,38,48,Cash application,Within target,Monitor the next hand-off.
+OP-0066,Fairview Motor Works,Pickup,177,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0067,Glenrock Motor Works,Refund,112,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0068,Harbour Motor Works,Yard scan,58,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0069,Ironwood Motor Works,Return approved,11,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0070,Juniper Motor Works,Yard scan,12,24,Yard team,Within target,Monitor the next hand-off.
+OP-0071,Kingsway Motor Works,Credit memo,46,48,Returns,Within target,Monitor the next hand-off.
+OP-0072,Lakeside Motor Works,Return approved,3,4,Client desk,Within target,Monitor the next hand-off.
+OP-0073,Maple Motor Works,Credit memo,63,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0074,Northstar Motor Works,Yard scan,23,24,Yard team,Within target,Monitor the next hand-off.
+OP-0075,Oakfield Motor Works,Pickup,112,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0076,Parkside Motor Works,Refund,32,48,Cash application,Within target,Monitor the next hand-off.
+OP-0077,Quarry Motor Works,Credit memo,44,48,Returns,Within target,Monitor the next hand-off.
+OP-0078,Redwood Motor Works,Pickup,141,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0079,Summit Motor Works,Pickup,22,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0080,Tidewater Motor Works,Pickup,145,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0081,Alder Collision Centre,Yard scan,41,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0082,Bluewater Collision Centre,Return approved,4,4,Client desk,Within target,Monitor the next hand-off.
+OP-0083,Cedar Collision Centre,Credit memo,58,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0084,Driftwood Collision Centre,Yard scan,15,24,Yard team,Within target,Monitor the next hand-off.
+OP-0085,Eastbank Collision Centre,Credit memo,104,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0086,Fairview Collision Centre,Credit memo,108,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0087,Glenrock Collision Centre,Yard scan,20,24,Yard team,Within target,Monitor the next hand-off.
+OP-0088,Harbour Collision Centre,Credit memo,30,48,Returns,Within target,Monitor the next hand-off.
+OP-0089,Ironwood Collision Centre,Yard scan,10,24,Yard team,Within target,Monitor the next hand-off.
+OP-0090,Juniper Collision Centre,Pickup,146,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0091,Kingsway Collision Centre,Return approved,6,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0092,Lakeside Collision Centre,Return approved,5,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0093,Maple Collision Centre,Yard scan,54,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0094,Northstar Collision Centre,Pickup,134,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0095,Oakfield Collision Centre,Return approved,9,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0096,Parkside Collision Centre,Yard scan,50,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0097,Quarry Collision Centre,Pickup,134,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0098,Redwood Collision Centre,Pickup,14,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0099,Summit Collision Centre,Pickup,90,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0100,Tidewater Collision Centre,Credit memo,37,48,Returns,Within target,Monitor the next hand-off.
+OP-0101,Alder Parts Network,Return approved,12,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0102,Bluewater Parts Network,Refund,43,48,Cash application,Within target,Monitor the next hand-off.
+OP-0103,Cedar Parts Network,Refund,123,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0104,Driftwood Parts Network,Pickup,197,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0105,Eastbank Parts Network,Refund,139,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0106,Fairview Parts Network,Pickup,178,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0107,Glenrock Parts Network,Refund,8,48,Cash application,Within target,Monitor the next hand-off.
+OP-0108,Harbour Parts Network,Refund,65,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0109,Ironwood Parts Network,Refund,78,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0110,Juniper Parts Network,Yard scan,26,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0111,Kingsway Parts Network,Return approved,9,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0112,Lakeside Parts Network,Credit memo,4,48,Returns,Within target,Monitor the next hand-off.
+OP-0113,Maple Parts Network,Return approved,8,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0114,Northstar Parts Network,Pickup,4,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0115,Oakfield Parts Network,Return approved,9,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0116,Parkside Parts Network,Return approved,8,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0117,Quarry Parts Network,Credit memo,116,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0118,Redwood Parts Network,Pickup,22,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0119,Summit Parts Network,Refund,46,48,Cash application,Within target,Monitor the next hand-off.
+OP-0120,Tidewater Parts Network,Pickup,103,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0121,Alder Service Garage,Yard scan,33,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0122,Bluewater Service Garage,Pickup,72,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0123,Cedar Service Garage,Return approved,10,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0124,Driftwood Service Garage,Return approved,2,4,Client desk,Within target,Monitor the next hand-off.
+OP-0125,Eastbank Service Garage,Pickup,204,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0126,Fairview Service Garage,Pickup,103,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0127,Glenrock Service Garage,Yard scan,31,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0128,Harbour Service Garage,Credit memo,84,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0129,Ironwood Service Garage,Yard scan,58,24,Yard team,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0130,Juniper Service Garage,Return approved,3,4,Client desk,Within target,Monitor the next hand-off.
+OP-0131,Kingsway Service Garage,Credit memo,69,48,Returns,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0132,Lakeside Service Garage,Refund,77,48,Cash application,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0133,Maple Service Garage,Pickup,84,72,Dispatch,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0134,Northstar Service Garage,Credit memo,30,48,Returns,Within target,Monitor the next hand-off.
+OP-0135,Oakfield Service Garage,Return approved,8,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0136,Parkside Service Garage,Yard scan,21,24,Yard team,Within target,Monitor the next hand-off.
+OP-0137,Quarry Service Garage,Return approved,3,4,Client desk,Within target,Monitor the next hand-off.
+OP-0138,Redwood Service Garage,Return approved,6,4,Client desk,Overdue,Confirm the missing hand-off evidence and agree a completion time.
+OP-0139,Summit Service Garage,Pickup,69,72,Dispatch,Within target,Monitor the next hand-off.
+OP-0140,Tidewater Service Garage,Return approved,4,4,Client desk,Within target,Monitor the next hand-off.

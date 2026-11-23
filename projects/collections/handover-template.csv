@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,"Delivered invoice, no return or credit","Invoice, delivery status, account statement",Put return and reconciliation issues with the team that can clear them. Give collectors a focused list of genuinely payable invoices.,Confirm payable amount and agree a payment date.,Collections specialist,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation

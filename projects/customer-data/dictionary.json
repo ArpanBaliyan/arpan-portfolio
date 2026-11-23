@@ -1,0 +1,47 @@
+[
+  {
+    "field": "record_id",
+    "type": "TEXT",
+    "definition": "Record id"
+  },
+  {
+    "field": "customer",
+    "type": "TEXT",
+    "definition": "Customer"
+  },
+  {
+    "field": "account_id",
+    "type": "TEXT",
+    "definition": "Account id"
+  },
+  {
+    "field": "issue",
+    "type": "TEXT",
+    "definition": "Issue"
+  },
+  {
+    "field": "severity",
+    "type": "TEXT",
+    "definition": "Severity"
+  },
+  {
+    "field": "proposed_fix",
+    "type": "TEXT",
+    "definition": "Proposed fix"
+  },
+  {
+    "field": "owner",
+    "type": "TEXT",
+    "definition": "Owner"
+  },
+  {
+    "field": "status",
+    "type": "TEXT",
+    "definition": "Status"
+  },
+  {
+    "field": "severity_points",
+    "type": "REAL",
+    "definition": "Severity points"
+  }
+]

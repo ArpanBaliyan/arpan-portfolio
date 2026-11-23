@@ -1,0 +1,65 @@
+﻿assessment_id,learner,week,module,score_pct,pass_mark_pct,coach,next_action
+TR-0001,Alex Morgan,1,Account checks,75,80,Maya Chen,Supervised practice and re-assessment
+TR-0002,Alex Morgan,2,Customer conversations,84,80,Jordan Lee,Progress to the next practical demonstration
+TR-0003,Alex Morgan,3,Follow-up discipline,61,80,Sam Rivera,Supervised practice and re-assessment
+TR-0004,Alex Morgan,4,Escalation practice,96,80,Maya Chen,Progress to the next practical demonstration
+TR-0005,Riley Park,1,Account checks,77,80,Jordan Lee,Supervised practice and re-assessment
+TR-0006,Riley Park,2,Customer conversations,72,80,Sam Rivera,Supervised practice and re-assessment
+TR-0007,Riley Park,3,Follow-up discipline,67,80,Maya Chen,Supervised practice and re-assessment
+TR-0008,Riley Park,4,Escalation practice,66,80,Jordan Lee,Supervised practice and re-assessment
+TR-0009,Taylor Quinn,1,Account checks,93,80,Sam Rivera,Progress to the next practical demonstration
+TR-0010,Taylor Quinn,2,Customer conversations,83,80,Maya Chen,Progress to the next practical demonstration
+TR-0011,Taylor Quinn,3,Follow-up discipline,97,80,Jordan Lee,Progress to the next practical demonstration
+TR-0012,Taylor Quinn,4,Escalation practice,85,80,Sam Rivera,Progress to the next practical demonstration
+TR-0013,Casey Brooks,1,Account checks,62,80,Maya Chen,Supervised practice and re-assessment
+TR-0014,Casey Brooks,2,Customer conversations,85,80,Jordan Lee,Progress to the next practical demonstration
+TR-0015,Casey Brooks,3,Follow-up discipline,74,80,Sam Rivera,Supervised practice and re-assessment
+TR-0016,Casey Brooks,4,Escalation practice,65,80,Maya Chen,Supervised practice and re-assessment
+TR-0017,Alex Morgan,1,Account checks,85,80,Jordan Lee,Progress to the next practical demonstration
+TR-0018,Alex Morgan,2,Customer conversations,93,80,Sam Rivera,Progress to the next practical demonstration
+TR-0019,Alex Morgan,3,Follow-up discipline,90,80,Maya Chen,Progress to the next practical demonstration
+TR-0020,Alex Morgan,4,Escalation practice,55,80,Jordan Lee,Supervised practice and re-assessment
+TR-0021,Riley Park,1,Account checks,80,80,Sam Rivera,Progress to the next practical demonstration
+TR-0022,Riley Park,2,Customer conversations,69,80,Maya Chen,Supervised practice and re-assessment
+TR-0023,Riley Park,3,Follow-up discipline,69,80,Jordan Lee,Supervised practice and re-assessment
+TR-0024,Riley Park,4,Escalation practice,88,80,Sam Rivera,Progress to the next practical demonstration
+TR-0025,Taylor Quinn,1,Account checks,68,80,Maya Chen,Supervised practice and re-assessment
+TR-0026,Taylor Quinn,2,Customer conversations,73,80,Jordan Lee,Supervised practice and re-assessment
+TR-0027,Taylor Quinn,3,Follow-up discipline,67,80,Sam Rivera,Supervised practice and re-assessment
+TR-0028,Taylor Quinn,4,Escalation practice,89,80,Maya Chen,Progress to the next practical demonstration
+TR-0029,Casey Brooks,1,Account checks,58,80,Jordan Lee,Supervised practice and re-assessment
+TR-0030,Casey Brooks,2,Customer conversations,64,80,Sam Rivera,Supervised practice and re-assessment
+TR-0031,Casey Brooks,3,Follow-up discipline,83,80,Maya Chen,Progress to the next practical demonstration
+TR-0032,Casey Brooks,4,Escalation practice,89,80,Jordan Lee,Progress to the next practical demonstration
+TR-0033,Alex Morgan,1,Account checks,91,80,Sam Rivera,Progress to the next practical demonstration
+TR-0034,Alex Morgan,2,Customer conversations,80,80,Maya Chen,Progress to the next practical demonstration
+TR-0035,Alex Morgan,3,Follow-up discipline,83,80,Jordan Lee,Progress to the next practical demonstration
+TR-0036,Alex Morgan,4,Escalation practice,88,80,Sam Rivera,Progress to the next practical demonstration
+TR-0037,Riley Park,1,Account checks,60,80,Maya Chen,Supervised practice and re-assessment
+TR-0038,Riley Park,2,Customer conversations,69,80,Jordan Lee,Supervised practice and re-assessment
+TR-0039,Riley Park,3,Follow-up discipline,77,80,Sam Rivera,Supervised practice and re-assessment
+TR-0040,Riley Park,4,Escalation practice,96,80,Maya Chen,Progress to the next practical demonstration
+TR-0041,Taylor Quinn,1,Account checks,98,80,Jordan Lee,Progress to the next practical demonstration
+TR-0042,Taylor Quinn,2,Customer conversations,100,80,Sam Rivera,Progress to the next practical demonstration
+TR-0043,Taylor Quinn,3,Follow-up discipline,94,80,Maya Chen,Progress to the next practical demonstration
+TR-0044,Taylor Quinn,4,Escalation practice,60,80,Jordan Lee,Supervised practice and re-assessment
+TR-0045,Casey Brooks,1,Account checks,80,80,Sam Rivera,Progress to the next practical demonstration
+TR-0046,Casey Brooks,2,Customer conversations,76,80,Maya Chen,Supervised practice and re-assessment
+TR-0047,Casey Brooks,3,Follow-up discipline,55,80,Jordan Lee,Supervised practice and re-assessment
+TR-0048,Casey Brooks,4,Escalation practice,75,80,Sam Rivera,Supervised practice and re-assessment
+TR-0049,Alex Morgan,1,Account checks,93,80,Maya Chen,Progress to the next practical demonstration
+TR-0050,Alex Morgan,2,Customer conversations,86,80,Jordan Lee,Progress to the next practical demonstration
+TR-0051,Alex Morgan,3,Follow-up discipline,89,80,Sam Rivera,Progress to the next practical demonstration
+TR-0052,Alex Morgan,4,Escalation practice,100,80,Maya Chen,Progress to the next practical demonstration
+TR-0053,Riley Park,1,Account checks,59,80,Jordan Lee,Supervised practice and re-assessment
+TR-0054,Riley Park,2,Customer conversations,66,80,Sam Rivera,Supervised practice and re-assessment
+TR-0055,Riley Park,3,Follow-up discipline,70,80,Maya Chen,Supervised practice and re-assessment
+TR-0056,Riley Park,4,Escalation practice,65,80,Jordan Lee,Supervised practice and re-assessment
+TR-0057,Taylor Quinn,1,Account checks,58,80,Sam Rivera,Supervised practice and re-assessment
+TR-0058,Taylor Quinn,2,Customer conversations,76,80,Maya Chen,Supervised practice and re-assessment
+TR-0059,Taylor Quinn,3,Follow-up discipline,56,80,Jordan Lee,Supervised practice and re-assessment
+TR-0060,Taylor Quinn,4,Escalation practice,78,80,Sam Rivera,Supervised practice and re-assessment
+TR-0061,Casey Brooks,1,Account checks,91,80,Maya Chen,Progress to the next practical demonstration
+TR-0062,Casey Brooks,2,Customer conversations,60,80,Jordan Lee,Supervised practice and re-assessment
+TR-0063,Casey Brooks,3,Follow-up discipline,78,80,Sam Rivera,Supervised practice and re-assessment
+TR-0064,Casey Brooks,4,Escalation practice,87,80,Maya Chen,Progress to the next practical demonstration

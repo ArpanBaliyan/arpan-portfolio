@@ -1,0 +1,2 @@
+﻿reference,situation,evidence,decision_required,next_action,owner,due_date,dependency,status,outcome_confirmation
+EXAMPLE-001,Relationship map,"Central AP contact, branch stakeholders, decision process","Resolve the service obstacle, confirm ownership with the client, and pursue growth only when the relationship is ready for it.",Agree the most efficient contact route and review cadence.,Account owner,2026-11-02,Confirm the source evidence,Open,Awaiting confirmation
